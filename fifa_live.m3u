@@ -1,13 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 05:15:19 AM 18-05-2026
+#last update time: 05:30:21 AM 18-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/71/c8/4a/92/71c84a92-39be-4b7e-8a64-a0f8ea20c059.png" group-title="FIFA Live", United FC v UB Mingoes | BFA Senior League 2025/2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=22456bb7b8cb38d9918abaa359453fa3:5de9fbc9168d5615abf5d68612afc6d2
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_12_09_30_50_c7c527cb-50b5-4dcd-a266-e7dfb809abca/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779049800
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/7c/24/9e/ca/7c249eca-d00d-4227-9f95-0cdfe4771c2c.png" group-title="FIFA Live", Spartans FC v Roaring Lions FC | Anguilla Senior Men's League 2026
 #KODIPROP:inputstream.adaptive.license_type=clearkey

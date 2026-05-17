@@ -3,79 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "05:15:19 AM 18-05-2026",
-        "total_live": 9,
+        "last_update_time": "05:30:21 AM 18-05-2026",
+        "total_live": 8,
         "total_upcoming": 10
     },
     "matches": [
-        {
-            "id": "455a4038-f9f3-4375-a34a-1f4a2473e336",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "455a4038-f9f3-4375-a34a-1f4a2473e336",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "United FC v UB Mingoes | BFA Senior League 2025/2026",
-            "category": "livestream",
-            "urlSlug": "united-fc-vs-ub-mingoes",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/b6/51/b8/7b/b651b87b-336a-46a9-98e7-0195f117ebf7.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/71/c8/4a/92/71c84a92-39be-4b7e-8a64-a0f8ea20c059.png",
-            "freeMode": "FREE_ADS",
-            "title": "United FC v UB Mingoes | BFA Senior League 2025/2026",
-            "titleTemplateValues": {
-                "country": "Bahamas",
-                "match": "United FC v UB Mingoes",
-                "competition": "Bahamas Men's Soccer League",
-                "publisher-channel": "MA | Bahamas | BFA Senior League 2025/2026",
-                "association": "Bahamas",
-                "publisher": "MA | Bahamas",
-                "stadium": "Roscow A.L. Davies Fields",
-                "video-type": "Full Match Replays",
-                "team:united-fc": "United FC",
-                "team:ub-mingoes": "UB Mingoes",
-                "city": "Nassau",
-                "season": "BFA Senior League 2025/2026",
-                "stage": "3rd Place",
-                "global-stage": "3rd Place Match",
-                "organizer": "Bahamas",
-                "organizer-country": "Bahamas"
-            },
-            "startDate": "2026-05-17T20:31:00Z",
-            "endDate": "2026-05-17T23:28:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-17T21:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "United FC v UB Mingoes"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "BFA Senior League 2025/2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "3rd Place Match"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Bahamas"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_12_09_30_50_c7c527cb-50b5-4dcd-a266-e7dfb809abca/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779049800",
-                "decryption_keys": [
-                    "22456bb7b8cb38d9918abaa359453fa3:5de9fbc9168d5615abf5d68612afc6d2"
-                ]
-            }
-        },
         {
             "id": "90a4772b-bb66-4a45-afa2-db33567161fc",
             "channelId": "fifa-tournaments",
@@ -621,68 +553,6 @@
             }
         },
         {
-            "id": "340e93cd-2e46-4cbb-aa6b-398c445f4b5f",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "340e93cd-2e46-4cbb-aa6b-398c445f4b5f",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Weymouth Wales v UWI Blackbirds | BFA Premier League 2026",
-            "category": "livestream",
-            "urlSlug": "weymouth-wales-vs-uwi-blackbirds",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/f9/fc/5b/ae/f9fc5bae-7cbc-4802-a3c3-a6a0be479692.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/14/b2/03/b7/14b203b7-2e28-40f7-a382-d4079c134501.png",
-            "freeMode": "FREE_ADS",
-            "title": "Weymouth Wales v UWI Blackbirds | BFA Premier League 2026",
-            "titleTemplateValues": {
-                "publisher-channel": "MA | Barbados | BFA Premier League 2026 (Channel)",
-                "match": "Weymouth Wales v UWI Blackbirds",
-                "stadium": "BFA Technical Centre",
-                "association": "Barbados",
-                "team:weymouth-wales": "Weymouth Wales",
-                "global-stage": "Round 17",
-                "publisher": "MA | Barbados",
-                "stage": "Regular Season",
-                "city": "Saint Michael",
-                "competition": "BFA Premier League",
-                "country": "Barbados",
-                "season": "BFA Premier League 2026",
-                "team:uwi-blackbirds": "UWI Blackbirds",
-                "video-type": "Live Streams",
-                "organizer": "Barbados",
-                "organizer-country": "Barbados"
-            },
-            "startDate": "2026-05-17T23:50:00Z",
-            "endDate": "2026-05-18T02:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-18T00:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "upcoming",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Weymouth Wales v UWI Blackbirds"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "BFA Premier League 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 17"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Barbados"
-                }
-            ]
-        },
-        {
             "id": "3a3d7f69-787b-49eb-92ee-915d5ca50a04",
             "channelId": "fifa-tournaments",
             "catalogRedirectId": "3a3d7f69-787b-49eb-92ee-915d5ca50a04",
@@ -741,6 +611,68 @@
                     "kind": "caption",
                     "p": 1,
                     "value": "Aruba"
+                }
+            ]
+        },
+        {
+            "id": "340e93cd-2e46-4cbb-aa6b-398c445f4b5f",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "340e93cd-2e46-4cbb-aa6b-398c445f4b5f",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Weymouth Wales v UWI Blackbirds | BFA Premier League 2026",
+            "category": "livestream",
+            "urlSlug": "weymouth-wales-vs-uwi-blackbirds",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/f9/fc/5b/ae/f9fc5bae-7cbc-4802-a3c3-a6a0be479692.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/14/b2/03/b7/14b203b7-2e28-40f7-a382-d4079c134501.png",
+            "freeMode": "FREE_ADS",
+            "title": "Weymouth Wales v UWI Blackbirds | BFA Premier League 2026",
+            "titleTemplateValues": {
+                "publisher-channel": "MA | Barbados | BFA Premier League 2026 (Channel)",
+                "country": "Barbados",
+                "city": "Saint Michael",
+                "match": "Weymouth Wales v UWI Blackbirds",
+                "association": "Barbados",
+                "competition": "BFA Premier League",
+                "organizer-country": "Barbados",
+                "global-stage": "Round 17",
+                "stage": "Regular Season",
+                "team:uwi-blackbirds": "UWI Blackbirds",
+                "organizer": "Barbados",
+                "stadium": "BFA Technical Centre",
+                "publisher": "MA | Barbados",
+                "season": "BFA Premier League 2026",
+                "team:weymouth-wales": "Weymouth Wales",
+                "video-type": "Live Streams"
+            },
+            "startDate": "2026-05-18T00:05:00Z",
+            "endDate": "2026-05-18T02:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-18T00:05:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Weymouth Wales v UWI Blackbirds"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "BFA Premier League 2026"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 17"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Barbados"
                 }
             ]
         },
