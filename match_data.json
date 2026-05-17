@@ -3,7 +3,7 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "04:30:21 AM 18-05-2026",
+        "last_update_time": "04:45:20 AM 18-05-2026",
         "total_live": 7,
         "total_upcoming": 13
     },
@@ -96,18 +96,18 @@
                 "association": "Bahamas",
                 "publisher": "MA | Bahamas",
                 "stadium": "Roscow A.L. Davies Fields",
+                "video-type": "Full Match Replays",
                 "team:united-fc": "United FC",
                 "team:ub-mingoes": "UB Mingoes",
                 "city": "Nassau",
                 "season": "BFA Senior League 2025/2026",
                 "stage": "3rd Place",
                 "global-stage": "3rd Place Match",
-                "video-type": "Live Streams",
                 "organizer": "Bahamas",
                 "organizer-country": "Bahamas"
             },
             "startDate": "2026-05-17T20:31:00Z",
-            "endDate": "2026-05-17T23:30:00Z",
+            "endDate": "2026-05-17T23:28:00Z",
             "ctxMetadata": {
                 "kickOffTime": "2026-05-17T21:00:00Z"
             },
