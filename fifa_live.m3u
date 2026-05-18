@@ -1,5 +1,10 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 06:45:21 PM 18-05-2026
+#last update time: 07:00:30 PM 18-05-2026
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/1b/6f/8e/e9/1b6f8ee9-7500-488c-bbaf-f7301ad80c35.png" group-title="FIFA Live", B19 FC v Mbeya Kwanza FC | Championship League 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b43053eeb98239979bf6eb6481cc0d8c:014d0038f8d6c38735a32f88a420b178
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_07_52_40_79830182-e090-461e-b683-e3c25a4467ca/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aswa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779108540
