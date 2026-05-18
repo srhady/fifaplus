@@ -3,9 +3,9 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "11:45:34 PM 18-05-2026",
+        "last_update_time": "12:00:51 AM 19-05-2026",
         "total_live": 7,
-        "total_upcoming": 0
+        "total_upcoming": 9
     },
     "matches": [
         {
@@ -39,7 +39,7 @@
                 "organizer-country": "Liberia"
             },
             "startDate": "2026-05-18T15:50:00Z",
-            "endDate": "2026-05-18T18:30:00Z",
+            "endDate": "2026-05-18T19:30:00Z",
             "ctxMetadata": {
                 "kickOffTime": "2026-05-18T16:00:00Z"
             },
@@ -484,6 +484,566 @@
                     "5fac05f3c309394badec64486667566a:8234f412dd1fd3f957ed6062e115ae9b"
                 ]
             }
+        },
+        {
+            "id": "8932d7f9-cae6-420e-9407-23f7d604d65c",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "8932d7f9-cae6-420e-9407-23f7d604d65c",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Brazil Juniors v Unistars | Division Honor 2025-26",
+            "category": "livestream",
+            "urlSlug": "brazil-juniors-vs-unistars",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/22/1d/cb/0b/221dcb0b-c792-4d48-903e-b725b280c421.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/cb/1a/52/2e/cb1a522e-e39a-452c-9657-c7308c000f5b.png",
+            "freeMode": "FREE_ADS",
+            "title": "Brazil Juniors v Unistars | Division Honor 2025-26",
+            "titleTemplateValues": {
+                "country": "Aruba",
+                "association": "Aruba",
+                "team:unistars": "Unistars",
+                "season": "Division Honor 2025-26",
+                "publisher": "MA | Aruba",
+                "competition": "Division Honor",
+                "stage": "Division Honor Liga-Plata Pool B Round 2",
+                "match": "Brazil Juniors v Unistars",
+                "stadium": "Sports Complex Guillermo Prospero Trinidad",
+                "publisher-channel": "MA | Aruba | Division Honor 2025-2026",
+                "team:brazil-juniors": "Brazil Juniors",
+                "global-stage": "Division Honor Plata",
+                "city": "Dakota",
+                "video-type": "Live Streams",
+                "organizer": "Aruba",
+                "organizer-country": "Aruba"
+            },
+            "startDate": "2026-05-19T00:20:00Z",
+            "endDate": "2026-05-19T03:00:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-19T00:30:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Brazil Juniors v Unistars"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Division Honor 2025-26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Division Honor Plata"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Aruba"
+                }
+            ]
+        },
+        {
+            "id": "34540af5-163c-454f-a680-a80aa0c0a286",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "34540af5-163c-454f-a680-a80aa0c0a286",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Barberian FC v Stand United | Championship League 2025/26",
+            "category": "livestream",
+            "urlSlug": "barberian-fc-vs-stand-united-fc",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/8d/e8/1e/5f/8de81e5f-21a5-43e5-8765-727619824312.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/5a/ed/ea/50/5aedea50-f1f2-4c72-be61-c886da4f8b9a.png",
+            "freeMode": "FREE_ADS",
+            "title": "Barberian FC v Stand United | Championship League 2025/26",
+            "titleTemplateValues": {
+                "stadium": "Filbert Bayi Stadium",
+                "team:stand-united-fc": "Stand United",
+                "association": "Tanzania",
+                "country": "Tanzania",
+                "competition": "Tanzania Championship League",
+                "global-stage": "Round 25",
+                "team:barberian-fc": "Barberian FC",
+                "publisher": "MA | Tanzania",
+                "publisher-channel": "MA | Tanzania | NBC Championship League 2025/26",
+                "stage": "Regular Season",
+                "city": "Kibaha",
+                "season": "Championship League 2025/26",
+                "video-type": "Live Streams",
+                "match": "Barberian FC v Stand United",
+                "organizer": "Tanzania",
+                "organizer-country": "Tanzania"
+            },
+            "startDate": "2026-05-19T12:50:00Z",
+            "endDate": "2026-05-19T15:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-19T13:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Barberian FC v Stand United"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Championship League 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 25"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Tanzania"
+                }
+            ]
+        },
+        {
+            "id": "7a53c418-9732-4aea-966f-1bd75baa9a0a",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "7a53c418-9732-4aea-966f-1bd75baa9a0a",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Heaven Eleven v LPRC Oilers | LFA First Division League 2025/26",
+            "category": "livestream",
+            "urlSlug": "heaven-eleven-vs-lprc-oilers",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/f6/3a/6c/ae/f63a6cae-0b9a-49dc-a45e-30daade219f8.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/92/9b/52/b1/929b52b1-0999-4647-820f-a55bbaeb737f.png",
+            "freeMode": "FREE_ADS",
+            "title": "Heaven Eleven v LPRC Oilers | LFA First Division League 2025/26",
+            "titleTemplateValues": {
+                "stage": "Regular Season",
+                "team:lprc-oilers": "LPRC Oilers",
+                "publisher-channel": "MA | Liberia | Liberia LFA First Division League 2025/2026",
+                "association": "Liberia",
+                "season": "LFA First Division League 2025/26",
+                "competition": "Liberia National League",
+                "country": "Liberia",
+                "team:heaven-eleven": "Heaven Eleven",
+                "global-stage": "Round 28",
+                "publisher": "MA | Liberia",
+                "city": "Paynesville",
+                "video-type": "Live Streams",
+                "match": "Heaven Eleven v LPRC Oilers",
+                "stadium": "SKD Annex",
+                "organizer": "Liberia",
+                "organizer-country": "Liberia"
+            },
+            "startDate": "2026-05-19T15:50:00Z",
+            "endDate": "2026-05-19T18:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-19T16:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Heaven Eleven v LPRC Oilers"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "LFA First Division League 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 28"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Liberia"
+                }
+            ]
+        },
+        {
+            "id": "6f48c490-f504-4305-ac73-79d241a17b5a",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "6f48c490-f504-4305-ac73-79d241a17b5a",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Wologisi FC v Black Man Warriors FC | LFA First Division League 2025/26",
+            "category": "livestream",
+            "urlSlug": "wologisi-fc-vs-black-man-warriors",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/f6/3a/6c/ae/f63a6cae-0b9a-49dc-a45e-30daade219f8.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/13/18/66/0e/1318660e-5cf7-423c-a637-15bd2e8ff0f0.png",
+            "freeMode": "FREE_ADS",
+            "title": "Wologisi FC v Black Man Warriors FC | LFA First Division League 2025/26",
+            "titleTemplateValues": {
+                "team:black-man-warriors": "Black Man Warriors FC",
+                "stage": "Regular Season",
+                "publisher-channel": "MA | Liberia | Liberia LFA First Division League 2025/2026",
+                "team:wologisi-fc": "Wologisi FC",
+                "association": "Liberia",
+                "season": "LFA First Division League 2025/26",
+                "stadium": "D-Tweh Field",
+                "competition": "Liberia National League",
+                "country": "Liberia",
+                "global-stage": "Round 28",
+                "city": "Monrovia",
+                "publisher": "MA | Liberia",
+                "video-type": "Live Streams",
+                "match": "Wologisi FC v Black Man Warriors FC",
+                "organizer": "Liberia",
+                "organizer-country": "Liberia"
+            },
+            "startDate": "2026-05-19T15:50:00Z",
+            "endDate": "2026-05-19T18:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-19T16:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Wologisi FC v Black Man Warriors FC"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "LFA First Division League 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 28"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Liberia"
+                }
+            ]
+        },
+        {
+            "id": "4f68c26d-4024-4766-8cce-41a9b64665d2",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "4f68c26d-4024-4766-8cce-41a9b64665d2",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Ports Authority FC v Bhantal FC | Leone Rock Premier League 2025-26",
+            "category": "livestream",
+            "urlSlug": "ports-authority-fc-vs-bhantal-fc",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/1a/8d/53/9a/1a8d539a-6303-4247-ae28-c0ef08d20cb5.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/3b/61/1f/55/3b611f55-d8ba-4dec-9c6e-178408332ecb.png",
+            "freeMode": "FREE_ADS",
+            "title": "Ports Authority FC v Bhantal FC | Leone Rock Premier League 2025-26",
+            "titleTemplateValues": {
+                "team:ports-authority-fc": "Ports Authority FC",
+                "stage": "Regular Season",
+                "country": "Sierra Leone",
+                "competition": "Premier League",
+                "stadium": "Approved School Field",
+                "match": "Ports Authority FC v Bhantal FC",
+                "global-stage": "Round 27",
+                "publisher-channel": "MA | Sierra Leone | Rock Premier League 2025-26",
+                "association": "Sierra Leone",
+                "team:bhantal-fc": "Bhantal FC",
+                "city": "Freetown",
+                "season": "Leone Rock Premier League 2025-26",
+                "publisher": "MA | Sierra Leone",
+                "video-type": "Live Streams",
+                "organizer": "Sierra Leone",
+                "organizer-country": "Sierra Leone"
+            },
+            "startDate": "2026-05-19T16:20:00Z",
+            "endDate": "2026-05-19T19:00:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-19T16:30:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Ports Authority FC v Bhantal FC"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Leone Rock Premier League 2025-26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 27"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Sierra Leone"
+                }
+            ]
+        },
+        {
+            "id": "eb6124c7-0c6e-4b37-a9fb-8a7bfc3ba538",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "eb6124c7-0c6e-4b37-a9fb-8a7bfc3ba538",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Wilberforce Strikers FC v Bo Rangers FC | Leone Rock Premier League 2025-26",
+            "category": "livestream",
+            "urlSlug": "wilberforce-strikers-fc-vs-bo-rangers-fc",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/1a/8d/53/9a/1a8d539a-6303-4247-ae28-c0ef08d20cb5.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/7f/ec/e2/e3/7fece2e3-3d41-423a-bf5a-efc7f390b0e9.png",
+            "freeMode": "FREE_ADS",
+            "title": "Wilberforce Strikers FC v Bo Rangers FC | Leone Rock Premier League 2025-26",
+            "titleTemplateValues": {
+                "match": "Wilberforce Strikers FC v Bo Rangers FC",
+                "stage": "Regular Season",
+                "country": "Sierra Leone",
+                "competition": "Premier League",
+                "team:wilberforce-strikers-fc": "Wilberforce Strikers FC",
+                "global-stage": "Round 27",
+                "publisher-channel": "MA | Sierra Leone | Rock Premier League 2025-26",
+                "team:bo-rangers-fc": "Bo Rangers FC",
+                "association": "Sierra Leone",
+                "stadium": "SLFA Academy Field",
+                "city": "Freetown",
+                "season": "Leone Rock Premier League 2025-26",
+                "publisher": "MA | Sierra Leone",
+                "video-type": "Live Streams",
+                "organizer": "Sierra Leone",
+                "organizer-country": "Sierra Leone"
+            },
+            "startDate": "2026-05-19T16:20:00Z",
+            "endDate": "2026-05-19T19:00:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-19T16:30:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Wilberforce Strikers FC v Bo Rangers FC"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Leone Rock Premier League 2025-26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 27"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Sierra Leone"
+                }
+            ]
+        },
+        {
+            "id": "e8b736cb-9547-46a9-a865-25e8885b3947",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "e8b736cb-9547-46a9-a865-25e8885b3947",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "ASKO v Binga FC | Ligue 1 Pro Orange 2025/26",
+            "category": "livestream",
+            "urlSlug": "asko-vs-binga-fc",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/34/83/cd/27/3483cd27-4676-4115-a7fe-d9172b8a2900.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/95/ca/fe/92/95cafe92-d4a0-4436-a285-790ba8bb599d.png",
+            "freeMode": "FREE_ADS",
+            "title": "ASKO v Binga FC | Ligue 1 Pro Orange 2025/26",
+            "titleTemplateValues": {
+                "competition": "Ligue 1 Pro Orange",
+                "match": "ASKO v Binga FC",
+                "team:asko": "ASKO",
+                "city": "Bamako",
+                "association": "Mali",
+                "global-stage": "Round 21",
+                "publisher": "MA | Mali",
+                "country": "Mali",
+                "team:binga-fc": "Binga FC",
+                "season": "Ligue 1 Pro Orange 2025/26",
+                "publisher-channel": "MA | Mali | Ligue 1 Pro Orange 2025/26",
+                "stage": "Regular Season",
+                "fifa-plus": "Mens (FIFA Plus)",
+                "stadium": "Mamadou Konate Stadium",
+                "video-type": "Live Streams",
+                "organizer": "Mali",
+                "organizer-country": "Mali"
+            },
+            "startDate": "2026-05-19T16:20:00Z",
+            "endDate": "2026-05-19T19:00:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-19T16:30:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "ASKO v Binga FC"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Ligue 1 Pro Orange 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 21"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Mali"
+                }
+            ]
+        },
+        {
+            "id": "66522399-1615-4af8-bdb5-3d3a6817b49d",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "66522399-1615-4af8-bdb5-3d3a6817b49d",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Derby Academie v Onze Createurs | Ligue 1 Pro Orange 2025/26",
+            "category": "livestream",
+            "urlSlug": "derby-academie-vs-onze-createurs",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/ac/59/f0/5a/ac59f05a-c2ad-43a2-9106-de83c6792b2a.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/99/67/c2/aa/9967c2aa-cf15-4940-9615-a35459f28785.png",
+            "freeMode": "FREE_ADS",
+            "title": "Derby Academie v Onze Createurs | Ligue 1 Pro Orange 2025/26",
+            "titleTemplateValues": {
+                "competition": "Ligue 1 Pro Orange",
+                "city": "Bamako",
+                "association": "Mali",
+                "global-stage": "Round 21",
+                "team:derby-academie": "Derby Academie",
+                "team:onze-createurs": "Onze Createurs",
+                "publisher": "MA | Mali",
+                "country": "Mali",
+                "match": "Derby Academie v Onze Createurs",
+                "season": "Ligue 1 Pro Orange 2025/26",
+                "publisher-channel": "MA | Mali | Ligue 1 Pro Orange 2025/26",
+                "stage": "Regular Season",
+                "stadium": "Stade Ouezzin Coulibaly",
+                "fifa-plus": "Mens (FIFA Plus)",
+                "video-type": "Live Streams",
+                "organizer": "Mali",
+                "organizer-country": "Mali"
+            },
+            "startDate": "2026-05-19T16:20:00Z",
+            "endDate": "2026-05-19T19:00:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-19T16:30:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Derby Academie v Onze Createurs"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Ligue 1 Pro Orange 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 21"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Mali"
+                }
+            ]
+        },
+        {
+            "id": "69198f6c-a4c0-4bcd-b28a-f562adec0c87",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "69198f6c-a4c0-4bcd-b28a-f562adec0c87",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "AS Douanes v ASC Gendrim | Super D-1 2025/26",
+            "category": "livestream",
+            "urlSlug": "as-douanes-vs-asc-gendrim",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/39/61/d8/4a/3961d84a-2170-4737-8a7c-42d7ae00e8f7.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/64/b7/7f/08/64b77f08-3b5a-4336-8af7-364731667812.png",
+            "freeMode": "FREE_ADS",
+            "title": "AS Douanes v ASC Gendrim | Super D-1 2025/26",
+            "titleTemplateValues": {
+                "stage": "Regular season",
+                "publisher": "MA | Mauritania",
+                "team:asc-gendrim": "ASC Gendrim",
+                "competition": "Super D-1",
+                "city": "Nouakchott",
+                "global-stage": "Round 25",
+                "association": "Mauritania",
+                "stadium": "Stade Cheikha Ould Boïdiya",
+                "team:as-douanes": "AS Douanes",
+                "publisher-channel": "MA | Mauritania | Super D1 2025/2026",
+                "season": "Super D-1 2025/26",
+                "match": "AS Douanes v ASC Gendrim",
+                "country": "Mauritania",
+                "video-type": "Live Streams",
+                "organizer": "Mauritania",
+                "organizer-country": "Mauritania"
+            },
+            "startDate": "2026-05-19T16:35:00Z",
+            "endDate": "2026-05-19T19:15:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-19T16:45:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "AS Douanes v ASC Gendrim"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Super D-1 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 25"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Mauritania"
+                }
+            ]
         }
     ]
 }
