@@ -1,23 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 06:15:20 AM 18-05-2026
+#last update time: 06:30:19 AM 18-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/7c/24/9e/ca/7c249eca-d00d-4227-9f95-0cdfe4771c2c.png" group-title="FIFA Live", Spartans FC v Roaring Lions FC | Anguilla Senior Men's League 2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bc1105499aa234fc80137224b27b2731:98722baa068a90c61d921dcfd793c393
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_12_08_41_23_5fe4d175-f128-4461-b984-12473d4d6f26/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779054540
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/fe/40/95/97/fe409597-1f7c-4f98-a3d7-fde66f8a7718.png" group-title="FIFA Live", Brittons Hill FC v Wotton FC | BFA Premier League 2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3988c3a9fa36353f9754e13adb574749:2f947645e280092d1a93f8003ca2bdc9
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_12_10_43_54_1d693b3e-96b6-4d61-a53d-6f36f4e7f441/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779054540
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/eb/c4/ff/cf/ebc4ffcf-b6ec-45b0-ab13-55991e9943e8.png" group-title="FIFA Live", Nacional v FC San Nicolas | Division Honor 2025-26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=261ee922976b3a3eb1abab476b895498:9393aa460653c3d8637df371a9b73096
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_12_09_18_12_e529efb7-d814-4ee4-a2df-61eec7e4a6b6/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779054840
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/59/65/4a/bb/59654abb-01d0-4e10-aa8b-10ae07a9a2b8.png" group-title="FIFA Live", Dublanc FC v Bombers FC | DFA Premier League 2026
 #KODIPROP:inputstream.adaptive.license_type=clearkey
