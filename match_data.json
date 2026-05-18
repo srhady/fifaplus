@@ -3,9 +3,9 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "10:45:29 PM 18-05-2026",
-        "total_live": 6,
-        "total_upcoming": 1
+        "last_update_time": "11:00:29 PM 18-05-2026",
+        "total_live": 7,
+        "total_upcoming": 0
     },
     "matches": [
         {
@@ -350,74 +350,6 @@
             }
         },
         {
-            "id": "bb568c22-0813-4c5f-b4ee-a1371581e275",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "bb568c22-0813-4c5f-b4ee-a1371581e275",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "AS Pompier v Nouakchott Academy | Super D-1 2025/26",
-            "category": "livestream",
-            "urlSlug": "as-pompier-vs-nouakchott-academy",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/39/61/d8/4a/3961d84a-2170-4737-8a7c-42d7ae00e8f7.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/53/7d/51/f6/537d51f6-2fe9-43c1-b8bf-cc4725db3507.png",
-            "freeMode": "FREE_ADS",
-            "title": "AS Pompier v Nouakchott Academy | Super D-1 2025/26",
-            "titleTemplateValues": {
-                "stage": "Regular season",
-                "publisher": "MA | Mauritania",
-                "competition": "Super D-1",
-                "city": "Nouakchott",
-                "global-stage": "Round 25",
-                "association": "Mauritania",
-                "stadium": "Stade Cheikha Ould Boïdiya",
-                "team:as-pompier": "AS Pompier",
-                "match": "AS Pompier v Nouakchott Academy",
-                "publisher-channel": "MA | Mauritania | Super D1 2025/2026",
-                "season": "Super D-1 2025/26",
-                "country": "Mauritania",
-                "team:nouakchott-academy": "Nouakchott Academy",
-                "video-type": "Live Streams",
-                "organizer": "Mauritania",
-                "organizer-country": "Mauritania"
-            },
-            "startDate": "2026-05-18T16:35:00Z",
-            "endDate": "2026-05-18T19:15:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-18T16:45:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "AS Pompier v Nouakchott Academy"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Super D-1 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 25"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Mauritania"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_10_07_15_a05266c4-125f-4842-b63d-94dcec148ae7/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779122040",
-                "decryption_keys": [
-                    "5fac05f3c309394badec64486667566a:8234f412dd1fd3f957ed6062e115ae9b"
-                ]
-            }
-        },
-        {
             "id": "2bd1f031-d2f8-42c9-88be-9497181d0a74",
             "channelId": "fifa-tournaments",
             "catalogRedirectId": "2bd1f031-d2f8-42c9-88be-9497181d0a74",
@@ -455,7 +387,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -477,7 +409,81 @@
                     "p": 1,
                     "value": "Guinea-Bissau"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_15_30_36_87851861-7c52-40e0-8351-bff61b0685b7/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Apor%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779122940",
+                "decryption_keys": [
+                    "c4570dd75f42382f8472c6e3d3583c21:e53c7e879f368594840f51dfc4e1046e"
+                ]
+            }
+        },
+        {
+            "id": "bb568c22-0813-4c5f-b4ee-a1371581e275",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "bb568c22-0813-4c5f-b4ee-a1371581e275",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "AS Pompier v Nouakchott Academy | Super D-1 2025/26",
+            "category": "livestream",
+            "urlSlug": "as-pompier-vs-nouakchott-academy",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/39/61/d8/4a/3961d84a-2170-4737-8a7c-42d7ae00e8f7.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/53/7d/51/f6/537d51f6-2fe9-43c1-b8bf-cc4725db3507.png",
+            "freeMode": "FREE_ADS",
+            "title": "AS Pompier v Nouakchott Academy | Super D-1 2025/26",
+            "titleTemplateValues": {
+                "stage": "Regular season",
+                "publisher": "MA | Mauritania",
+                "competition": "Super D-1",
+                "city": "Nouakchott",
+                "global-stage": "Round 25",
+                "association": "Mauritania",
+                "stadium": "Stade Cheikha Ould Boïdiya",
+                "team:as-pompier": "AS Pompier",
+                "match": "AS Pompier v Nouakchott Academy",
+                "publisher-channel": "MA | Mauritania | Super D1 2025/2026",
+                "season": "Super D-1 2025/26",
+                "country": "Mauritania",
+                "team:nouakchott-academy": "Nouakchott Academy",
+                "video-type": "Live Streams",
+                "organizer": "Mauritania",
+                "organizer-country": "Mauritania"
+            },
+            "startDate": "2026-05-18T16:52:00Z",
+            "endDate": "2026-05-18T19:15:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-18T16:45:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "started",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "AS Pompier v Nouakchott Academy"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Super D-1 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 25"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Mauritania"
+                }
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_10_07_15_a05266c4-125f-4842-b63d-94dcec148ae7/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779122040",
+                "decryption_keys": [
+                    "5fac05f3c309394badec64486667566a:8234f412dd1fd3f957ed6062e115ae9b"
+                ]
+            }
         }
     ]
 }
