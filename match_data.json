@@ -3,79 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "12:30:36 AM 19-05-2026",
-        "total_live": 5,
+        "last_update_time": "12:45:25 AM 19-05-2026",
+        "total_live": 4,
         "total_upcoming": 9
     },
     "matches": [
-        {
-            "id": "ee14be24-02f0-4be8-a0b6-369586df941e",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "ee14be24-02f0-4be8-a0b6-369586df941e",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Bea Mountain FC v Borough FC | LFA First Division League 2025/26",
-            "category": "livestream",
-            "urlSlug": "bea-mountain-vs-borough-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/f6/3a/6c/ae/f63a6cae-0b9a-49dc-a45e-30daade219f8.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/98/f9/00/2b/98f9002b-7029-4b36-8abb-7e955aa12a12.png",
-            "freeMode": "FREE_ADS",
-            "title": "Bea Mountain FC v Borough FC | LFA First Division League 2025/26",
-            "titleTemplateValues": {
-                "stage": "Regular Season",
-                "publisher-channel": "MA | Liberia | Liberia LFA First Division League 2025/2026",
-                "team:borough-fc": "Borough FC",
-                "stadium": "TUSA Field",
-                "match": "Bea Mountain FC v Borough FC",
-                "association": "Liberia",
-                "season": "LFA First Division League 2025/26",
-                "competition": "Liberia National League",
-                "country": "Liberia",
-                "team:bea-mountain": "Bea Mountain FC",
-                "global-stage": "Round 28",
-                "publisher": "MA | Liberia",
-                "city": "Gardnersville",
-                "video-type": "Live Streams",
-                "organizer": "Liberia",
-                "organizer-country": "Liberia"
-            },
-            "startDate": "2026-05-18T15:50:00Z",
-            "endDate": "2026-05-18T19:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-18T16:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Bea Mountain FC v Borough FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "LFA First Division League 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 28"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Liberia"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_13_31_12_a621b9cb-dd67-4468-b94c-1253cbb5f1d4/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779119340",
-                "decryption_keys": [
-                    "8a2f97b1177c3d4794eef696be0077a8:3abaa8f6d6281a1a7fb544ed078fe90a"
-                ]
-            }
-        },
         {
             "id": "8ef0c0d5-e75d-44e6-9d12-d0e306b0fd1f",
             "channelId": "fifa-tournaments",
@@ -244,7 +176,7 @@
                 "organizer-country": "Guinea-Bissau"
             },
             "startDate": "2026-05-18T16:50:00Z",
-            "endDate": "2026-05-18T19:30:00Z",
+            "endDate": "2026-05-18T20:30:00Z",
             "ctxMetadata": {
                 "kickOffTime": "2026-05-18T17:00:00Z"
             },

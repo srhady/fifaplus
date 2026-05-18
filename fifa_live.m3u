@@ -1,13 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 12:30:36 AM 19-05-2026
+#last update time: 12:45:25 AM 19-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/98/f9/00/2b/98f9002b-7029-4b36-8abb-7e955aa12a12.png" group-title="FIFA Live", Bea Mountain FC v Borough FC | LFA First Division League 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8a2f97b1177c3d4794eef696be0077a8:3abaa8f6d6281a1a7fb544ed078fe90a
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_13_31_12_a621b9cb-dd67-4468-b94c-1253cbb5f1d4/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779119340
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/d4/04/1a/7f/d4041a7f-e26d-4afd-94d5-4ab4b44e2063.png" group-title="FIFA Live", Falcons v BST Galaxy | Gambia GFF League 25/26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
