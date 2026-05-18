@@ -1,18 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 12:45:25 AM 19-05-2026
+#last update time: 01:00:45 AM 19-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/d4/04/1a/7f/d4041a7f-e26d-4afd-94d5-4ab4b44e2063.png" group-title="FIFA Live", Falcons v BST Galaxy | Gambia GFF League 25/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82698604e94c3e9fabf9493b9627784f:9bf1fadfd23860ec5ddc06eb475fe8bf
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_07_22_25_158279d9-f429-425b-b9a8-8b5ba7968e4f/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779121140
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/4c/fa/f3/41/4cfaf341-6483-41eb-bbaf-3b53a81ac794.png" group-title="FIFA Live", Old Edwardians FC v Bai Bureh Warriors FC | Leone Rock Premier League 2025-26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dac7703e4bbb35ee995d471f4695b938:6705453542a1154632e44b7995c52403
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_09_00_48_8ad3e7d3-80b3-435a-a993-d8751c2765e9/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779121140
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/0c/ca/13/13/0cca1313-4bb7-4935-8a1f-dba2ee6566e0.png" group-title="FIFA Live", UDIB v Cupelum FC | Campeonato Nacional de Futebol da 1a Divisão 2025/26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
