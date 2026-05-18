@@ -1,23 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 07:15:21 AM 18-05-2026
+#last update time: 07:30:21 AM 18-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/12/ec/0f/4b/12ec0f4b-7e05-4707-977a-528745207589.png" group-title="FIFA Live", Inter Nassau FC v Dynamos FC | BFA Senior League 2025/2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=076933b0eed1369eb7498f3596686a1b:abd831e3c1c64f7463bfb11d1dbeb9e0
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_12_09_30_53_2eb79723-a390-4c41-a1f3-e729f57c347f/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779058140
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/82/95/4f/77/82954f77-c86d-43ad-9fcb-e9d9ecf5c1e7.png" group-title="FIFA Live", St. Peters FC v Old Road United Jets | SKNFA Premier League 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cd98d51511d735528467c6c9a680adfc:1fc2cf53584395ab3c0489b917a24095
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_14_28_04_d5812ee2-c369-496f-9d2e-5a4d7b4063cb/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779058140
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/c9/29/0a/2f/c9290a2f-a7b1-439f-beb0-c3904ee69354.png" group-title="FIFA Live", Leo Victor v Broki | Suriname Major League 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7204c91b686f30cbbb2ab2a96939c980:3e43eeec614a4ab46a8ec3f576558aa1
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_17_15_54_52_0b5b4b23-d71c-4a31-b3a0-890ad14c8ac1/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Anld%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779058140
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/97/1d/2c/12/971d2c12-8898-4683-9dc4-bb0b2e741828.png" group-title="FIFA Live", Real Koyari v SV Atlantico Deportivo | Division Honor 2025-26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
