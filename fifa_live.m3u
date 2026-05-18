@@ -1,7 +1,7 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 05:45:19 AM 18-05-2026
+#last update time: 06:00:27 AM 18-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/7c/24/9e/ca/7c249eca-d00d-4227-9f95-0cdfe4771c2c.png" group-title="FIFA Live", Spartans FC v Roaring Lions FC | Anguilla Senior Men's League 2026
@@ -43,3 +43,8 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_14_28_04_d5812ee2-c369-496f-9d2e
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7204c91b686f30cbbb2ab2a96939c980:3e43eeec614a4ab46a8ec3f576558aa1
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_17_15_54_52_0b5b4b23-d71c-4a31-b3a0-890ad14c8ac1/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Anld%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779058140
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/97/1d/2c/12/971d2c12-8898-4683-9dc4-bb0b2e741828.png" group-title="FIFA Live", Real Koyari v SV Atlantico Deportivo | Division Honor 2025-26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=306e49fa795636778cbd72b8c7bb992a:a7c7888555bffe1eef9c70d943ad2e9a
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_12_09_18_17_1612ee68-c71c-453d-8fdf-f635ce3a66e9/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779061740
