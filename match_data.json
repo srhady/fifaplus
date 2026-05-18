@@ -3,8 +3,8 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "12:15:37 AM 19-05-2026",
-        "total_live": 7,
+        "last_update_time": "12:30:36 AM 19-05-2026",
+        "total_live": 5,
         "total_upcoming": 9
     },
     "matches": [
@@ -73,142 +73,6 @@
                 "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_13_31_12_a621b9cb-dd67-4468-b94c-1253cbb5f1d4/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779119340",
                 "decryption_keys": [
                     "8a2f97b1177c3d4794eef696be0077a8:3abaa8f6d6281a1a7fb544ed078fe90a"
-                ]
-            }
-        },
-        {
-            "id": "28d7c4ff-195b-44e6-b5da-498e74d11f3a",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "28d7c4ff-195b-44e6-b5da-498e74d11f3a",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Discoveries SA v LISCR FC | LFA First Division League 2025/26",
-            "category": "livestream",
-            "urlSlug": "discoveries-sa-vs-liscr-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/f6/3a/6c/ae/f63a6cae-0b9a-49dc-a45e-30daade219f8.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/6f/4e/94/2b/6f4e942b-3e40-4058-a651-76ef956baa2f.png",
-            "freeMode": "FREE_ADS",
-            "title": "Discoveries SA v LISCR FC | LFA First Division League 2025/26",
-            "titleTemplateValues": {
-                "match": "Discoveries SA v LISCR FC",
-                "stage": "Regular Season",
-                "publisher-channel": "MA | Liberia | Liberia LFA First Division League 2025/2026",
-                "team:discoveries-sa": "Discoveries SA",
-                "stadium": "TUSA Field",
-                "team:liscr-fc": "LISCR FC",
-                "association": "Liberia",
-                "season": "LFA First Division League 2025/26",
-                "competition": "Liberia National League",
-                "country": "Liberia",
-                "global-stage": "Round 26",
-                "publisher": "MA | Liberia",
-                "city": "Gardnersville",
-                "video-type": "Live Streams",
-                "organizer": "Liberia",
-                "organizer-country": "Liberia"
-            },
-            "startDate": "2026-05-18T15:50:00Z",
-            "endDate": "2026-05-18T18:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-18T16:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Discoveries SA v LISCR FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "LFA First Division League 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Liberia"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_13_31_00_1355cabf-f4de-47cf-ad5b-9520c3d6fe48/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779119340",
-                "decryption_keys": [
-                    "eb24a4dae456324c9fb7b9dd99c916ee:d69c3e5e09f143ef49f86376d630c6df"
-                ]
-            }
-        },
-        {
-            "id": "faf023e5-e0f2-4135-b5a0-28d4aec54ec6",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "faf023e5-e0f2-4135-b5a0-28d4aec54ec6",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Watanga FC v Gardnersville FC | LFA First Division League 2025/26",
-            "category": "livestream",
-            "urlSlug": "watanga-fc-vs-gardnersville-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/f6/3a/6c/ae/f63a6cae-0b9a-49dc-a45e-30daade219f8.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/2e/ea/d0/18/2eead018-d960-4620-bec1-006afa3ad5cc.png",
-            "freeMode": "FREE_ADS",
-            "title": "Watanga FC v Gardnersville FC | LFA First Division League 2025/26",
-            "titleTemplateValues": {
-                "stage": "Regular Season",
-                "publisher-channel": "MA | Liberia | Liberia LFA First Division League 2025/2026",
-                "match": "Watanga FC v Gardnersville FC",
-                "association": "Liberia",
-                "team:gardnersville-fc": "Gardnersville FC",
-                "season": "LFA First Division League 2025/26",
-                "competition": "Liberia National League",
-                "country": "Liberia",
-                "team:watanga-fc": "Watanga FC",
-                "global-stage": "Round 28",
-                "publisher": "MA | Liberia",
-                "city": "Paynesville",
-                "video-type": "Live Streams",
-                "stadium": "SKD Annex",
-                "organizer": "Liberia",
-                "organizer-country": "Liberia"
-            },
-            "startDate": "2026-05-18T15:50:00Z",
-            "endDate": "2026-05-18T18:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-18T16:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Watanga FC v Gardnersville FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "LFA First Division League 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 28"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Liberia"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_13_31_05_2c72d26e-edb0-441a-a170-23098103e6ab/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779119340",
-                "decryption_keys": [
-                    "e4bbf8f2ea9734789af5c100c57fb825:66e75e5b6700a8b950d0a0ed43ff3d94"
                 ]
             }
         },

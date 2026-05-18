@@ -1,23 +1,13 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 12:15:37 AM 19-05-2026
+#last update time: 12:30:36 AM 19-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/98/f9/00/2b/98f9002b-7029-4b36-8abb-7e955aa12a12.png" group-title="FIFA Live", Bea Mountain FC v Borough FC | LFA First Division League 2025/26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8a2f97b1177c3d4794eef696be0077a8:3abaa8f6d6281a1a7fb544ed078fe90a
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_13_31_12_a621b9cb-dd67-4468-b94c-1253cbb5f1d4/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779119340
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/6f/4e/94/2b/6f4e942b-3e40-4058-a651-76ef956baa2f.png" group-title="FIFA Live", Discoveries SA v LISCR FC | LFA First Division League 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eb24a4dae456324c9fb7b9dd99c916ee:d69c3e5e09f143ef49f86376d630c6df
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_13_31_00_1355cabf-f4de-47cf-ad5b-9520c3d6fe48/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779119340
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/2e/ea/d0/18/2eead018-d960-4620-bec1-006afa3ad5cc.png" group-title="FIFA Live", Watanga FC v Gardnersville FC | LFA First Division League 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e4bbf8f2ea9734789af5c100c57fb825:66e75e5b6700a8b950d0a0ed43ff3d94
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_13_31_05_2c72d26e-edb0-441a-a170-23098103e6ab/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779119340
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/d4/04/1a/7f/d4041a7f-e26d-4afd-94d5-4ab4b44e2063.png" group-title="FIFA Live", Falcons v BST Galaxy | Gambia GFF League 25/26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
