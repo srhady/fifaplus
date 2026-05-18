@@ -1,18 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 06:45:20 AM 18-05-2026
+#last update time: 07:00:27 AM 18-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/59/65/4a/bb/59654abb-01d0-4e10-aa8b-10ae07a9a2b8.png" group-title="FIFA Live", Dublanc FC v Bombers FC | DFA Premier League 2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f71a8c17e7e33dc79233249186679d12:29add332a824dfd38330f803e64aba51
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_10_16_22_1d035cfa-170b-4829-a389-2f88416311d2/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779056340
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/6b/8a/72/3f/6b8a723f-bef0-4699-a9c5-dea675e60d58.png" group-title="FIFA Live", Mighty Avengers v We United FC | DFA Premier League 2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aa42bb8b126a3f72a5fbe67c1692eced:d93d7979a0514205a82af923999f1fa8
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_10_16_27_7bd897c8-e2d5-4b66-94b8-14e4c4bed687/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779056340
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/12/ec/0f/4b/12ec0f4b-7e05-4707-977a-528745207589.png" group-title="FIFA Live", Inter Nassau FC v Dynamos FC | BFA Senior League 2025/2026
 #KODIPROP:inputstream.adaptive.license_type=clearkey
