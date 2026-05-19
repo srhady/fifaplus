@@ -1,7 +1,7 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:15:23 PM 19-05-2026
+#last update time: 10:30:23 PM 19-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/92/9b/52/b1/929b52b1-0999-4647-820f-a55bbaeb737f.png" group-title="FIFA Live", Heaven Eleven v LPRC Oilers | LFA First Division League 2025/26
@@ -13,3 +13,18 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_13_31_19_48662b51-8f38-4d9c-b6d4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=50cce640c8753f2a84c4992468295f67:536dc60d1737de421d75fef046064633
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_13_31_15_3b6e23ea-9a68-4a6b-be94-cc9466e6e535/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779205740
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/3b/61/1f/55/3b611f55-d8ba-4dec-9c6e-178408332ecb.png" group-title="FIFA Live", Ports Authority FC v Bhantal FC | Leone Rock Premier League 2025-26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=81cdac37b3813dca9e63c93fdd8318ea:5a6982ed95766c60edb952d337a7e2f5
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_09_00_57_90bee807-1951-47eb-8b2d-99cdd5c5230f/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779207540
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/7f/ec/e2/e3/7fece2e3-3d41-423a-bf5a-efc7f390b0e9.png" group-title="FIFA Live", Wilberforce Strikers FC v Bo Rangers FC | Leone Rock Premier League 2025-26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ba6048438563be49714e8ee0e3c80f2:dc506ca8f655534592a6bff712d5f49a
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_09_00_52_422968fe-0d85-4df8-a936-70db5cb31bd3/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779207540
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/95/ca/fe/92/95cafe92-d4a0-4436-a285-790ba8bb599d.png" group-title="FIFA Live", ASKO v Binga FC | Ligue 1 Pro Orange 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=da6cc5938035305a980a64ec64762f93:8f60b3eb0122421c188e14feff48b370
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_18_15_44_25_632bc3be-091f-488d-a481-78c9ae5fd52d/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Abam%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779207540

@@ -3,9 +3,9 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "10:15:23 PM 19-05-2026",
-        "total_live": 2,
-        "total_upcoming": 5
+        "last_update_time": "10:30:23 PM 19-05-2026",
+        "total_live": 5,
+        "total_upcoming": 2
     },
     "matches": [
         {
@@ -157,32 +157,32 @@
             "freeMode": "FREE_ADS",
             "title": "Ports Authority FC v Bhantal FC | Leone Rock Premier League 2025-26",
             "titleTemplateValues": {
-                "team:ports-authority-fc": "Ports Authority FC",
-                "stage": "Regular Season",
-                "country": "Sierra Leone",
-                "competition": "Premier League",
-                "stadium": "Approved School Field",
-                "match": "Ports Authority FC v Bhantal FC",
-                "global-stage": "Round 27",
                 "publisher-channel": "MA | Sierra Leone | Rock Premier League 2025-26",
-                "association": "Sierra Leone",
-                "team:bhantal-fc": "Bhantal FC",
+                "country": "Sierra Leone",
                 "city": "Freetown",
+                "match": "Ports Authority FC v Bhantal FC",
+                "association": "Sierra Leone",
+                "competition": "Premier League",
+                "organizer-country": "Sierra Leone",
+                "team:ports-authority-fc": "Ports Authority FC",
+                "team:bhantal-fc": "Bhantal FC",
+                "global-stage": "Round 27",
+                "stage": "Regular Season",
+                "organizer": "Sierra Leone",
+                "stadium": "Approved School Field",
                 "season": "Leone Rock Premier League 2025-26",
                 "publisher": "MA | Sierra Leone",
-                "video-type": "Live Streams",
-                "organizer": "Sierra Leone",
-                "organizer-country": "Sierra Leone"
+                "video-type": "Live Streams"
             },
             "startDate": "2026-05-19T16:20:00Z",
             "endDate": "2026-05-19T19:00:00Z",
             "ctxMetadata": {
-                "kickOffTime": "2026-05-19T16:30:00Z"
+                "kickOffTime": "2026-05-19T16:23:00Z"
             },
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -204,7 +204,13 @@
                     "p": 1,
                     "value": "Sierra Leone"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_09_00_57_90bee807-1951-47eb-8b2d-99cdd5c5230f/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779207540",
+                "decryption_keys": [
+                    "81cdac37b3813dca9e63c93fdd8318ea:5a6982ed95766c60edb952d337a7e2f5"
+                ]
+            }
         },
         {
             "id": "eb6124c7-0c6e-4b37-a9fb-8a7bfc3ba538",
@@ -244,7 +250,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -266,7 +272,13 @@
                     "p": 1,
                     "value": "Sierra Leone"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_09_00_52_422968fe-0d85-4df8-a936-70db5cb31bd3/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779207540",
+                "decryption_keys": [
+                    "6ba6048438563be49714e8ee0e3c80f2:dc506ca8f655534592a6bff712d5f49a"
+                ]
+            }
         },
         {
             "id": "e8b736cb-9547-46a9-a865-25e8885b3947",
@@ -307,7 +319,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -329,70 +341,13 @@
                     "p": 1,
                     "value": "Mali"
                 }
-            ]
-        },
-        {
-            "id": "66522399-1615-4af8-bdb5-3d3a6817b49d",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "66522399-1615-4af8-bdb5-3d3a6817b49d",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Derby Academie v Onze Createurs | Ligue 1 Pro Orange 2025/26",
-            "category": "livestream",
-            "urlSlug": "derby-academie-vs-onze-createurs",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/ac/59/f0/5a/ac59f05a-c2ad-43a2-9106-de83c6792b2a.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/99/67/c2/aa/9967c2aa-cf15-4940-9615-a35459f28785.png",
-            "freeMode": "FREE_ADS",
-            "title": "Derby Academie v Onze Createurs | Ligue 1 Pro Orange 2025/26",
-            "titleTemplateValues": {
-                "competition": "Ligue 1 Pro Orange",
-                "city": "Bamako",
-                "association": "Mali",
-                "global-stage": "Round 21",
-                "team:derby-academie": "Derby Academie",
-                "team:onze-createurs": "Onze Createurs",
-                "publisher": "MA | Mali",
-                "country": "Mali",
-                "match": "Derby Academie v Onze Createurs",
-                "season": "Ligue 1 Pro Orange 2025/26",
-                "publisher-channel": "MA | Mali | Ligue 1 Pro Orange 2025/26",
-                "stage": "Regular Season",
-                "stadium": "Stade Ouezzin Coulibaly",
-                "fifa-plus": "Mens (FIFA Plus)",
-                "video-type": "Live Streams",
-                "organizer": "Mali",
-                "organizer-country": "Mali"
-            },
-            "startDate": "2026-05-19T16:25:00Z",
-            "endDate": "2026-05-19T19:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-19T16:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "upcoming",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Derby Academie v Onze Createurs"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Ligue 1 Pro Orange 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 21"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Mali"
-                }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_18_15_44_25_632bc3be-091f-488d-a481-78c9ae5fd52d/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Abam%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779207540",
+                "decryption_keys": [
+                    "da6cc5938035305a980a64ec64762f93:8f60b3eb0122421c188e14feff48b370"
+                ]
+            }
         },
         {
             "id": "69198f6c-a4c0-4bcd-b28a-f562adec0c87",
@@ -453,6 +408,69 @@
                     "kind": "caption",
                     "p": 1,
                     "value": "Mauritania"
+                }
+            ]
+        },
+        {
+            "id": "66522399-1615-4af8-bdb5-3d3a6817b49d",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "66522399-1615-4af8-bdb5-3d3a6817b49d",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Derby Academie v Onze Createurs | Ligue 1 Pro Orange 2025/26",
+            "category": "livestream",
+            "urlSlug": "derby-academie-vs-onze-createurs",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/ac/59/f0/5a/ac59f05a-c2ad-43a2-9106-de83c6792b2a.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/99/67/c2/aa/9967c2aa-cf15-4940-9615-a35459f28785.png",
+            "freeMode": "FREE_ADS",
+            "title": "Derby Academie v Onze Createurs | Ligue 1 Pro Orange 2025/26",
+            "titleTemplateValues": {
+                "competition": "Ligue 1 Pro Orange",
+                "city": "Bamako",
+                "association": "Mali",
+                "global-stage": "Round 21",
+                "team:derby-academie": "Derby Academie",
+                "team:onze-createurs": "Onze Createurs",
+                "publisher": "MA | Mali",
+                "country": "Mali",
+                "match": "Derby Academie v Onze Createurs",
+                "season": "Ligue 1 Pro Orange 2025/26",
+                "publisher-channel": "MA | Mali | Ligue 1 Pro Orange 2025/26",
+                "stage": "Regular Season",
+                "stadium": "Stade Ouezzin Coulibaly",
+                "fifa-plus": "Mens (FIFA Plus)",
+                "video-type": "Live Streams",
+                "organizer": "Mali",
+                "organizer-country": "Mali"
+            },
+            "startDate": "2026-05-19T16:40:00Z",
+            "endDate": "2026-05-19T19:00:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-19T16:30:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Derby Academie v Onze Createurs"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Ligue 1 Pro Orange 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 21"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Mali"
                 }
             ]
         }
