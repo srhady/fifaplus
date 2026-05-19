@@ -3,79 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "12:30:23 AM 20-05-2026",
-        "total_live": 7,
+        "last_update_time": "12:45:24 AM 20-05-2026",
+        "total_live": 6,
         "total_upcoming": 14
     },
     "matches": [
-        {
-            "id": "4f68c26d-4024-4766-8cce-41a9b64665d2",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "4f68c26d-4024-4766-8cce-41a9b64665d2",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Ports Authority FC v Bhantal FC | Leone Rock Premier League 2025-26",
-            "category": "livestream",
-            "urlSlug": "ports-authority-fc-vs-bhantal-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/1a/8d/53/9a/1a8d539a-6303-4247-ae28-c0ef08d20cb5.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/3b/61/1f/55/3b611f55-d8ba-4dec-9c6e-178408332ecb.png",
-            "freeMode": "FREE_ADS",
-            "title": "Ports Authority FC v Bhantal FC | Leone Rock Premier League 2025-26",
-            "titleTemplateValues": {
-                "publisher-channel": "MA | Sierra Leone | Rock Premier League 2025-26",
-                "country": "Sierra Leone",
-                "city": "Freetown",
-                "match": "Ports Authority FC v Bhantal FC",
-                "association": "Sierra Leone",
-                "competition": "Premier League",
-                "organizer-country": "Sierra Leone",
-                "team:ports-authority-fc": "Ports Authority FC",
-                "team:bhantal-fc": "Bhantal FC",
-                "global-stage": "Round 27",
-                "stage": "Regular Season",
-                "organizer": "Sierra Leone",
-                "stadium": "Approved School Field",
-                "season": "Leone Rock Premier League 2025-26",
-                "publisher": "MA | Sierra Leone",
-                "video-type": "Live Streams"
-            },
-            "startDate": "2026-05-19T16:20:00Z",
-            "endDate": "2026-05-19T19:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-19T16:23:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Ports Authority FC v Bhantal FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Leone Rock Premier League 2025-26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 27"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Sierra Leone"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_09_00_57_90bee807-1951-47eb-8b2d-99cdd5c5230f/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779207540",
-                "decryption_keys": [
-                    "81cdac37b3813dca9e63c93fdd8318ea:5a6982ed95766c60edb952d337a7e2f5"
-                ]
-            }
-        },
         {
             "id": "eb6124c7-0c6e-4b37-a9fb-8a7bfc3ba538",
             "channelId": "fifa-tournaments",
@@ -450,7 +382,7 @@
                 "organizer": "Mali",
                 "organizer-country": "Mali"
             },
-            "startDate": "2026-05-19T18:28:00Z",
+            "startDate": "2026-05-19T18:32:00Z",
             "endDate": "2026-05-19T21:00:00Z",
             "ctxMetadata": {
                 "kickOffTime": "2026-05-19T18:30:00Z"
