@@ -1,5 +1,15 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 09:45:20 PM 19-05-2026
+#last update time: 10:00:28 PM 19-05-2026
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/92/9b/52/b1/929b52b1-0999-4647-820f-a55bbaeb737f.png" group-title="FIFA Live", Heaven Eleven v LPRC Oilers | LFA First Division League 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8317c2969c373f418d8871f91f086156:9dfc4f8f041bf7c0fa7bf0aa132a5cc0
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_13_31_19_48662b51-8f38-4d9c-b6d4-0831277d48a6/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779205740
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/13/18/66/0e/1318660e-5cf7-423c-a637-15bd2e8ff0f0.png" group-title="FIFA Live", Wologisi FC v Black Man Warriors FC | LFA First Division League 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=50cce640c8753f2a84c4992468295f67:536dc60d1737de421d75fef046064633
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_13_31_15_3b6e23ea-9a68-4a6b-be94-cc9466e6e535/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779205740
