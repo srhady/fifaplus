@@ -3,9 +3,9 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "10:45:23 PM 19-05-2026",
-        "total_live": 6,
-        "total_upcoming": 1
+        "last_update_time": "11:00:27 PM 19-05-2026",
+        "total_live": 7,
+        "total_upcoming": 0
     },
     "matches": [
         {
@@ -448,7 +448,7 @@
                 "organizer": "Mali",
                 "organizer-country": "Mali"
             },
-            "startDate": "2026-05-19T16:50:00Z",
+            "startDate": "2026-05-19T16:45:00Z",
             "endDate": "2026-05-19T19:00:00Z",
             "ctxMetadata": {
                 "kickOffTime": "2026-05-19T16:30:00Z"
@@ -456,7 +456,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -478,7 +478,13 @@
                     "p": 1,
                     "value": "Mali"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_18_15_44_30_d12a835b-77b2-4334-8edb-1c5625358297/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Abam%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779209040",
+                "decryption_keys": [
+                    "2b1fe83b64ed32719895ef5f20c5fca7:c4cf777ea30513512b40b920222e8626"
+                ]
+            }
         }
     ]
 }

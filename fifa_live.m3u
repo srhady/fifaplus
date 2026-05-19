@@ -1,7 +1,7 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:45:23 PM 19-05-2026
+#last update time: 11:00:27 PM 19-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/92/9b/52/b1/929b52b1-0999-4647-820f-a55bbaeb737f.png" group-title="FIFA Live", Heaven Eleven v LPRC Oilers | LFA First Division League 2025/26
@@ -33,3 +33,8 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_18_15_44_25_632bc3be-091f-488d-a481
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3d900f9ac2d53a3586d9e3b07246c5a1:d1548b08205f06090fa91924377d09ad
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_10_07_22_7c694f44-d6d2-4844-a62a-887c02e0c53b/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779208440
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/99/67/c2/aa/9967c2aa-cf15-4940-9615-a35459f28785.png" group-title="FIFA Live", Derby Academie v Onze Createurs | Ligue 1 Pro Orange 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2b1fe83b64ed32719895ef5f20c5fca7:c4cf777ea30513512b40b920222e8626
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_18_15_44_30_d12a835b-77b2-4334-8edb-1c5625358297/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Abam%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779209040
