@@ -3,9 +3,9 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "11:45:20 PM 19-05-2026",
+        "last_update_time": "12:00:30 AM 20-05-2026",
         "total_live": 7,
-        "total_upcoming": 0
+        "total_upcoming": 16
     },
     "matches": [
         {
@@ -485,6 +485,997 @@
                     "2b1fe83b64ed32719895ef5f20c5fca7:c4cf777ea30513512b40b920222e8626"
                 ]
             }
+        },
+        {
+            "id": "fc1305b5-5a52-4b5c-b18b-5d9673c22aea",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "fc1305b5-5a52-4b5c-b18b-5d9673c22aea",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Afrique Football Elite v AS Bakaridjan | Ligue 1 Pro Orange 2025/26",
+            "category": "livestream",
+            "urlSlug": "afrique-football-elite-vs-as-bakaridjan",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/ac/59/f0/5a/ac59f05a-c2ad-43a2-9106-de83c6792b2a.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/05/53/d1/82/0553d182-c363-4b7f-bfe5-8e738fe9b139.png",
+            "freeMode": "FREE_ADS",
+            "title": "Afrique Football Elite v AS Bakaridjan | Ligue 1 Pro Orange 2025/26",
+            "titleTemplateValues": {
+                "competition": "Ligue 1 Pro Orange",
+                "city": "Bamako",
+                "association": "Mali",
+                "global-stage": "Round 21",
+                "team:as-bakaridjan": "AS Bakaridjan",
+                "publisher": "MA | Mali",
+                "country": "Mali",
+                "match": "Afrique Football Elite v AS Bakaridjan",
+                "team:afrique-football-elite": "Afrique Football Elite",
+                "season": "Ligue 1 Pro Orange 2025/26",
+                "publisher-channel": "MA | Mali | Ligue 1 Pro Orange 2025/26",
+                "stage": "Regular Season",
+                "fifa-plus": "Mens (FIFA Plus)",
+                "stadium": "Mamadou Konate Stadium",
+                "video-type": "Live Streams",
+                "organizer": "Mali",
+                "organizer-country": "Mali"
+            },
+            "startDate": "2026-05-19T18:20:00Z",
+            "endDate": "2026-05-19T21:00:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-19T18:30:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Afrique Football Elite v AS Bakaridjan"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Ligue 1 Pro Orange 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 21"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Mali"
+                }
+            ]
+        },
+        {
+            "id": "de1405c8-6e4d-4f69-926f-266e308643c6",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "de1405c8-6e4d-4f69-926f-266e308643c6",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "US Bougouba v FC Malicoura | Ligue 1 Pro Orange 2025/26",
+            "category": "livestream",
+            "urlSlug": "us-bougouba-vs-fc-malicoura",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/ac/59/f0/5a/ac59f05a-c2ad-43a2-9106-de83c6792b2a.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/04/2e/22/ac/042e22ac-2144-4b31-9567-e850d0989d51.png",
+            "freeMode": "FREE_ADS",
+            "title": "US Bougouba v FC Malicoura | Ligue 1 Pro Orange 2025/26",
+            "titleTemplateValues": {
+                "competition": "Ligue 1 Pro Orange",
+                "city": "Bamako",
+                "association": "Mali",
+                "global-stage": "Round 21",
+                "team:us-bougouba": "US Bougouba",
+                "publisher": "MA | Mali",
+                "country": "Mali",
+                "season": "Ligue 1 Pro Orange 2025/26",
+                "publisher-channel": "MA | Mali | Ligue 1 Pro Orange 2025/26",
+                "stage": "Regular Season",
+                "stadium": "Stade Ouezzin Coulibaly",
+                "team:fc-malicoura": "FC Malicoura",
+                "fifa-plus": "Mens (FIFA Plus)",
+                "match": "US Bougouba v FC Malicoura",
+                "video-type": "Live Streams",
+                "organizer": "Mali",
+                "organizer-country": "Mali"
+            },
+            "startDate": "2026-05-19T18:20:00Z",
+            "endDate": "2026-05-19T21:00:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-19T18:30:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "US Bougouba v FC Malicoura"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Ligue 1 Pro Orange 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 21"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Mali"
+                }
+            ]
+        },
+        {
+            "id": "307877da-9efb-41ac-99de-850b2baf8907",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "307877da-9efb-41ac-99de-850b2baf8907",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Bagatelle FC v Gall Hill | BFA Premier League 2026",
+            "category": "livestream",
+            "urlSlug": "bagatelle-fc-vs-gall-hill",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/f9/fc/5b/ae/f9fc5bae-7cbc-4802-a3c3-a6a0be479692.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/44/6c/90/58/446c9058-a3dc-4c63-8941-c59fb1b473ee.png",
+            "freeMode": "FREE_ADS",
+            "title": "Bagatelle FC v Gall Hill | BFA Premier League 2026",
+            "titleTemplateValues": {
+                "publisher-channel": "MA | Barbados | BFA Premier League 2026 (Channel)",
+                "team:gall-hill": "Gall Hill",
+                "country": "Barbados",
+                "city": "Saint Michael",
+                "match": "Bagatelle FC v Gall Hill",
+                "association": "Barbados",
+                "competition": "BFA Premier League",
+                "organizer-country": "Barbados",
+                "global-stage": "Round 17",
+                "stage": "Regular Season",
+                "organizer": "Барбадос",
+                "stadium": "BFA Technical Centre",
+                "publisher": "MA | Barbados",
+                "season": "BFA Premier League 2026",
+                "video-type": "Live Streams",
+                "team:bagatelle-fc": "Bagatelle FC"
+            },
+            "startDate": "2026-05-19T22:50:00Z",
+            "endDate": "2026-05-20T01:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-19T23:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Bagatelle FC v Gall Hill"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "BFA Premier League 2026"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 17"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Barbados"
+                }
+            ]
+        },
+        {
+            "id": "aa593f71-2f85-402c-b057-c2c7552f8e3c",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "aa593f71-2f85-402c-b057-c2c7552f8e3c",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Caravel v Estudiantes | Division Honor 2025-26",
+            "category": "livestream",
+            "urlSlug": "caravel-vs-estudiantes-aruba",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/22/1d/cb/0b/221dcb0b-c792-4d48-903e-b725b280c421.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/89/54/53/16/89545316-9dff-4d92-a021-13e6f5b0ef89.png",
+            "freeMode": "FREE_ADS",
+            "title": "Caravel v Estudiantes | Division Honor 2025-26",
+            "titleTemplateValues": {
+                "stage": "Division Honor Liga-Plata Pool A Round 2",
+                "country": "Aruba",
+                "association": "Aruba",
+                "team:estudiantes-aruba": "Estudiantes",
+                "season": "Division Honor 2025-26",
+                "publisher": "MA | Aruba",
+                "competition": "Division Honor",
+                "stadium": "Sports Complex Guillermo Prospero Trinidad",
+                "match": "Caravel v Estudiantes",
+                "publisher-channel": "MA | Aruba | Division Honor 2025-2026",
+                "global-stage": "Division Honor Plata",
+                "city": "Dakota",
+                "video-type": "Live Streams",
+                "team:caravel": "Caravel",
+                "organizer": "Aruba",
+                "organizer-country": "Aruba"
+            },
+            "startDate": "2026-05-20T00:20:00Z",
+            "endDate": "2026-05-20T03:00:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-20T00:30:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Caravel v Estudiantes"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Division Honor 2025-26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Division Honor Plata"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Aruba"
+                }
+            ]
+        },
+        {
+            "id": "a950b7ed-f228-46e1-983a-49f24ae1c955",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "a950b7ed-f228-46e1-983a-49f24ae1c955",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Ellerton FC v Paradise FC | BFA Premier League 2026",
+            "category": "livestream",
+            "urlSlug": "ellerton-fc-vs-paradise-fc",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/f9/fc/5b/ae/f9fc5bae-7cbc-4802-a3c3-a6a0be479692.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/07/3b/45/e9/073b45e9-0779-4564-be05-aa960d1966b5.png",
+            "freeMode": "FREE_ADS",
+            "title": "Ellerton FC v Paradise FC | BFA Premier League 2026",
+            "titleTemplateValues": {
+                "publisher-channel": "MA | Barbados | BFA Premier League 2026 (Channel)",
+                "country": "Barbados",
+                "team:ellerton-fc": "Ellerton FC",
+                "city": "Saint Michael",
+                "match": "Ellerton FC v Paradise FC",
+                "association": "Barbados",
+                "competition": "BFA Premier League",
+                "organizer-country": "Barbados",
+                "global-stage": "Round 17",
+                "stage": "Regular Season",
+                "organizer": "Барбадос",
+                "stadium": "BFA Technical Centre",
+                "publisher": "MA | Barbados",
+                "season": "BFA Premier League 2026",
+                "video-type": "Live Streams",
+                "team:paradise-fc": "Paradise FC"
+            },
+            "startDate": "2026-05-20T00:50:00Z",
+            "endDate": "2026-05-20T03:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-20T01:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Ellerton FC v Paradise FC"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "BFA Premier League 2026"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 17"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Barbados"
+                }
+            ]
+        },
+        {
+            "id": "4baf92f4-8cdb-42f9-9d0e-ce82bacce61f",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "4baf92f4-8cdb-42f9-9d0e-ce82bacce61f",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "South Melbourne FC v Vanuatu United FC | OFC Professional League 2026",
+            "category": "livestream",
+            "urlSlug": "south-melbourne-vs-vanuatu-united",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/f7/3e/d0/a0/f73ed0a0-89b0-481d-882e-8a7959a34a71.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/3f/6d/9f/9d/3f6d9f9d-bbf5-45a2-b38f-90ddf04456dd.jpg",
+            "freeMode": "FREE_ADS",
+            "title": "South Melbourne FC v Vanuatu United FC | OFC Professional League 2026",
+            "titleTemplateValues": {
+                "match": "South Melbourne FC v Vanuatu United FC",
+                "publisher": "OFC",
+                "association:australia": "Australia",
+                "team:south-melbourne": "South Melbourne FC",
+                "association:vanuatu": "Vanuatu",
+                "stage": "Semi-finals",
+                "publisher-channel": "OFC | OFC Pro League 2026 (Channel)",
+                "country:new-zealand": "New Zealand",
+                "team:vanuatu-united": "Vanuatu United FC",
+                "city": "Penrose",
+                "season": "OFC Professional League 2026",
+                "country:vanuatu": "Vanuatu",
+                "confederation": "OFC",
+                "stadium": "Go Media Stadium",
+                "fifa-plus": "Mens (FIFA Plus)",
+                "global-stage": "Semi-finals",
+                "country:australia": "Australia",
+                "competition": "OFC Professional League ",
+                "video-type": "Live Streams",
+                "organizer": "OFC"
+            },
+            "startDate": "2026-05-20T01:20:00Z",
+            "endDate": "2026-05-20T04:00:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-20T01:30:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "South Melbourne FC v Vanuatu United FC"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "OFC Professional League 2026"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Semi-finals"
+                }
+            ]
+        },
+        {
+            "id": "5e9da6fc-8a10-426e-b77f-5a89c33877cf",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "5e9da6fc-8a10-426e-b77f-5a89c33877cf",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Auckland FC v South Island United | OFC Professional League 2026",
+            "category": "livestream",
+            "urlSlug": "auckland-fc-vs-south-island-united",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/f7/3e/d0/a0/f73ed0a0-89b0-481d-882e-8a7959a34a71.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/32/13/00/4b/3213004b-e671-4c2a-b38b-7968f4602f8d.jpg",
+            "freeMode": "FREE_ADS",
+            "title": "Auckland FC v South Island United | OFC Professional League 2026",
+            "titleTemplateValues": {
+                "match": "Auckland FC v South Island United",
+                "publisher": "OFC",
+                "team:south-island-united": "South Island United",
+                "team:auckland-fc": "Auckland FC",
+                "stage": "Semi-finals",
+                "association": "New Zealand",
+                "publisher-channel": "OFC | OFC Pro League 2026 (Channel)",
+                "country": "New Zealand",
+                "city": "Penrose",
+                "season": "OFC Professional League 2026",
+                "confederation": "OFC",
+                "stadium": "Go Media Stadium",
+                "fifa-plus": "Mens (FIFA Plus)",
+                "global-stage": "Semi-finals",
+                "competition": "OFC Professional League ",
+                "video-type": "Live Streams",
+                "organizer": "OFC"
+            },
+            "startDate": "2026-05-20T06:20:00Z",
+            "endDate": "2026-05-20T09:00:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-20T06:30:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Auckland FC v South Island United"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "OFC Professional League 2026"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Semi-finals"
+                }
+            ]
+        },
+        {
+            "id": "ef08d824-d8b1-40a0-b385-45d5857a9b79",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "ef08d824-d8b1-40a0-b385-45d5857a9b79",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "FC OSA v CO Korhogo | Coupe Nationale de Côte d'Ivoire 2026",
+            "category": "livestream",
+            "urlSlug": "fc-osa-vs-co-korhogo",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/2a/80/33/d7/2a8033d7-a899-4ff0-a158-c205372f102c.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/75/e8/45/dd/75e845dd-d632-473f-894e-14ba72020050.png",
+            "freeMode": "FREE_ADS",
+            "title": "FC OSA v CO Korhogo | Coupe Nationale de Côte d'Ivoire 2026",
+            "titleTemplateValues": {
+                "publisher-channel": "MA | Côte d'Ivoire | CIV / Cup - Coupe Nationale de Côte d'Ivoire 2026 (Channel)",
+                "competition": "Coupe Nationale de Côte d'Ivoire",
+                "association": "Côte d'Ivoire",
+                "match": "FC OSA v CO Korhogo",
+                "season": "Coupe Nationale de Côte d'Ivoire 2026",
+                "team:fc-osa": "FC OSA",
+                "stage": "Demi-finale",
+                "city": "Bingerville",
+                "country": "Côte d'Ivoire",
+                "global-stage": "Semi-finals",
+                "stadium": "Complexe sportif de Bingerville",
+                "publisher": "MA | Côte d'Ivoire",
+                "team:co-korhogo": "CO Korhogo",
+                "video-type": "Live Streams",
+                "organizer": "Côte d'Ivoire",
+                "organizer-country": "Côte d'Ivoire"
+            },
+            "startDate": "2026-05-20T15:20:00Z",
+            "endDate": "2026-05-20T18:00:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-20T15:30:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "FC OSA v CO Korhogo"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Coupe Nationale de Côte d'Ivoire 2026"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Semi-finals"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Côte d'Ivoire"
+                }
+            ]
+        },
+        {
+            "id": "c3e13a06-6fd8-487f-8a05-97b277ee5657",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "c3e13a06-6fd8-487f-8a05-97b277ee5657",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "CR Témouchent v US Chaouia | Playoff Final | Ligue 2 2025/26",
+            "category": "livestream",
+            "urlSlug": "cr-temouchent-vs-us-chaouia",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/9f/0b/ea/a0/9f0beaa0-1e30-467e-8317-847f2cedbb7d.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/68/a8/5e/2d/68a85e2d-e8aa-4dde-b3a9-745f03ec93f5.png",
+            "freeMode": "FREE_ADS",
+            "title": "CR Témouchent v US Chaouia | Playoff Final | Ligue 2 2025/26",
+            "titleTemplateValues": {
+                "team:cr-temouchent": "CR Témouchent",
+                "stadium": "Hocine Ait Ahmed",
+                "publisher": "MA | Algeria",
+                "association": "Algeria",
+                "team:us-chaouia": "US Chaouia",
+                "publisher-channel": "MA | Algeria | Ligue 2 2025/2026",
+                "competition": "Ligue 2",
+                "global-stage": "Playoff Final",
+                "country": "Algeria",
+                "city": "Tizi Ouzou",
+                "stage": "Playoffs",
+                "season": "Ligue 2 2025/26",
+                "video-type": "Live Streams",
+                "match": "CR Témouchent v US Chaouia",
+                "organizer": "Algeria",
+                "organizer-country": "Algeria"
+            },
+            "startDate": "2026-05-20T15:50:00Z",
+            "endDate": "2026-05-20T18:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-20T16:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "CR Témouchent v US Chaouia"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Ligue 2 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Playoff Final"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Algeria"
+                }
+            ]
+        },
+        {
+            "id": "46987023-7bfd-4d99-b957-41f64c2b7b8c",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "46987023-7bfd-4d99-b957-41f64c2b7b8c",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Kauno rajono FA v FK TransINVEST | Moterų A lyga 2026",
+            "category": "livestream",
+            "urlSlug": "kauno-rajono-fa-vs-fk-transinvest",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/bd/c4/94/1b/bdc4941b-d298-4af7-aae1-86bcc62032fd.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/1a/79/bc/a4/1a79bca4-209c-4ed9-8628-1c16768b7fe4.png",
+            "freeMode": "FREE_ADS",
+            "title": "Kauno rajono FA v FK TransINVEST | Moterų A lyga 2026",
+            "titleTemplateValues": {
+                "team:fk-transinvest": "FK TransINVEST",
+                "match": "Kauno rajono FA v FK TransINVEST",
+                "season": "Moterų A lyga 2026",
+                "stadium": "Raudondvario Stadium",
+                "publisher-channel": "MA | Lithuania | Moterų A Lyga 2026 (Channel)",
+                "country": "Lithuania",
+                "team:kauno-rajono-fa": "Kauno rajono FA",
+                "competition": "Women's A league",
+                "global-stage": "Round 7",
+                "publisher": "MA | Lithuania ",
+                "city": "Kaunas",
+                "association": "Lithuania",
+                "stage": "Moterų A Lyga",
+                "video-type": "Live Streams",
+                "organizer": "Lithuania",
+                "organizer-country": "Lithuania"
+            },
+            "startDate": "2026-05-20T15:50:00Z",
+            "endDate": "2026-05-20T18:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-20T16:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Kauno rajono FA v FK TransINVEST"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Moterų A lyga 2026"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 7"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Lithuania"
+                }
+            ]
+        },
+        {
+            "id": "5dba5c64-7e8e-4b8c-b230-28375ec85983",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "5dba5c64-7e8e-4b8c-b230-28375ec85983",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Mbabane Swallows FC v Moneni Pirates FC | MTN Premier League 2025/26",
+            "category": "livestream",
+            "urlSlug": "mbabane-swallows-fc-vs-moneni-pirates-fc",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/60/0d/47/a5/600d47a5-7f38-45fb-9076-17056ded193b.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/c5/1b/c5/39/c51bc539-a644-4c93-8c9a-dfa4f8aebddc.png",
+            "freeMode": "FREE_ADS",
+            "title": "Mbabane Swallows FC v Moneni Pirates FC | MTN Premier League 2025/26",
+            "titleTemplateValues": {
+                "city": "Manzini",
+                "competition": "Premier League of Eswatini",
+                "country": "Eswatini",
+                "team:moneni-pirates-fc": "Moneni Pirates FC",
+                "association": "Eswatini",
+                "season": "MTN Premier League 2025/26",
+                "stage": "Regular Season",
+                "match": "Mbabane Swallows FC v Moneni Pirates FC",
+                "global-stage": "Round 29",
+                "stadium": "Mavuso Sports Centre",
+                "publisher": "MA | Eswatini",
+                "publisher-channel": "MA | Eswatini | Premier League 2025/2026",
+                "fifa-plus": "Mens (FIFA Plus)",
+                "team:mbabane-swallows-fc": "Mbabane Swallows FC",
+                "video-type": "Live Streams",
+                "organizer": "Eswatini",
+                "organizer-country": "Eswatini"
+            },
+            "startDate": "2026-05-20T15:50:00Z",
+            "endDate": "2026-05-20T18:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-20T16:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Mbabane Swallows FC v Moneni Pirates FC"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "MTN Premier League 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 29"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Eswatini"
+                }
+            ]
+        },
+        {
+            "id": "6d9f2156-7c1e-4925-a384-4230993697bf",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "6d9f2156-7c1e-4925-a384-4230993697bf",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Abacha City FC v Freetown City FC | Leone Rock Premier League 2025-26",
+            "category": "livestream",
+            "urlSlug": "abacha-city-fc-vs-freetown-city-fc",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/1a/8d/53/9a/1a8d539a-6303-4247-ae28-c0ef08d20cb5.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/1e/9a/81/32/1e9a8132-3381-4933-bff0-458f7d294d57.png",
+            "freeMode": "FREE_ADS",
+            "title": "Abacha City FC v Freetown City FC | Leone Rock Premier League 2025-26",
+            "titleTemplateValues": {
+                "stage": "Regular Season",
+                "country": "Sierra Leone",
+                "competition": "Premier League",
+                "team:abacha-city-fc": "Abacha City FC",
+                "stadium": "Approved School Field",
+                "global-stage": "Round 27",
+                "publisher-channel": "MA | Sierra Leone | Rock Premier League 2025-26",
+                "association": "Sierra Leone",
+                "match": "Abacha City FC v Freetown City FC",
+                "team:freetown-city-fc": "Freetown City FC",
+                "city": "Freetown",
+                "season": "Leone Rock Premier League 2025-26",
+                "publisher": "MA | Sierra Leone",
+                "video-type": "Live Streams",
+                "organizer": "Sierra Leone",
+                "organizer-country": "Sierra Leone"
+            },
+            "startDate": "2026-05-20T16:20:00Z",
+            "endDate": "2026-05-20T19:00:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-20T16:30:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Abacha City FC v Freetown City FC"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Leone Rock Premier League 2025-26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 27"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Sierra Leone"
+                }
+            ]
+        },
+        {
+            "id": "e95a7f7d-3e41-451d-bf7d-cad9a53a3541",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "e95a7f7d-3e41-451d-bf7d-cad9a53a3541",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Diamond Stars FC v Mighty Blackpool FC | Leone Rock Premier League 2025-26",
+            "category": "livestream",
+            "urlSlug": "diamond-stars-fc-vs-mighty-blackpool-fc",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/1a/8d/53/9a/1a8d539a-6303-4247-ae28-c0ef08d20cb5.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/dd/db/b2/b0/dddbb2b0-bf80-417b-8a60-0f61eb9f850f.png",
+            "freeMode": "FREE_ADS",
+            "title": "Diamond Stars FC v Mighty Blackpool FC | Leone Rock Premier League 2025-26",
+            "titleTemplateValues": {
+                "stage": "Regular Season",
+                "country": "Sierra Leone",
+                "stadium": "Koidu Sefadu Sports Stadium",
+                "competition": "Premier League",
+                "team:diamond-stars-fc": "Diamond Stars FC",
+                "team:mighty-blackpool-fc": "Mighty Blackpool FC",
+                "match": "Diamond Stars FC v Mighty Blackpool FC",
+                "global-stage": "Round 27",
+                "publisher-channel": "MA | Sierra Leone | Rock Premier League 2025-26",
+                "association": "Sierra Leone",
+                "season": "Leone Rock Premier League 2025-26",
+                "publisher": "MA | Sierra Leone",
+                "city": "Koidu Town",
+                "video-type": "Live Streams",
+                "organizer": "Sierra Leone",
+                "organizer-country": "Sierra Leone"
+            },
+            "startDate": "2026-05-20T16:20:00Z",
+            "endDate": "2026-05-20T19:00:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-20T16:30:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Diamond Stars FC v Mighty Blackpool FC"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Leone Rock Premier League 2025-26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 27"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Sierra Leone"
+                }
+            ]
+        },
+        {
+            "id": "e91ef1df-4f77-47db-a4a7-bfc5b61b5360",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "e91ef1df-4f77-47db-a4a7-bfc5b61b5360",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Star Sports Academy v FC Kallon | Leone Rock Premier League 2025-26",
+            "category": "livestream",
+            "urlSlug": "star-sports-academy-vs-fc-kallon",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/1a/8d/53/9a/1a8d539a-6303-4247-ae28-c0ef08d20cb5.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/67/b5/4c/69/67b54c69-559c-4bd2-b975-6371a303beb5.png",
+            "freeMode": "FREE_ADS",
+            "title": "Star Sports Academy v FC Kallon | Leone Rock Premier League 2025-26",
+            "titleTemplateValues": {
+                "stage": "Regular Season",
+                "country": "Sierra Leone",
+                "competition": "Premier League",
+                "team:star-sports-academy": "Star Sports Academy",
+                "global-stage": "Round 27",
+                "publisher-channel": "MA | Sierra Leone | Rock Premier League 2025-26",
+                "association": "Sierra Leone",
+                "team:fc-kallon": "FC Kallon",
+                "match": "Star Sports Academy v FC Kallon",
+                "stadium": "SLFA Academy Field",
+                "city": "Freetown",
+                "season": "Leone Rock Premier League 2025-26",
+                "publisher": "MA | Sierra Leone",
+                "video-type": "Live Streams",
+                "organizer": "Sierra Leone",
+                "organizer-country": "Sierra Leone"
+            },
+            "startDate": "2026-05-20T16:20:00Z",
+            "endDate": "2026-05-20T19:00:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-20T16:30:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Star Sports Academy v FC Kallon"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Leone Rock Premier League 2025-26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 27"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Sierra Leone"
+                }
+            ]
+        },
+        {
+            "id": "5132fa8b-14ff-4afd-b8af-82e572b5dbb6",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "5132fa8b-14ff-4afd-b8af-82e572b5dbb6",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Djoliba AC v USFAS | Ligue 1 Pro Orange 2025/26",
+            "category": "livestream",
+            "urlSlug": "djoliba-ac-vs-usfas",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/ac/59/f0/5a/ac59f05a-c2ad-43a2-9106-de83c6792b2a.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/ae/df/1b/b5/aedf1bb5-0713-407e-9f82-b42df8977fbc.png",
+            "freeMode": "FREE_ADS",
+            "title": "Djoliba AC v USFAS | Ligue 1 Pro Orange 2025/26",
+            "titleTemplateValues": {
+                "team:usfas": "USFAS",
+                "competition": "Ligue 1 Pro Orange",
+                "city": "Bamako",
+                "association": "Mali",
+                "global-stage": "Round 21",
+                "publisher": "MA | Mali",
+                "country": "Mali",
+                "match": "Djoliba AC v USFAS",
+                "season": "Ligue 1 Pro Orange 2025/26",
+                "publisher-channel": "MA | Mali | Ligue 1 Pro Orange 2025/26",
+                "stage": "Regular Season",
+                "fifa-plus": "Mens (FIFA Plus)",
+                "stadium": "Mamadou Konate Stadium",
+                "team:djoliba-ac": "Djoliba AC",
+                "video-type": "Live Streams",
+                "organizer": "Mali",
+                "organizer-country": "Mali"
+            },
+            "startDate": "2026-05-20T16:20:00Z",
+            "endDate": "2026-05-20T19:00:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-20T16:30:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Djoliba AC v USFAS"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Ligue 1 Pro Orange 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 21"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Mali"
+                }
+            ]
+        },
+        {
+            "id": "6328edf0-0b6c-439d-a9cd-488585974f99",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "6328edf0-0b6c-439d-a9cd-488585974f99",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "FC Tevragh Zeina v ASC Snim | Super D-1 2025/26",
+            "category": "livestream",
+            "urlSlug": "fc-tevragh-zeina-vs-asc-snim",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/39/61/d8/4a/3961d84a-2170-4737-8a7c-42d7ae00e8f7.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/a5/79/43/da/a57943da-88ed-492a-9419-5ec124361cb9.png",
+            "freeMode": "FREE_ADS",
+            "title": "FC Tevragh Zeina v ASC Snim | Super D-1 2025/26",
+            "titleTemplateValues": {
+                "stage": "Regular season",
+                "publisher": "MA | Mauritania",
+                "match": "FC Tevragh Zeina v ASC Snim",
+                "team:fc-tevragh-zeina": "FC Tevragh Zeina",
+                "competition": "Super D-1",
+                "city": "Nouakchott",
+                "global-stage": "Round 25",
+                "association": "Mauritania",
+                "stadium": "Stade Cheikha Ould Boïdiya",
+                "publisher-channel": "MA | Mauritania | Super D1 2025/2026",
+                "season": "Super D-1 2025/26",
+                "team:asc-snim": "ASC Snim",
+                "country": "Mauritania",
+                "video-type": "Live Streams",
+                "organizer": "Mauritania",
+                "organizer-country": "Mauritania"
+            },
+            "startDate": "2026-05-20T16:35:00Z",
+            "endDate": "2026-05-20T19:15:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-20T16:45:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "FC Tevragh Zeina v ASC Snim"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Super D-1 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 25"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Mauritania"
+                }
+            ]
         }
     ]
 }
