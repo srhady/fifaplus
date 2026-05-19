@@ -1,7 +1,7 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:30:23 PM 19-05-2026
+#last update time: 10:45:23 PM 19-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/92/9b/52/b1/929b52b1-0999-4647-820f-a55bbaeb737f.png" group-title="FIFA Live", Heaven Eleven v LPRC Oilers | LFA First Division League 2025/26
@@ -28,3 +28,8 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_09_00_52_422968fe-0d85-4df8-a936
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=da6cc5938035305a980a64ec64762f93:8f60b3eb0122421c188e14feff48b370
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_18_15_44_25_632bc3be-091f-488d-a481-78c9ae5fd52d/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Abam%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779207540
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/64/b7/7f/08/64b77f08-3b5a-4336-8af7-364731667812.png" group-title="FIFA Live", AS Douanes v ASC Gendrim | Super D-1 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d900f9ac2d53a3586d9e3b07246c5a1:d1548b08205f06090fa91924377d09ad
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_10_07_22_7c694f44-d6d2-4844-a62a-887c02e0c53b/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779208440
