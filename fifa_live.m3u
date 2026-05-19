@@ -1,18 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 12:15:21 AM 20-05-2026
+#last update time: 12:30:23 AM 20-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/92/9b/52/b1/929b52b1-0999-4647-820f-a55bbaeb737f.png" group-title="FIFA Live", Heaven Eleven v LPRC Oilers | LFA First Division League 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8317c2969c373f418d8871f91f086156:9dfc4f8f041bf7c0fa7bf0aa132a5cc0
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_13_31_19_48662b51-8f38-4d9c-b6d4-0831277d48a6/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779205740
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/13/18/66/0e/1318660e-5cf7-423c-a637-15bd2e8ff0f0.png" group-title="FIFA Live", Wologisi FC v Black Man Warriors FC | LFA First Division League 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=50cce640c8753f2a84c4992468295f67:536dc60d1737de421d75fef046064633
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_13_31_15_3b6e23ea-9a68-4a6b-be94-cc9466e6e535/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779205740
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/3b/61/1f/55/3b611f55-d8ba-4dec-9c6e-178408332ecb.png" group-title="FIFA Live", Ports Authority FC v Bhantal FC | Leone Rock Premier League 2025-26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -38,3 +28,13 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_10_07_22_7c694f44-d6d2-4844-a62a
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2b1fe83b64ed32719895ef5f20c5fca7:c4cf777ea30513512b40b920222e8626
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_18_15_44_30_d12a835b-77b2-4334-8edb-1c5625358297/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Abam%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779209040
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/04/2e/22/ac/042e22ac-2144-4b31-9567-e850d0989d51.png" group-title="FIFA Live", US Bougouba v FC Malicoura | Ligue 1 Pro Orange 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9994d16757f93077a9d4d24b7f8aa471:2216c8a1a5ee791f05fb6b7ac28d75a1
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_18_15_44_39_bd1739d7-d0b9-43ec-b040-8154e508398a/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Abam%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779214980
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/05/53/d1/82/0553d182-c363-4b7f-bfe5-8e738fe9b139.png" group-title="FIFA Live", Afrique Football Elite v AS Bakaridjan | Ligue 1 Pro Orange 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=33d18123e5303f6db5cf366a7961d9df:77a8f03f1a46e9c36aaf923894d8b399
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_18_15_44_34_811aea6d-a0dc-4ed5-82c6-aa41108f405e/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Abam%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080
