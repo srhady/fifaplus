@@ -3,79 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "09:15:26 PM 19-05-2026",
-        "total_live": 1,
+        "last_update_time": "09:30:26 PM 19-05-2026",
+        "total_live": 0,
         "total_upcoming": 7
     },
     "matches": [
-        {
-            "id": "34540af5-163c-454f-a680-a80aa0c0a286",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "34540af5-163c-454f-a680-a80aa0c0a286",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Barberian FC v Stand United | Championship League 2025/26",
-            "category": "livestream",
-            "urlSlug": "barberian-fc-vs-stand-united-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/8d/e8/1e/5f/8de81e5f-21a5-43e5-8765-727619824312.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/5a/ed/ea/50/5aedea50-f1f2-4c72-be61-c886da4f8b9a.png",
-            "freeMode": "FREE_ADS",
-            "title": "Barberian FC v Stand United | Championship League 2025/26",
-            "titleTemplateValues": {
-                "stadium": "Filbert Bayi Stadium",
-                "team:stand-united-fc": "Stand United",
-                "association": "Tanzania",
-                "country": "Tanzania",
-                "competition": "Tanzania Championship League",
-                "global-stage": "Round 25",
-                "team:barberian-fc": "Barberian FC",
-                "publisher": "MA | Tanzania",
-                "publisher-channel": "MA | Tanzania | NBC Championship League 2025/26",
-                "stage": "Regular Season",
-                "city": "Kibaha",
-                "season": "Championship League 2025/26",
-                "video-type": "Live Streams",
-                "match": "Barberian FC v Stand United",
-                "organizer": "Tanzania",
-                "organizer-country": "Tanzania"
-            },
-            "startDate": "2026-05-19T12:50:00Z",
-            "endDate": "2026-05-19T15:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-19T13:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Barberian FC v Stand United"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Championship League 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 25"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Tanzania"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_07_52_37_a1899fb5-e57d-48f5-ac7b-235c31691f95/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aswa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779194940",
-                "decryption_keys": [
-                    "5a704879119d3cf6bc6410d1d2ea0d02:7062b24db933b861fcac20a6ba07cec4"
-                ]
-            }
-        },
         {
             "id": "7a53c418-9732-4aea-966f-1bd75baa9a0a",
             "channelId": "fifa-tournaments",
