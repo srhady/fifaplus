@@ -1,18 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 12:45:19 AM 21-05-2026
+#last update time: 01:00:27 AM 21-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/1e/9a/81/32/1e9a8132-3381-4933-bff0-458f7d294d57.png" group-title="FIFA Live", Abacha City FC v Freetown City FC | Leone Rock Premier League 2025-26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=72685dcffe7a307f851c773ab5c602a9:1254728d86e78fb6d43b335142cdc6b4
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_09_01_07_88efec4e-27cc-45a5-93e3-e83c14cb5a77/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779293940
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/67/b5/4c/69/67b54c69-559c-4bd2-b975-6371a303beb5.png" group-title="FIFA Live", Star Sports Academy v FC Kallon | Leone Rock Premier League 2025-26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=116f33748722349c9316121d906e67cc:a85b456915f03df1dc49f4afecafd6fd
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_09_01_02_2e71a2f3-dbbf-47a4-8321-bc379478fee0/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779293940
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/a5/79/43/da/a57943da-88ed-492a-9419-5ec124361cb9.png" group-title="FIFA Live", FC Tevragh Zeina v ASC Snim | Super D-1 2025/26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
