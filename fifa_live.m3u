@@ -1,10 +1,15 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 04:45:19 AM 21-05-2026
+#last update time: 05:00:23 AM 21-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/88/f8/41/15/88f84115-a62c-4775-a904-20908a33e513.png" group-title="FIFA Live", Barquisimeto SC v El Vigía FC | Liga FUTVE 2 2026
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60e2115649743fefa39089ce5c45c4ce:39391c9f3694dbeaa1de8e10b7da664a
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_18_14_20_01_48703882-85dc-4313-82cb-61fcefd37c3a/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779311940
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/f3/c7/16/f9/f3c716f9-2d94-450f-a489-6c4733d2ba26.png" group-title="FIFA Live", Inter Moengo Tapoe v Robinhood | Suriname Major League 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9fd01837bb613f0a93d0a145d8719ec6:be7f53cb20c94b1bb69d67f2d85cd649
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_17_15_54_56_143a4abc-b9df-4814-bbc8-6a5c5788cd90/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Anld%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779317340
