@@ -3,75 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "02:45:21 PM 20-05-2026",
-        "total_live": 1,
+        "last_update_time": "03:00:28 PM 20-05-2026",
+        "total_live": 0,
         "total_upcoming": 8
     },
     "matches": [
-        {
-            "id": "5e9da6fc-8a10-426e-b77f-5a89c33877cf",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "5e9da6fc-8a10-426e-b77f-5a89c33877cf",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Auckland FC v South Island United | OFC Professional League 2026 | Full Match Replay",
-            "category": "livestream",
-            "urlSlug": "auckland-fc-vs-south-island-united",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/f7/3e/d0/a0/f73ed0a0-89b0-481d-882e-8a7959a34a71.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/32/13/00/4b/3213004b-e671-4c2a-b38b-7968f4602f8d.jpg",
-            "freeMode": "FREE_ADS",
-            "title": "Auckland FC v South Island United | OFC Professional League 2026 | Full Match Replay",
-            "titleTemplateValues": {
-                "match": "Auckland FC v South Island United",
-                "publisher": "OFC",
-                "team:south-island-united": "South Island United",
-                "team:auckland-fc": "Auckland FC",
-                "stage": "Semi-finals",
-                "association": "New Zealand",
-                "video-type": "Full Match Replays",
-                "publisher-channel": "OFC | OFC Pro League 2026 (Channel)",
-                "country": "New Zealand",
-                "city": "Penrose",
-                "season": "OFC Professional League 2026",
-                "confederation": "OFC",
-                "stadium": "Go Media Stadium",
-                "fifa-plus": "Mens (FIFA Plus)",
-                "global-stage": "Semi-finals",
-                "competition": "OFC Professional League ",
-                "organizer": "OFC"
-            },
-            "startDate": "2026-05-20T06:20:00Z",
-            "endDate": "2026-05-20T09:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-20T06:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Auckland FC v South Island United"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "OFC Professional League 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Semi-finals"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_18_09_13_36_8226ff7c-f679-458e-bcaf-38831a225059/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779257940",
-                "decryption_keys": [
-                    "cc939ff3fc163d259243e5785a4babdc:5d5d2050e2323089e1a90535951ff03a"
-                ]
-            }
-        },
         {
             "id": "ef08d824-d8b1-40a0-b385-45d5857a9b79",
             "channelId": "fifa-tournaments",
