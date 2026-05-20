@@ -3,80 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "02:30:22 AM 21-05-2026",
-        "total_live": 4,
+        "last_update_time": "02:45:20 AM 21-05-2026",
+        "total_live": 3,
         "total_upcoming": 12
     },
     "matches": [
-        {
-            "id": "a5c013ff-d93b-479f-a4b9-7daf2f72e9c6",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "a5c013ff-d93b-479f-a4b9-7daf2f72e9c6",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Mbabane Highlanders FC v Young Buffaloes FC | MTN Premier League 2025/26",
-            "category": "livestream",
-            "urlSlug": "mbabane-highlanders-fc-vs-young-buffaloes-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/60/0d/47/a5/600d47a5-7f38-45fb-9076-17056ded193b.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/53/a9/0a/18/53a90a18-e862-47cc-a8bb-305330edfa0f.png",
-            "freeMode": "FREE_ADS",
-            "title": "Mbabane Highlanders FC v Young Buffaloes FC | MTN Premier League 2025/26",
-            "titleTemplateValues": {
-                "city": "Manzini",
-                "competition": "Premier League of Eswatini",
-                "country": "Eswatini",
-                "association": "Eswatini",
-                "match": "Mbabane Highlanders FC v Young Buffaloes FC",
-                "season": "MTN Premier League 2025/26",
-                "stage": "Regular Season",
-                "global-stage": "Round 29",
-                "team:young-buffaloes-fc": "Young Buffaloes FC",
-                "stadium": "Mavuso Sports Centre",
-                "publisher": "MA | Eswatini",
-                "publisher-channel": "MA | Eswatini | Premier League 2025/2026",
-                "fifa-plus": "Mens (FIFA Plus)",
-                "team:mbabane-highlanders-fc": "Mbabane Highlanders FC",
-                "video-type": "Live Streams",
-                "organizer": "Eswatini",
-                "organizer-country": "Eswatini"
-            },
-            "startDate": "2026-05-20T18:05:00Z",
-            "endDate": "2026-05-20T20:45:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-20T18:15:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Mbabane Highlanders FC v Young Buffaloes FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "MTN Premier League 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 29"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Eswatini"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_09_25_13_b3d8e358-77b3-46f7-a3ef-95f773f82d51/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779300240",
-                "decryption_keys": [
-                    "292c5db4bf4c3cfa9464e54481120eaa:92e72a148cfe5770c3354f4d5d75e48c"
-                ]
-            }
-        },
         {
             "id": "cfce1e82-8da3-494e-95cd-c1b0106acfc3",
             "channelId": "fifa-tournaments",
