@@ -3,79 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "09:00:28 AM 20-05-2026",
-        "total_live": 2,
+        "last_update_time": "09:30:26 AM 20-05-2026",
+        "total_live": 1,
         "total_upcoming": 10
     },
     "matches": [
-        {
-            "id": "a950b7ed-f228-46e1-983a-49f24ae1c955",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "a950b7ed-f228-46e1-983a-49f24ae1c955",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Ellerton FC v Paradise FC | BFA Premier League 2026",
-            "category": "livestream",
-            "urlSlug": "ellerton-fc-vs-paradise-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/f9/fc/5b/ae/f9fc5bae-7cbc-4802-a3c3-a6a0be479692.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/07/3b/45/e9/073b45e9-0779-4564-be05-aa960d1966b5.png",
-            "freeMode": "FREE_ADS",
-            "title": "Ellerton FC v Paradise FC | BFA Premier League 2026",
-            "titleTemplateValues": {
-                "publisher-channel": "MA | Barbados | BFA Premier League 2026 (Channel)",
-                "stadium": "BFA Technical Centre",
-                "match": "Ellerton FC v Paradise FC",
-                "team:paradise-fc": "Paradise FC",
-                "association": "Barbados",
-                "global-stage": "Round 17",
-                "publisher": "MA | Barbados",
-                "stage": "Regular Season",
-                "city": "Saint Michael",
-                "team:ellerton-fc": "Ellerton FC",
-                "competition": "BFA Premier League",
-                "country": "Barbados",
-                "season": "BFA Premier League 2026",
-                "video-type": "Live Streams",
-                "organizer": "Barbados",
-                "organizer-country": "Barbados"
-            },
-            "startDate": "2026-05-20T00:58:00Z",
-            "endDate": "2026-05-20T03:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-20T01:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Ellerton FC v Paradise FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "BFA Premier League 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 17"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Barbados"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_12_10_44_03_b3a4ae1e-f09e-4c07-b853-fa7243f8fc54/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779238620",
-                "decryption_keys": [
-                    "a70093f71afc3aa98158b6525799fdd5:7cb2b07c47b9f09426f4c23c83324361"
-                ]
-            }
-        },
         {
             "id": "4baf92f4-8cdb-42f9-9d0e-ce82bacce61f",
             "channelId": "fifa-tournaments",
