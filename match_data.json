@@ -3,79 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "05:30:22 AM 21-05-2026",
-        "total_live": 2,
+        "last_update_time": "05:45:21 AM 21-05-2026",
+        "total_live": 1,
         "total_upcoming": 10
     },
     "matches": [
-        {
-            "id": "f6d0dc85-6ebc-4bfa-9813-66474febc3ee",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "f6d0dc85-6ebc-4bfa-9813-66474febc3ee",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Barquisimeto SC v El Vigía FC | Liga FUTVE 2 2026",
-            "category": "livestream",
-            "urlSlug": "barquisimeto-sc-vs-el-vigia-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/57/b2/b9/56/57b2b956-2a4f-4b00-9e73-4c3ff15091b9.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/88/f8/41/15/88f84115-a62c-4775-a904-20908a33e513.png",
-            "freeMode": "FREE_ADS",
-            "title": "Barquisimeto SC v El Vigía FC | Liga FUTVE 2 2026",
-            "titleTemplateValues": {
-                "season": "Liga FUTVE 2 2026",
-                "team:barquisimeto-sc": "Barquisimeto SC",
-                "stage": "Regular Season",
-                "association": "Venezuela",
-                "stadium": "Farid Richa Stadium",
-                "global-stage": "Round 15",
-                "city": "Barquisimeto",
-                "publisher": "MA | Venezuela",
-                "team:el-vigia-fc": "El Vigía FC",
-                "match": "Barquisimeto SC v El Vigía FC",
-                "competition": "Liga FUTVE 2",
-                "country": "Venezuela",
-                "video-type": "Live Streams",
-                "publisher-channel": "MA | Venezuela | Liga FUTVE 2 2026 (Channel)",
-                "organizer": "Venezuela",
-                "organizer-country": "Venezuela"
-            },
-            "startDate": "2026-05-20T21:20:00Z",
-            "endDate": "2026-05-21T00:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-20T21:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Barquisimeto SC v El Vigía FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Liga FUTVE 2 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 15"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Venezuela"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_18_14_20_01_48703882-85dc-4313-82cb-61fcefd37c3a/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779311940",
-                "decryption_keys": [
-                    "60e2115649743fefa39089ce5c45c4ce:39391c9f3694dbeaa1de8e10b7da664a"
-                ]
-            }
-        },
         {
             "id": "11e299e8-c505-429f-b577-33e3dca990e1",
             "channelId": "fifa-tournaments",
