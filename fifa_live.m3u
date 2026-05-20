@@ -1,7 +1,7 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 03:15:21 AM 21-05-2026
+#last update time: 03:30:23 AM 21-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/f8/d9/df/e9/f8d9dfe9-3727-467c-9fe8-3478c32ffb91.png" group-title="FIFA Live", Puerto Cabello B v Deportivo Lara | Liga FUTVE 2 2026
@@ -18,3 +18,8 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_18_14_19_42_7df95f78-0ded-4997-9d88
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4720eec9175e35ec886b16383cb4c212:c261aaead043728d731047644415cc6b
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_18_14_19_49_ac30b175-3f2a-48a1-80c7-082f85964bb5/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779304740
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/88/f8/41/15/88f84115-a62c-4775-a904-20908a33e513.png" group-title="FIFA Live", Barquisimeto SC v El Vigía FC | Liga FUTVE 2 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=60e2115649743fefa39089ce5c45c4ce:39391c9f3694dbeaa1de8e10b7da664a
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_18_14_20_01_48703882-85dc-4313-82cb-61fcefd37c3a/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779311940
