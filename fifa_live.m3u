@@ -1,10 +1,15 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 09:30:27 PM 20-05-2026
+#last update time: 09:45:24 PM 20-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/75/e8/45/dd/75e845dd-d632-473f-894e-14ba72020050.png" group-title="FIFA Live", FC OSA v CO Korhogo | Coupe Nationale de Côte d'Ivoire 2026
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=968425164a7b343d81d74e74163435bd:85ed472e948371106a68716cbb3553ee
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_11_08_42_31_29e3898e-e976-4275-ae42-5ecb66b9cc73/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779290340
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/d6/32/35/9f/d632359f-f8cb-40af-a21d-13d4cde9c1f3.png" group-title="FIFA Live", AS Fan v AS GNN | Super Ligue 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8c561eafe583345cba5c73ca4d03c562:c491d54f731898b84207724e272c2142
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_14_01_20_c327b18c-70a6-49d4-a623-676372e97918/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779291240
