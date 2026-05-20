@@ -1,5 +1,10 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 09:15:23 PM 20-05-2026
+#last update time: 09:30:27 PM 20-05-2026
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/75/e8/45/dd/75e845dd-d632-473f-894e-14ba72020050.png" group-title="FIFA Live", FC OSA v CO Korhogo | Coupe Nationale de Côte d'Ivoire 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=968425164a7b343d81d74e74163435bd:85ed472e948371106a68716cbb3553ee
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_11_08_42_31_29e3898e-e976-4275-ae42-5ecb66b9cc73/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779290340
