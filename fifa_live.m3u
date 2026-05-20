@@ -1,7 +1,7 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 06:45:17 AM 20-05-2026
+#last update time: 07:00:31 AM 20-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/44/6c/90/58/446c9058-a3dc-4c63-8941-c59fb1b473ee.png" group-title="FIFA Live", Bagatelle FC v Gall Hill | BFA Premier League 2026
@@ -13,3 +13,8 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_12_10_44_00_6c1778eb-2ab9-4f2b-88a8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9fceffda27e03931bfccc6efc1601d7d:01f3412526e163df9b803b251bbb3e1f
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_12_09_18_23_bb229d71-0116-474d-8267-c12c7441f66c/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779236340
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/07/3b/45/e9/073b45e9-0779-4564-be05-aa960d1966b5.png" group-title="FIFA Live", Ellerton FC v Paradise FC | BFA Premier League 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a70093f71afc3aa98158b6525799fdd5:7cb2b07c47b9f09426f4c23c83324361
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_12_10_44_03_b3a4ae1e-f09e-4c07-b853-fa7243f8fc54/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779238620

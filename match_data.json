@@ -3,9 +3,9 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "06:45:17 AM 20-05-2026",
-        "total_live": 2,
-        "total_upcoming": 12
+        "last_update_time": "07:00:31 AM 20-05-2026",
+        "total_live": 3,
+        "total_upcoming": 11
     },
     "matches": [
         {
@@ -158,23 +158,23 @@
             "title": "Ellerton FC v Paradise FC | BFA Premier League 2026",
             "titleTemplateValues": {
                 "publisher-channel": "MA | Barbados | BFA Premier League 2026 (Channel)",
-                "country": "Barbados",
-                "team:ellerton-fc": "Ellerton FC",
-                "city": "Saint Michael",
-                "match": "Ellerton FC v Paradise FC",
-                "association": "Barbados",
-                "competition": "BFA Premier League",
-                "organizer-country": "Barbados",
-                "global-stage": "Round 17",
-                "stage": "Regular Season",
-                "organizer": "Барбадос",
                 "stadium": "BFA Technical Centre",
+                "match": "Ellerton FC v Paradise FC",
+                "team:paradise-fc": "Paradise FC",
+                "association": "Barbados",
+                "global-stage": "Round 17",
                 "publisher": "MA | Barbados",
+                "stage": "Regular Season",
+                "city": "Saint Michael",
+                "team:ellerton-fc": "Ellerton FC",
+                "competition": "BFA Premier League",
+                "country": "Barbados",
                 "season": "BFA Premier League 2026",
                 "video-type": "Live Streams",
-                "team:paradise-fc": "Paradise FC"
+                "organizer": "Barbados",
+                "organizer-country": "Barbados"
             },
-            "startDate": "2026-05-20T00:50:00Z",
+            "startDate": "2026-05-20T00:58:00Z",
             "endDate": "2026-05-20T03:30:00Z",
             "ctxMetadata": {
                 "kickOffTime": "2026-05-20T01:00:00Z"
@@ -182,7 +182,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -204,7 +204,13 @@
                     "p": 1,
                     "value": "Barbados"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_12_10_44_03_b3a4ae1e-f09e-4c07-b853-fa7243f8fc54/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779238620",
+                "decryption_keys": [
+                    "a70093f71afc3aa98158b6525799fdd5:7cb2b07c47b9f09426f4c23c83324361"
+                ]
+            }
         },
         {
             "id": "4baf92f4-8cdb-42f9-9d0e-ce82bacce61f",
