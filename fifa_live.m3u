@@ -1,7 +1,7 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:30:49 PM 20-05-2026
+#last update time: 10:48:23 PM 20-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/75/e8/45/dd/75e845dd-d632-473f-894e-14ba72020050.png" group-title="FIFA Live", FC OSA v CO Korhogo | Coupe Nationale de Côte d'Ivoire 2026
@@ -43,3 +43,8 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_09_01_12_9dd94f29-5cdb-4d46-aa0a
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=116f33748722349c9316121d906e67cc:a85b456915f03df1dc49f4afecafd6fd
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_09_01_02_2e71a2f3-dbbf-47a4-8321-bc379478fee0/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779293940
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/a5/79/43/da/a57943da-88ed-492a-9419-5ec124361cb9.png" group-title="FIFA Live", FC Tevragh Zeina v ASC Snim | Super D-1 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa26f8b1475a37409c6bc9c5c42d9bd3:2ef002020eddf7944a832affc76aca60
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_18_13_24_27_0a98b57a-80bf-47ed-a398-b71a73710397/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779294840
