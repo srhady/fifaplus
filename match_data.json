@@ -3,79 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "01:00:27 AM 21-05-2026",
-        "total_live": 3,
+        "last_update_time": "01:15:23 AM 21-05-2026",
+        "total_live": 2,
         "total_upcoming": 15
     },
     "matches": [
-        {
-            "id": "6328edf0-0b6c-439d-a9cd-488585974f99",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "6328edf0-0b6c-439d-a9cd-488585974f99",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "FC Tevragh Zeina v ASC Snim | Super D-1 2025/26",
-            "category": "livestream",
-            "urlSlug": "fc-tevragh-zeina-vs-asc-snim",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/39/61/d8/4a/3961d84a-2170-4737-8a7c-42d7ae00e8f7.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/a5/79/43/da/a57943da-88ed-492a-9419-5ec124361cb9.png",
-            "freeMode": "FREE_ADS",
-            "title": "FC Tevragh Zeina v ASC Snim | Super D-1 2025/26",
-            "titleTemplateValues": {
-                "stage": "Regular season",
-                "publisher": "MA | Mauritania",
-                "match": "FC Tevragh Zeina v ASC Snim",
-                "team:fc-tevragh-zeina": "FC Tevragh Zeina",
-                "competition": "Super D-1",
-                "city": "Nouakchott",
-                "global-stage": "Round 25",
-                "association": "Mauritania",
-                "stadium": "Stade Cheikha Ould Boïdiya",
-                "publisher-channel": "MA | Mauritania | Super D1 2025/2026",
-                "season": "Super D-1 2025/26",
-                "team:asc-snim": "ASC Snim",
-                "country": "Mauritania",
-                "video-type": "Live Streams",
-                "organizer": "Mauritania",
-                "organizer-country": "Mauritania"
-            },
-            "startDate": "2026-05-20T16:35:00Z",
-            "endDate": "2026-05-20T19:15:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-20T16:45:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "FC Tevragh Zeina v ASC Snim"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Super D-1 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 25"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Mauritania"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_18_13_24_27_0a98b57a-80bf-47ed-a398-b71a73710397/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779294840",
-                "decryption_keys": [
-                    "fa26f8b1475a37409c6bc9c5c42d9bd3:2ef002020eddf7944a832affc76aca60"
-                ]
-            }
-        },
         {
             "id": "5c7b51df-1ac9-4045-b6fb-94ecd59b57d7",
             "channelId": "fifa-tournaments",
