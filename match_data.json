@@ -3,79 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "07:15:16 AM 20-05-2026",
+        "last_update_time": "07:30:20 AM 20-05-2026",
         "total_live": 3,
-        "total_upcoming": 11
+        "total_upcoming": 10
     },
     "matches": [
-        {
-            "id": "307877da-9efb-41ac-99de-850b2baf8907",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "307877da-9efb-41ac-99de-850b2baf8907",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Bagatelle FC v Gall Hill | BFA Premier League 2026",
-            "category": "livestream",
-            "urlSlug": "bagatelle-fc-vs-gall-hill",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/f9/fc/5b/ae/f9fc5bae-7cbc-4802-a3c3-a6a0be479692.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/44/6c/90/58/446c9058-a3dc-4c63-8941-c59fb1b473ee.png",
-            "freeMode": "FREE_ADS",
-            "title": "Bagatelle FC v Gall Hill | BFA Premier League 2026",
-            "titleTemplateValues": {
-                "publisher-channel": "MA | Barbados | BFA Premier League 2026 (Channel)",
-                "team:gall-hill": "Gall Hill",
-                "country": "Barbados",
-                "city": "Saint Michael",
-                "match": "Bagatelle FC v Gall Hill",
-                "association": "Barbados",
-                "competition": "BFA Premier League",
-                "organizer-country": "Barbados",
-                "global-stage": "Round 17",
-                "stage": "Regular Season",
-                "organizer": "Барбадос",
-                "stadium": "BFA Technical Centre",
-                "publisher": "MA | Barbados",
-                "season": "BFA Premier League 2026",
-                "video-type": "Live Streams",
-                "team:bagatelle-fc": "Bagatelle FC"
-            },
-            "startDate": "2026-05-19T22:50:00Z",
-            "endDate": "2026-05-20T01:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-19T23:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Bagatelle FC v Gall Hill"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "BFA Premier League 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 17"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Barbados"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_12_10_44_00_6c1778eb-2ab9-4f2b-88a8-92c043a7dbea/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779230940",
-                "decryption_keys": [
-                    "72fb72575f34322ba019e344d1b6c185:19332fa1564988219e6410bb20be5d18"
-                ]
-            }
-        },
         {
             "id": "aa593f71-2f85-402c-b057-c2c7552f8e3c",
             "channelId": "fifa-tournaments",
@@ -254,7 +186,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -271,7 +203,13 @@
                     "p": 0,
                     "value": "Semi-finals"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_18_09_13_11_3a637ee8-6a7e-40de-b5e9-757bf1d8f976/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779239940",
+                "decryption_keys": [
+                    "251dfe3ae15e3f359f436f80dd0ae76e:2e9b5a4f078181e61d4ef08f758dabf3"
+                ]
+            }
         },
         {
             "id": "5e9da6fc-8a10-426e-b77f-5a89c33877cf",
