@@ -3,9 +3,9 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "11:15:19 AM 20-05-2026",
+        "last_update_time": "11:30:25 AM 20-05-2026",
         "total_live": 0,
-        "total_upcoming": 10
+        "total_upcoming": 9
     },
     "matches": [
         {
@@ -498,69 +498,6 @@
                     "kind": "caption",
                     "p": 1,
                     "value": "Sierra Leone"
-                }
-            ]
-        },
-        {
-            "id": "5132fa8b-14ff-4afd-b8af-82e572b5dbb6",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "5132fa8b-14ff-4afd-b8af-82e572b5dbb6",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Djoliba AC v USFAS | Ligue 1 Pro Orange 2025/26",
-            "category": "livestream",
-            "urlSlug": "djoliba-ac-vs-usfas",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/ac/59/f0/5a/ac59f05a-c2ad-43a2-9106-de83c6792b2a.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/ae/df/1b/b5/aedf1bb5-0713-407e-9f82-b42df8977fbc.png",
-            "freeMode": "FREE_ADS",
-            "title": "Djoliba AC v USFAS | Ligue 1 Pro Orange 2025/26",
-            "titleTemplateValues": {
-                "team:usfas": "USFAS",
-                "competition": "Ligue 1 Pro Orange",
-                "city": "Bamako",
-                "association": "Mali",
-                "global-stage": "Round 21",
-                "publisher": "MA | Mali",
-                "country": "Mali",
-                "match": "Djoliba AC v USFAS",
-                "season": "Ligue 1 Pro Orange 2025/26",
-                "publisher-channel": "MA | Mali | Ligue 1 Pro Orange 2025/26",
-                "stage": "Regular Season",
-                "fifa-plus": "Mens (FIFA Plus)",
-                "stadium": "Mamadou Konate Stadium",
-                "team:djoliba-ac": "Djoliba AC",
-                "video-type": "Live Streams",
-                "organizer": "Mali",
-                "organizer-country": "Mali"
-            },
-            "startDate": "2026-05-20T16:20:00Z",
-            "endDate": "2026-05-20T19:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-20T16:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "upcoming",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Djoliba AC v USFAS"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Ligue 1 Pro Orange 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 21"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Mali"
                 }
             ]
         },
