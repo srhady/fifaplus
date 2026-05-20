@@ -3,9 +3,9 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "07:15:25 PM 20-05-2026",
+        "last_update_time": "07:30:27 PM 20-05-2026",
         "total_live": 0,
-        "total_upcoming": 8
+        "total_upcoming": 9
     },
     "matches": [
         {
@@ -67,6 +67,68 @@
                     "kind": "caption",
                     "p": 1,
                     "value": "Côte d'Ivoire"
+                }
+            ]
+        },
+        {
+            "id": "5b8a0a1f-b47e-49ab-97c1-8b3b3fa6a12d",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "5b8a0a1f-b47e-49ab-97c1-8b3b3fa6a12d",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "AS Fan v AS GNN | Super Ligue 2025/26",
+            "category": "livestream",
+            "urlSlug": "as-fan-vs-as-gnn",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/9e/ec/cd/44/9eeccd44-ac8e-414d-a647-f8fe021614d5.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/d6/32/35/9f/d632359f-f8cb-40af-a21d-13d4cde9c1f3.png",
+            "freeMode": "FREE_ADS",
+            "title": "AS Fan v AS GNN | Super Ligue 2025/26",
+            "titleTemplateValues": {
+                "publisher": "MA | Niger ",
+                "season": "Super Ligue 2025/26",
+                "stage": "Regular stage",
+                "association": "Niger",
+                "team:as-fan": "AS Fan",
+                "match": "AS Fan v AS GNN",
+                "competition": "Super Ligue",
+                "country": "Niger",
+                "city": "Niamey",
+                "publisher-channel": "MA | Niger | Super Ligue 2025/2026",
+                "global-stage": "Round 26",
+                "team:as-gnn": "AS GNN",
+                "stadium": "Municipal Stadium",
+                "video-type": "Live Streams",
+                "organizer": "Niger",
+                "organizer-country": "Niger"
+            },
+            "startDate": "2026-05-20T15:35:00Z",
+            "endDate": "2026-05-20T18:15:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-20T15:45:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "AS Fan v AS GNN"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Super Ligue 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Niger"
                 }
             ]
         },
