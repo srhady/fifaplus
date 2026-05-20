@@ -3,78 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "09:45:18 AM 20-05-2026",
-        "total_live": 1,
+        "last_update_time": "10:15:19 AM 20-05-2026",
+        "total_live": 0,
         "total_upcoming": 10
     },
     "matches": [
-        {
-            "id": "4baf92f4-8cdb-42f9-9d0e-ce82bacce61f",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "4baf92f4-8cdb-42f9-9d0e-ce82bacce61f",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "South Melbourne FC v Vanuatu United FC | OFC Professional League 2026",
-            "category": "livestream",
-            "urlSlug": "south-melbourne-vs-vanuatu-united",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/f7/3e/d0/a0/f73ed0a0-89b0-481d-882e-8a7959a34a71.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/3f/6d/9f/9d/3f6d9f9d-bbf5-45a2-b38f-90ddf04456dd.jpg",
-            "freeMode": "FREE_ADS",
-            "title": "South Melbourne FC v Vanuatu United FC | OFC Professional League 2026",
-            "titleTemplateValues": {
-                "match": "South Melbourne FC v Vanuatu United FC",
-                "publisher": "OFC",
-                "association:australia": "Australia",
-                "team:south-melbourne": "South Melbourne FC",
-                "association:vanuatu": "Vanuatu",
-                "stage": "Semi-finals",
-                "publisher-channel": "OFC | OFC Pro League 2026 (Channel)",
-                "country:new-zealand": "New Zealand",
-                "team:vanuatu-united": "Vanuatu United FC",
-                "city": "Penrose",
-                "season": "OFC Professional League 2026",
-                "country:vanuatu": "Vanuatu",
-                "confederation": "OFC",
-                "stadium": "Go Media Stadium",
-                "fifa-plus": "Mens (FIFA Plus)",
-                "global-stage": "Semi-finals",
-                "country:australia": "Australia",
-                "competition": "OFC Professional League ",
-                "video-type": "Live Streams",
-                "organizer": "OFC"
-            },
-            "startDate": "2026-05-20T01:20:00Z",
-            "endDate": "2026-05-20T04:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-20T01:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "South Melbourne FC v Vanuatu United FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "OFC Professional League 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Semi-finals"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_18_09_13_11_3a637ee8-6a7e-40de-b5e9-757bf1d8f976/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779239940",
-                "decryption_keys": [
-                    "251dfe3ae15e3f359f436f80dd0ae76e:2e9b5a4f078181e61d4ef08f758dabf3"
-                ]
-            }
-        },
         {
             "id": "5e9da6fc-8a10-426e-b77f-5a89c33877cf",
             "channelId": "fifa-tournaments",

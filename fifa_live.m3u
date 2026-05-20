@@ -1,10 +1,5 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 09:45:18 AM 20-05-2026
+#last update time: 10:15:19 AM 20-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/3f/6d/9f/9d/3f6d9f9d-bbf5-45a2-b38f-90ddf04456dd.jpg" group-title="FIFA Live", South Melbourne FC v Vanuatu United FC | OFC Professional League 2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=251dfe3ae15e3f359f436f80dd0ae76e:2e9b5a4f078181e61d4ef08f758dabf3
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_18_09_13_11_3a637ee8-6a7e-40de-b5e9-757bf1d8f976/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779239940
