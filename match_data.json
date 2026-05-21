@@ -3,7 +3,7 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "12:00:30 AM 22-05-2026",
+        "last_update_time": "12:15:22 AM 22-05-2026",
         "total_live": 5,
         "total_upcoming": 14
     },
@@ -230,6 +230,7 @@
                 "match": "Wusum Stars FC v Bullom Stars FC",
                 "country": "Sierra Leone",
                 "competition": "Premier League",
+                "video-type": "Full Match Replays",
                 "global-stage": "Round 27",
                 "publisher-channel": "MA | Sierra Leone | Rock Premier League 2025-26",
                 "association": "Sierra Leone",
@@ -237,7 +238,6 @@
                 "stadium": "Wusum Field",
                 "season": "Leone Rock Premier League 2025-26",
                 "publisher": "MA | Sierra Leone",
-                "video-type": "Live Streams",
                 "team:wusum-stars-fc": "Wusum Stars FC",
                 "organizer": "Sierra Leone",
                 "organizer-country": "Sierra Leone"
