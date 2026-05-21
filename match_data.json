@@ -3,7 +3,7 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "06:30:26 PM 21-05-2026",
+        "last_update_time": "06:45:20 PM 21-05-2026",
         "total_live": 0,
         "total_upcoming": 8
     },
@@ -30,7 +30,7 @@
                 "video-type": "Live Streams",
                 "organizer": "FIFA"
             },
-            "startDate": "2026-05-21T12:50:00Z",
+            "startDate": "2026-05-21T12:55:00Z",
             "endDate": "2026-05-21T18:30:00Z",
             "ctxMetadata": {},
             "isRegistrationRequired": false,
