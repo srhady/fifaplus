@@ -3,79 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "08:15:19 AM 21-05-2026",
-        "total_live": 2,
+        "last_update_time": "08:30:22 AM 21-05-2026",
+        "total_live": 1,
         "total_upcoming": 8
     },
     "matches": [
-        {
-            "id": "3a790113-c21f-409c-9d9f-d747d7755f6a",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "3a790113-c21f-409c-9d9f-d747d7755f6a",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "R.K.S.V. Centro Dominguito v RKSV Scherpenheuvel | Curaçao Promé Divishon 2025/26",
-            "category": "livestream",
-            "urlSlug": "r-k-s-v-centro-dominguito-vs-rksv-scherpenheuvel",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/8f/f7/93/69/8ff79369-5be3-4435-99e4-3ff4d2e38b4f.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/92/ad/6d/c3/92ad6dc3-0bbd-4645-a9b5-c700815f8680.png",
-            "freeMode": "FREE_ADS",
-            "title": "R.K.S.V. Centro Dominguito v RKSV Scherpenheuvel | Curaçao Promé Divishon 2025/26",
-            "titleTemplateValues": {
-                "competition": "Curaçao Promé Divishon",
-                "city": "Willemstad",
-                "association": "Curaçao",
-                "publisher-channel": "MA | Curaçao | Curaçao Promé Divishon 2025/26",
-                "match": "R.K.S.V. Centro Dominguito v RKSV Scherpenheuvel",
-                "stage": "Round of Four",
-                "team:rksv-scherpenheuvel": "RKSV Scherpenheuvel",
-                "publisher": "MA | Curaçao",
-                "team:r-k-s-v-centro-dominguito": "R.K.S.V. Centro Dominguito",
-                "global-stage": "Playoffs",
-                "stadium": "Stadion Rignaal Jean Francisca",
-                "season": "Curaçao Promé Divishon 2025/26",
-                "country": "Curaçao",
-                "video-type": "Live Streams",
-                "organizer": "Curaçao",
-                "organizer-country": "Curaçao"
-            },
-            "startDate": "2026-05-20T23:50:00Z",
-            "endDate": "2026-05-21T02:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-21T00:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "R.K.S.V. Centro Dominguito v RKSV Scherpenheuvel"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Curaçao Promé Divishon 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Playoffs"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Curaçao"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_14_12_05_051b6297-b3d9-463f-ae5b-04d7c0d74bbf/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779320940",
-                "decryption_keys": [
-                    "a6ba257e9bd1311eb120979ae0984e90:dc3371c2e0b644743935c5b64f0ad917"
-                ]
-            }
-        },
         {
             "id": "6cba522d-53e0-447d-94d6-0613790ec5b4",
             "channelId": "fifa-tournaments",
