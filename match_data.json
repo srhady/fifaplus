@@ -3,79 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "07:15:17 AM 21-05-2026",
-        "total_live": 3,
+        "last_update_time": "07:30:22 AM 21-05-2026",
+        "total_live": 2,
         "total_upcoming": 8
     },
     "matches": [
-        {
-            "id": "11e299e8-c505-429f-b577-33e3dca990e1",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "11e299e8-c505-429f-b577-33e3dca990e1",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Inter Moengo Tapoe v Robinhood | Suriname Major League 2025/26",
-            "category": "livestream",
-            "urlSlug": "inter-moengotapoe-vs-robinhood",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/20/6d/20/4c/206d204c-c4a8-4272-b812-4a5930e5d86d.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/f3/c7/16/f9/f3c716f9-2d94-450f-a489-6c4733d2ba26.png",
-            "freeMode": "FREE_ADS",
-            "title": "Inter Moengo Tapoe v Robinhood | Suriname Major League 2025/26",
-            "titleTemplateValues": {
-                "match": "Inter Moengo Tapoe v Robinhood",
-                "stadium": "Franklin Essed Stadium",
-                "season": "Suriname Major League 2025/26",
-                "team:inter-moengotapoe": "Inter Moengo Tapoe",
-                "team:robinhood": "Robinhood",
-                "global-stage": "Playoffs",
-                "publisher": "MA | Suriname",
-                "city": "Paramaribo",
-                "country": "Suriname",
-                "competition": "Suriname Major League",
-                "association": "Suriname",
-                "stage": "Playoffs",
-                "video-type": "Live Streams",
-                "publisher-channel": "MA | Suriname | Suriname's SML Season III 2025/2026",
-                "organizer": "Suriname",
-                "organizer-country": "Suriname"
-            },
-            "startDate": "2026-05-20T22:50:00Z",
-            "endDate": "2026-05-21T01:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-20T23:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Inter Moengo Tapoe v Robinhood"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Suriname Major League 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Playoffs"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Suriname"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_17_15_54_56_143a4abc-b9df-4814-bbc8-6a5c5788cd90/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Anld%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779317340",
-                "decryption_keys": [
-                    "9fd01837bb613f0a93d0a145d8719ec6:be7f53cb20c94b1bb69d67f2d85cd649"
-                ]
-            }
-        },
         {
             "id": "3a790113-c21f-409c-9d9f-d747d7755f6a",
             "channelId": "fifa-tournaments",
