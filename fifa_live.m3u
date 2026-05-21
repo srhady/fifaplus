@@ -1,10 +1,5 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 08:45:17 AM 21-05-2026
+#last update time: 09:00:22 AM 21-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/62/70/52/38/62705238-8853-43ad-8b61-d63f033b8864.png" group-title="FIFA Live", Estrella v Caiquetio | Division Honor 2025-26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4110c081a63e383b8741cfc9fd32bd62:5b181bbb1ed009d9090e8c21f7bf3ecd
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_12_09_18_26_6eaa3ee8-477e-4c72-a687-0d3a6798e89b/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779322740
