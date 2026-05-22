@@ -3,215 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "12:15:18 AM 23-05-2026",
-        "total_live": 5,
-        "total_upcoming": 45
+        "last_update_time": "12:30:23 AM 23-05-2026",
+        "total_live": 2,
+        "total_upcoming": 48
     },
     "matches": [
-        {
-            "id": "9c5c7ccf-5963-4b55-991e-c34b5f7a74ea",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "9c5c7ccf-5963-4b55-991e-c34b5f7a74ea",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Al Jazira v Al Ain FC | Final | President's Cup 2025/26",
-            "category": "livestream",
-            "urlSlug": "al-jazira-vs-al-ain-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/a3/6e/30/87/a36e3087-8f4b-407d-838c-1fd9799a11de.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/ab/f1/8a/f3/abf18af3-64d5-42b2-a12f-245bfaf79354.png",
-            "freeMode": "FREE_ADS",
-            "title": "Al Jazira v Al Ain FC | Final | President's Cup 2025/26",
-            "titleTemplateValues": {
-                "publisher-channel": "MA | UAE | President's Cup 2025/2026",
-                "country": "United Arab Emirates",
-                "team:al-ain-fc": "Al Ain FC",
-                "team:al-jazira": "Al Jazira",
-                "season": "President's Cup 2025/26",
-                "publisher": "MA | UAE",
-                "city": "Abu Dhabi",
-                "stage": "Final",
-                "competition": "UAE President's Cup",
-                "match": "Al Jazira v Al Ain FC",
-                "association": "United Arab Emirates",
-                "global-stage": "Final",
-                "stadium": "Mohammed Bin Zayed Stadium",
-                "video-type": "Live Streams",
-                "organizer": "United Arab Emirates",
-                "organizer-country": "United Arab Emirates"
-            },
-            "startDate": "2026-05-22T15:30:00Z",
-            "endDate": "2026-05-22T18:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-22T15:40:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Al Jazira v Al Ain FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "President's Cup 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Final"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "United Arab Emirates"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_09_28_19_657f16c2-a6c8-4b6c-b0fd-751f05f5b7cf/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779463740",
-                "decryption_keys": [
-                    "e43e669d8f2f3f70bf94ead83cfb5c74:4ec3cfb34a6f79ee87f1c51be3f2101e"
-                ]
-            }
-        },
-        {
-            "id": "23958ff8-11a1-4470-9d94-82af1ab365ee",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "23958ff8-11a1-4470-9d94-82af1ab365ee",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "DFK Dainava v Be1 NFA | Pirma Lyga 2026",
-            "category": "livestream",
-            "urlSlug": "dfk-dainava-vs-fk-be1",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/f2/4c/3b/b0/f24c3bb0-e739-4ae5-95d3-6cbfe473d948.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/8a/a9/9e/03/8aa99e03-5e05-4aed-bd6a-8e533741598f.png",
-            "freeMode": "FREE_ADS",
-            "title": "DFK Dainava v Be1 NFA | Pirma Lyga 2026",
-            "titleTemplateValues": {
-                "stage": "I Lyga Regular Season",
-                "match": "DFK Dainava v Be1 NFA",
-                "team:fk-be1": "Be1 NFA",
-                "season": "Pirma Lyga 2026",
-                "team:dfk-dainava": "DFK Dainava",
-                "publisher-channel": "MA | Lithuania | Moterų A Lyga 2026 (Channel)",
-                "country": "Lithuania",
-                "city": "Alytus",
-                "global-stage": "Round 11",
-                "publisher": "MA | Lithuania ",
-                "competition": "Pirma Lyga",
-                "association": "Lithuania",
-                "stadium": "Alytaus miesto stadionas",
-                "video-type": "Live Streams",
-                "organizer": "Lithuania",
-                "organizer-country": "Lithuania"
-            },
-            "startDate": "2026-05-22T15:50:00Z",
-            "endDate": "2026-05-22T18:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-22T16:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "DFK Dainava v Be1 NFA"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Pirma Lyga 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 11"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Lithuania"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_22_07_27_17_c057e8f2-926a-462b-a542-1253a590e74f/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Alit%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779464940",
-                "decryption_keys": [
-                    "342445471ca73ab2bdabd43ac666f00e:03d0bb1e3fc1eeb9570e649f63b23182"
-                ]
-            }
-        },
-        {
-            "id": "bcce7f88-1935-45c5-a4fa-4e18d91f8a8d",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "bcce7f88-1935-45c5-a4fa-4e18d91f8a8d",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "FK Jonava v Babrungas | Pirma Lyga 2026",
-            "category": "livestream",
-            "urlSlug": "fk-jonava-vs-fk-babrungas",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/f2/4c/3b/b0/f24c3bb0-e739-4ae5-95d3-6cbfe473d948.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/6a/83/8a/f9/6a838af9-2827-4cbb-8410-3adb0824568a.png",
-            "freeMode": "FREE_ADS",
-            "title": "FK Jonava v Babrungas | Pirma Lyga 2026",
-            "titleTemplateValues": {
-                "stage": "I Lyga Regular Season",
-                "stadium": "Jonava Stadium",
-                "season": "Pirma Lyga 2026",
-                "team:fk-babrungas": "Babrungas",
-                "country": "Lithuania",
-                "city": "Jonava",
-                "team:fk-jonava": "FK Jonava",
-                "global-stage": "Round 11",
-                "publisher": "MA | Lithuania ",
-                "competition": "Pirma Lyga",
-                "association": "Lithuania",
-                "match": "FK Jonava v Babrungas",
-                "video-type": "Live Streams",
-                "publisher-channel": "MA | Lithuania | Pirma Lyga 2026 (Channel)",
-                "organizer": "Lithuania",
-                "organizer-country": "Lithuania"
-            },
-            "startDate": "2026-05-22T15:50:00Z",
-            "endDate": "2026-05-22T18:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-22T16:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "FK Jonava v Babrungas"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Pirma Lyga 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 11"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Lithuania"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_22_07_30_26_c985dc15-2cdd-4777-a7ee-2c4a9ca75955/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Alit%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779464940",
-                "decryption_keys": [
-                    "55af97df3b22330984e0063c539e54f0:5e63747be02b24d478c5950aab5c5a01"
-                ]
-            }
-        },
         {
             "id": "0246d474-573d-4e38-9a80-20116a0986c1",
             "channelId": "fifa-tournaments",
@@ -3151,6 +2947,194 @@
                     "kind": "caption",
                     "p": 1,
                     "value": "Guinea-Bissau"
+                }
+            ]
+        },
+        {
+            "id": "32d835ea-2858-4d1d-a124-d0e68a7ddcfb",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "32d835ea-2858-4d1d-a124-d0e68a7ddcfb",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "FC Nouadhibou v Inter Nouakchott | Super D-1 2025/26",
+            "category": "livestream",
+            "urlSlug": "fc-nouadhibou-vs-inter-nouakchott",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/39/61/d8/4a/3961d84a-2170-4737-8a7c-42d7ae00e8f7.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/d2/e2/3b/09/d2e23b09-8ac0-489c-95fe-66816758f6d8.png",
+            "freeMode": "FREE_ADS",
+            "title": "FC Nouadhibou v Inter Nouakchott | Super D-1 2025/26",
+            "titleTemplateValues": {
+                "match": "FC Nouadhibou v Inter Nouakchott",
+                "stage": "Regular season",
+                "publisher": "MA | Mauritania",
+                "competition": "Super D-1",
+                "city": "Nouakchott",
+                "association": "Mauritania",
+                "stadium": "Stade Cheikha Ould Boïdiya",
+                "publisher-channel": "MA | Mauritania | Super D1 2025/2026",
+                "season": "Super D-1 2025/26",
+                "global-stage": "Round 26",
+                "team:fc-nouadhibou": "FC Nouadhibou",
+                "country": "Mauritania",
+                "video-type": "Live Streams",
+                "team:inter-nouakchott": "Inter Nouakchott",
+                "organizer": "Mauritania",
+                "organizer-country": "Mauritania"
+            },
+            "startDate": "2026-05-23T16:35:00Z",
+            "endDate": "2026-05-23T19:15:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-23T16:45:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "FC Nouadhibou v Inter Nouakchott"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Super D-1 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Mauritania"
+                }
+            ]
+        },
+        {
+            "id": "f7747a8f-177c-4197-984c-a2dadf90dec1",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "f7747a8f-177c-4197-984c-a2dadf90dec1",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Académica do Porto Novo v Benfica da Brava | Cape Verdean Football Championship 2026",
+            "category": "livestream",
+            "urlSlug": "academica-do-porto-novo-vs-benfica-da-brava",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/e2/de/a5/df/e2dea5df-b115-46c7-896c-b14873589822.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/e3/a0/77/7b/e3a0777b-0467-482c-a05c-89b4fdb75bca.png",
+            "freeMode": "FREE_ADS",
+            "title": "Académica do Porto Novo v Benfica da Brava | Cape Verdean Football Championship 2026",
+            "titleTemplateValues": {
+                "global-stage": "Round 3",
+                "team:benfica-da-brava": "Benfica da Brava",
+                "stage": "Group Stage",
+                "publisher-channel": "MA | Cape Verde | Cape Verdean Football Championship 2026 (Channel)",
+                "competition": "Cape Verdean Football Championship",
+                "match": "Académica do Porto Novo v Benfica da Brava",
+                "team:academica-do-porto-novo": "Académica do Porto Novo",
+                "country": "Cabo Verde",
+                "city": "Santo Antão",
+                "season": "Cape Verdean Football Championship 2026",
+                "publisher": "MA | Cape Verde",
+                "fifa-plus": "Mens (FIFA Plus)",
+                "stadium": "Porto Novo Municipal Stadium",
+                "association": "Cabo Verde",
+                "video-type": "Live Streams",
+                "organizer": "Cabo Verde",
+                "organizer-country": "Cabo Verde"
+            },
+            "startDate": "2026-05-23T16:50:00Z",
+            "endDate": "2026-05-23T19:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-23T17:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Académica do Porto Novo v Benfica da Brava"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Cape Verdean Football Championship 2026"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 3"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Cabo Verde"
+                }
+            ]
+        },
+        {
+            "id": "39c3e797-e01e-4cf9-bcd1-f4507ffaaff1",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "39c3e797-e01e-4cf9-bcd1-f4507ffaaff1",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Académico do Sal v Scorpion Vermelho | Cape Verdean Football Championship 2026",
+            "category": "livestream",
+            "urlSlug": "academico-do-sal-vs-scorpion-vermelho",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/e2/de/a5/df/e2dea5df-b115-46c7-896c-b14873589822.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/10/a0/43/83/10a04383-e32c-4615-a070-ca81008e6d70.png",
+            "freeMode": "FREE_ADS",
+            "title": "Académico do Sal v Scorpion Vermelho | Cape Verdean Football Championship 2026",
+            "titleTemplateValues": {
+                "city": "Sal",
+                "global-stage": "Round 3",
+                "stadium": "Marcelo Leitão Stadium",
+                "stage": "Group Stage",
+                "publisher-channel": "MA | Cape Verde | Cape Verdean Football Championship 2026 (Channel)",
+                "team:scorpion-vermelho": "Scorpion Vermelho",
+                "competition": "Cape Verdean Football Championship",
+                "country": "Cabo Verde",
+                "season": "Cape Verdean Football Championship 2026",
+                "match": "Académico do Sal v Scorpion Vermelho",
+                "publisher": "MA | Cape Verde",
+                "fifa-plus": "Mens (FIFA Plus)",
+                "team:academico-do-sal": "Académico do Sal",
+                "association": "Cabo Verde",
+                "video-type": "Live Streams",
+                "organizer": "Cabo Verde",
+                "organizer-country": "Cabo Verde"
+            },
+            "startDate": "2026-05-23T16:50:00Z",
+            "endDate": "2026-05-23T19:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-23T17:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Académico do Sal v Scorpion Vermelho"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Cape Verdean Football Championship 2026"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 3"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Cabo Verde"
                 }
             ]
         }

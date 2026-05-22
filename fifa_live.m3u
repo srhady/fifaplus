@@ -1,23 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 12:15:18 AM 23-05-2026
+#last update time: 12:30:23 AM 23-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/ab/f1/8a/f3/abf18af3-64d5-42b2-a12f-245bfaf79354.png" group-title="FIFA Live", Al Jazira v Al Ain FC | Final | President's Cup 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e43e669d8f2f3f70bf94ead83cfb5c74:4ec3cfb34a6f79ee87f1c51be3f2101e
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_09_28_19_657f16c2-a6c8-4b6c-b0fd-751f05f5b7cf/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779463740
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/8a/a9/9e/03/8aa99e03-5e05-4aed-bd6a-8e533741598f.png" group-title="FIFA Live", DFK Dainava v Be1 NFA | Pirma Lyga 2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=342445471ca73ab2bdabd43ac666f00e:03d0bb1e3fc1eeb9570e649f63b23182
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_22_07_27_17_c057e8f2-926a-462b-a542-1253a590e74f/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Alit%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779464940
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/6a/83/8a/f9/6a838af9-2827-4cbb-8410-3adb0824568a.png" group-title="FIFA Live", FK Jonava v Babrungas | Pirma Lyga 2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=55af97df3b22330984e0063c539e54f0:5e63747be02b24d478c5950aab5c5a01
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_22_07_30_26_c985dc15-2cdd-4777-a7ee-2c4a9ca75955/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Alit%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779464940
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/79/2a/c7/68/792ac768-7651-47d1-bf59-90d3e9e590c0.png" group-title="FIFA Live", AS Real v FC Diarra | Ligue 1 Pro Orange 2025/26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
