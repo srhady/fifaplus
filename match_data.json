@@ -3,80 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "06:45:21 PM 22-05-2026",
-        "total_live": 2,
+        "last_update_time": "07:00:38 PM 22-05-2026",
+        "total_live": 1,
         "total_upcoming": 9
     },
     "matches": [
-        {
-            "id": "4549fced-d7b3-478c-a052-25231ed46111",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "4549fced-d7b3-478c-a052-25231ed46111",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Anse Reunion FC v Real Maldive FC | Seychelles Absa Premier League 2025/26",
-            "category": "livestream",
-            "urlSlug": "anse-reunion-fc-vs-real-maldive-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/45/9f/11/a8/459f11a8-e0bb-4967-9ffc-2e4fe552a13e.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/63/c2/c5/2b/63c2c52b-312b-4289-ad32-a0db641ed218.png",
-            "freeMode": "FREE_ADS",
-            "title": "Anse Reunion FC v Real Maldive FC | Seychelles Absa Premier League 2025/26",
-            "titleTemplateValues": {
-                "team:real-maldive-fc": "Real Maldive FC",
-                "publisher-channel": "MA | Seychelles | Absa Premier League 2025/2026",
-                "match": "Anse Reunion FC v Real Maldive FC",
-                "publisher": "MA | Seychelles",
-                "team:anse-reunion-fc": "Anse Reunion FC",
-                "global-stage": "Round 15",
-                "stage": "Regular Season",
-                "stadium": "La Digue Sport Complex",
-                "association": "Seychelles",
-                "season": "Seychelles Absa Premier League 2025/26",
-                "city": "La Réunion",
-                "fifa-plus": "Mens (FIFA Plus)",
-                "country": "Seychelles",
-                "competition": "Seychelles Premier League",
-                "video-type": "Live Streams",
-                "organizer": "Seychelles",
-                "organizer-country": "Seychelles"
-            },
-            "startDate": "2026-05-22T10:35:00Z",
-            "endDate": "2026-05-22T13:15:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-22T10:45:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Anse Reunion FC v Real Maldive FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Seychelles Absa Premier League 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 15"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Seychelles"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_07_47_46_b8f2da23-43a7-45ca-bfce-5f198c2a27c6/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779446040",
-                "decryption_keys": [
-                    "85404bc3517d377fa69753d1eae88979:6bb94788d97a09f5343ce018c31194d6"
-                ]
-            }
-        },
         {
             "id": "f21f6dcb-4b82-49da-be2c-57ccd304084f",
             "channelId": "fifa-tournaments",
