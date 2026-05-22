@@ -3,79 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "07:15:19 AM 22-05-2026",
-        "total_live": 2,
+        "last_update_time": "07:30:19 AM 22-05-2026",
+        "total_live": 1,
         "total_upcoming": 12
     },
     "matches": [
-        {
-            "id": "2b8ce184-b572-49de-8001-eaee13d8e1eb",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "2b8ce184-b572-49de-8001-eaee13d8e1eb",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Broki v Leo Victor | Suriname Major League 2025/26",
-            "category": "livestream",
-            "urlSlug": "broki-vs-leo-victor",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/20/6d/20/4c/206d204c-c4a8-4272-b812-4a5930e5d86d.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/99/ac/16/09/99ac1609-e2a3-4a41-980c-f60e9e528161.png",
-            "freeMode": "FREE_ADS",
-            "title": "Broki v Leo Victor | Suriname Major League 2025/26",
-            "titleTemplateValues": {
-                "team:broki": "Broki",
-                "match": "Broki v Leo Victor",
-                "stadium": "Franklin Essed Stadium",
-                "season": "Suriname Major League 2025/26",
-                "global-stage": "Playoffs",
-                "publisher": "MA | Suriname",
-                "city": "Paramaribo",
-                "country": "Suriname",
-                "team:leo-victor": "Leo Victor",
-                "competition": "Suriname Major League",
-                "association": "Suriname",
-                "stage": "Playoffs",
-                "video-type": "Live Streams",
-                "publisher-channel": "MA | Suriname | Suriname's SML Season III 2025/2026",
-                "organizer": "Suriname",
-                "organizer-country": "Suriname"
-            },
-            "startDate": "2026-05-21T22:50:00Z",
-            "endDate": "2026-05-22T01:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-21T23:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Broki v Leo Victor"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Suriname Major League 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Playoffs"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Suriname"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_17_15_54_59_4343f7fd-af8b-48cb-8da1-bdc2dfa8c407/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Anld%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779403740",
-                "decryption_keys": [
-                    "e82de04675443a01b8b78ac3f099a00a:2607cb2a84eb4afe9abd6ad85ac4c960"
-                ]
-            }
-        },
         {
             "id": "4cb5b912-9057-4bb5-83eb-c3edcaec58ad",
             "channelId": "fifa-tournaments",
