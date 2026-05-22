@@ -3,80 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "08:00:30 PM 22-05-2026",
-        "total_live": 1,
+        "last_update_time": "08:15:25 PM 22-05-2026",
+        "total_live": 0,
         "total_upcoming": 9
     },
     "matches": [
-        {
-            "id": "f21f6dcb-4b82-49da-be2c-57ccd304084f",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "f21f6dcb-4b82-49da-be2c-57ccd304084f",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Gabala SC v Shafa FC | Azerbaijan Women's League 2025/26",
-            "category": "livestream",
-            "urlSlug": "gabala-sc-vs-shafa-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/63/e4/3a/81/63e43a81-0179-4338-8ef9-a1a12bb023f6.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/70/01/fe/9f/7001fe9f-5ac7-4a43-be02-f771e4d76de9.png",
-            "freeMode": "FREE_ADS",
-            "title": "Gabala SC v Shafa FC | Azerbaijan Women's League 2025/26",
-            "titleTemplateValues": {
-                "team:gabala-sc": "Gabala SC",
-                "country": "Azerbaijan",
-                "stage": "Regular Season",
-                "global-stage": "Round 21",
-                "competition": "Azerbaijan Women's League",
-                "fifa-plus": "Womens (FIFA Plus)",
-                "match": "Gabala SC v Shafa FC",
-                "publisher-channel": "MA | Azerbaijan | Azerbaijan Women's League 2025/26 (Channel)",
-                "stadium": "Gabala City Stadium",
-                "association": "Azerbaijan",
-                "season": "Azerbaijan Women's League 2025/26",
-                "team:shafa-fc": "Shafa FC",
-                "city": "Gabala",
-                "publisher": "MA | Azerbaijan",
-                "video-type": "Live Streams",
-                "organizer": "Azerbaijan",
-                "organizer-country": "Azerbaijan"
-            },
-            "startDate": "2026-05-22T11:50:00Z",
-            "endDate": "2026-05-22T14:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-22T12:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Gabala SC v Shafa FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Azerbaijan Women's League 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 21"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Azerbaijan"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_21_06_56_49_43890045-aff9-4b81-9137-fb2b586555ee/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779450540",
-                "decryption_keys": [
-                    "985b3485808c3d2f856e61c0ae538f42:23eb0abb820e4331088bbf5a6a69eb3c"
-                ]
-            }
-        },
         {
             "id": "763fa036-4edd-4c29-9c99-2c9ebafd032a",
             "channelId": "fifa-tournaments",
