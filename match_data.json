@@ -3,149 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "12:45:16 AM 23-05-2026",
-        "total_live": 2,
-        "total_upcoming": 48
+        "last_update_time": "01:00:27 AM 23-05-2026",
+        "total_live": 0,
+        "total_upcoming": 50
     },
     "matches": [
-        {
-            "id": "0246d474-573d-4e38-9a80-20116a0986c1",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "0246d474-573d-4e38-9a80-20116a0986c1",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "AS Real v FC Diarra | Ligue 1 Pro Orange 2025/26",
-            "category": "livestream",
-            "urlSlug": "as-real-vs-fc-diarra",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/ac/59/f0/5a/ac59f05a-c2ad-43a2-9106-de83c6792b2a.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/79/2a/c7/68/792ac768-7651-47d1-bf59-90d3e9e590c0.png",
-            "freeMode": "FREE_ADS",
-            "title": "AS Real v FC Diarra | Ligue 1 Pro Orange 2025/26",
-            "titleTemplateValues": {
-                "competition": "Ligue 1 Pro Orange",
-                "city": "Bamako",
-                "association": "Mali",
-                "team:as-real": "AS Real",
-                "global-stage": "Round 21",
-                "stadium": "26 March Stadium",
-                "team:fc-diarra": "FC Diarra",
-                "publisher": "MA | Mali",
-                "country": "Mali",
-                "season": "Ligue 1 Pro Orange 2025/26",
-                "publisher-channel": "MA | Mali | Ligue 1 Pro Orange 2025/26",
-                "stage": "Regular Season",
-                "match": "AS Real v FC Diarra",
-                "fifa-plus": "Mens (FIFA Plus)",
-                "video-type": "Live Streams",
-                "organizer": "Mali",
-                "organizer-country": "Mali"
-            },
-            "startDate": "2026-05-22T16:20:00Z",
-            "endDate": "2026-05-22T19:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-22T16:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "AS Real v FC Diarra"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Ligue 1 Pro Orange 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 21"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Mali"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_18_15_44_45_73ddfc87-d5ff-4934-90dc-09ac759aa4f5/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Abam%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779466740",
-                "decryption_keys": [
-                    "08caab0f3b0f33f9b089295d5c7c48b5:87c581ee64a01e7d5c531a42b9ab7439"
-                ]
-            }
-        },
-        {
-            "id": "5132fa8b-14ff-4afd-b8af-82e572b5dbb6",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "5132fa8b-14ff-4afd-b8af-82e572b5dbb6",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Djoliba AC v USFAS | Ligue 1 Pro Orange 2025/26",
-            "category": "livestream",
-            "urlSlug": "djoliba-ac-vs-usfas",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/ac/59/f0/5a/ac59f05a-c2ad-43a2-9106-de83c6792b2a.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/ae/df/1b/b5/aedf1bb5-0713-407e-9f82-b42df8977fbc.png",
-            "freeMode": "FREE_ADS",
-            "title": "Djoliba AC v USFAS | Ligue 1 Pro Orange 2025/26",
-            "titleTemplateValues": {
-                "team:usfas": "USFAS",
-                "competition": "Ligue 1 Pro Orange",
-                "city": "Bamako",
-                "association": "Mali",
-                "global-stage": "Round 21",
-                "publisher": "MA | Mali",
-                "country": "Mali",
-                "match": "Djoliba AC v USFAS",
-                "season": "Ligue 1 Pro Orange 2025/26",
-                "publisher-channel": "MA | Mali | Ligue 1 Pro Orange 2025/26",
-                "stage": "Regular Season",
-                "fifa-plus": "Mens (FIFA Plus)",
-                "stadium": "Mamadou Konate Stadium",
-                "team:djoliba-ac": "Djoliba AC",
-                "video-type": "Live Streams",
-                "organizer": "Mali",
-                "organizer-country": "Mali"
-            },
-            "startDate": "2026-05-22T16:20:00Z",
-            "endDate": "2026-05-22T19:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-22T16:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Djoliba AC v USFAS"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Ligue 1 Pro Orange 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 21"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Mali"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_18_15_44_50_b6d75258-d17b-4b4e-82b5-63ec11e91f3c/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Abam%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779466740",
-                "decryption_keys": [
-                    "9af2de19304533d0a48ea91a4053a19b:a2b12fdc152f0c0c22be6593df57bb14"
-                ]
-            }
-        },
         {
             "id": "be67d471-d826-4e13-a0e8-61847e28f8df",
             "channelId": "fifa-tournaments",
@@ -3120,6 +2982,132 @@
                     "kind": "title",
                     "p": 0,
                     "value": "Académico do Sal v Scorpion Vermelho"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Cape Verdean Football Championship 2026"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 3"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Cabo Verde"
+                }
+            ]
+        },
+        {
+            "id": "79b937c4-9a82-4454-91bc-94d29d8a7adc",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "79b937c4-9a82-4454-91bc-94d29d8a7adc",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Boavista da Praia v Mindelense | Cape Verdean Football Championship 2026",
+            "category": "livestream",
+            "urlSlug": "boavista-da-praia-vs-cs-mindelense",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/e2/de/a5/df/e2dea5df-b115-46c7-896c-b14873589822.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/de/77/e2/86/de77e286-3052-46ab-be8d-45c73b9e1e87.png",
+            "freeMode": "FREE_ADS",
+            "title": "Boavista da Praia v Mindelense | Cape Verdean Football Championship 2026",
+            "titleTemplateValues": {
+                "global-stage": "Round 3",
+                "stage": "Group Stage",
+                "publisher-channel": "MA | Cape Verde | Cape Verdean Football Championship 2026 (Channel)",
+                "competition": "Cape Verdean Football Championship",
+                "stadium": "Estádio da Várzea",
+                "match": "Boavista da Praia v Mindelense",
+                "country": "Cabo Verde",
+                "city": "Praia",
+                "season": "Cape Verdean Football Championship 2026",
+                "publisher": "MA | Cape Verde",
+                "fifa-plus": "Mens (FIFA Plus)",
+                "team:cs-mindelense": "Mindelense",
+                "association": "Cabo Verde",
+                "video-type": "Live Streams",
+                "team:boavista-da-praia": "Boavista da Praia",
+                "organizer": "Cabo Verde",
+                "organizer-country": "Cabo Verde"
+            },
+            "startDate": "2026-05-23T16:50:00Z",
+            "endDate": "2026-05-23T19:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-23T17:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Boavista da Praia v Mindelense"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Cape Verdean Football Championship 2026"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 3"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Cabo Verde"
+                }
+            ]
+        },
+        {
+            "id": "591fb4ec-bea5-4938-92c7-89677036e2bf",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "591fb4ec-bea5-4938-92c7-89677036e2bf",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Onze Unidos v Atlético São Nicolau | Cape Verdean Football Championship 2026",
+            "category": "livestream",
+            "urlSlug": "onze-unidos-vs-atletico-sao-nicolau",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/e2/de/a5/df/e2dea5df-b115-46c7-896c-b14873589822.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/21/be/8a/b6/21be8ab6-7faa-446e-99e6-a6bd6d965389.png",
+            "freeMode": "FREE_ADS",
+            "title": "Onze Unidos v Atlético São Nicolau | Cape Verdean Football Championship 2026",
+            "titleTemplateValues": {
+                "city": "Nova Sintra",
+                "global-stage": "Round 3",
+                "team:atletico-sao-nicolau": "Atlético São Nicolau",
+                "stadium": "Dau d'Segunda",
+                "stage": "Group Stage",
+                "publisher-channel": "MA | Cape Verde | Cape Verdean Football Championship 2026 (Channel)",
+                "competition": "Cape Verdean Football Championship",
+                "team:onze-unidos": "Onze Unidos",
+                "country": "Cabo Verde",
+                "match": "Onze Unidos v Atlético São Nicolau",
+                "season": "Cape Verdean Football Championship 2026",
+                "publisher": "MA | Cape Verde",
+                "fifa-plus": "Mens (FIFA Plus)",
+                "association": "Cabo Verde",
+                "video-type": "Live Streams",
+                "organizer": "Cabo Verde",
+                "organizer-country": "Cabo Verde"
+            },
+            "startDate": "2026-05-23T16:50:00Z",
+            "endDate": "2026-05-23T19:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-23T17:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Onze Unidos v Atlético São Nicolau"
                 },
                 {
                     "kind": "subtitle",

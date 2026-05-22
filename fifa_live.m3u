@@ -1,15 +1,5 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 12:45:16 AM 23-05-2026
+#last update time: 01:00:27 AM 23-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/79/2a/c7/68/792ac768-7651-47d1-bf59-90d3e9e590c0.png" group-title="FIFA Live", AS Real v FC Diarra | Ligue 1 Pro Orange 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=08caab0f3b0f33f9b089295d5c7c48b5:87c581ee64a01e7d5c531a42b9ab7439
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_18_15_44_45_73ddfc87-d5ff-4934-90dc-09ac759aa4f5/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Abam%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779466740
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/ae/df/1b/b5/aedf1bb5-0713-407e-9f82-b42df8977fbc.png" group-title="FIFA Live", Djoliba AC v USFAS | Ligue 1 Pro Orange 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9af2de19304533d0a48ea91a4053a19b:a2b12fdc152f0c0c22be6593df57bb14
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_18_15_44_50_b6d75258-d17b-4b4e-82b5-63ec11e91f3c/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Abam%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779466740
