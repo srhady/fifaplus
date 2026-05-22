@@ -3,8 +3,8 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "11:00:25 PM 22-05-2026",
-        "total_live": 7,
+        "last_update_time": "11:15:22 PM 22-05-2026",
+        "total_live": 6,
         "total_upcoming": 0
     },
     "matches": [
@@ -73,74 +73,6 @@
                 "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_18_13_46_53_52e89851-4900-4419-9942-a955fa2d92cd/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779461340",
                 "decryption_keys": [
                     "06e023cc59b6389aaf48784ad588b5c1:0059ade92b99b7578bea61665ef32b59"
-                ]
-            }
-        },
-        {
-            "id": "e25633d7-cfc1-4ff0-8b4c-9c0865b4b6db",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "e25633d7-cfc1-4ff0-8b4c-9c0865b4b6db",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Hodio FC v Dadjè FC | Ligue 1 2025",
-            "category": "livestream",
-            "urlSlug": "hodio-fc-vs-dadje-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/76/8b/f5/a3/768bf5a3-8d1c-41c2-b76e-25e7995e467a.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/4b/5c/82/bd/4b5c82bd-18f2-4bd3-adc1-6a87002714ba.png",
-            "freeMode": "FREE_ADS",
-            "title": "Hodio FC v Dadjè FC | Ligue 1 2025",
-            "titleTemplateValues": {
-                "competition": "Super Ligue Pro",
-                "country": "Benin",
-                "publisher": "MA | Benin",
-                "stadium": "Comè Stadium",
-                "season": "Ligue 1 2025",
-                "team:dadje-fc": "Dadjè FC",
-                "city": "Comè ",
-                "global-stage": "Round 30",
-                "stage": "Regular Stage",
-                "association": "Benin",
-                "team:hodio-fc": "Hodio FC",
-                "match": "Hodio FC v Dadjè FC",
-                "publisher-channel": "MA | Benin | Ligue 1 2025/2026",
-                "video-type": "Live Streams",
-                "organizer": "Benin",
-                "organizer-country": "Benin"
-            },
-            "startDate": "2026-05-22T15:27:00Z",
-            "endDate": "2026-05-22T17:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-22T15:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Hodio FC v Dadjè FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Ligue 1 2025"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 30"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Benin"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_18_13_46_56_bf2de4b1-da1a-49cb-b21a-858e41472f6d/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779461640",
-                "decryption_keys": [
-                    "1fa8a86cfb57386e80633cdd41e1c6f5:38e840a49cd425ca536f45577b2b3691"
                 ]
             }
         },
