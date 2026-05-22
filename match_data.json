@@ -3,80 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "10:45:22 PM 22-05-2026",
-        "total_live": 8,
+        "last_update_time": "11:00:25 PM 22-05-2026",
+        "total_live": 7,
         "total_upcoming": 0
     },
     "matches": [
-        {
-            "id": "763fa036-4edd-4c29-9c99-2c9ebafd032a",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "763fa036-4edd-4c29-9c99-2c9ebafd032a",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "St. Michel SC v Revengers FC | Seychelles Absa Premier League 2025/26",
-            "category": "livestream",
-            "urlSlug": "st-michel-sc-vs-revengers-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/45/9f/11/a8/459f11a8-e0bb-4967-9ffc-2e4fe552a13e.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/62/2c/88/4f/622c884f-551b-4d29-bcc6-acb557a471e5.png",
-            "freeMode": "FREE_ADS",
-            "title": "St. Michel SC v Revengers FC | Seychelles Absa Premier League 2025/26",
-            "titleTemplateValues": {
-                "publisher-channel": "MA | Seychelles | Absa Premier League 2025/2026",
-                "publisher": "MA | Seychelles",
-                "stadium": "Stad Linite",
-                "team:st-michel-sc": "St. Michel SC",
-                "global-stage": "Round 15",
-                "team:revengers-fc": "Revengers FC",
-                "stage": "Regular Season",
-                "association": "Seychelles",
-                "season": "Seychelles Absa Premier League 2025/26",
-                "fifa-plus": "Mens (FIFA Plus)",
-                "country": "Seychelles",
-                "match": "St. Michel SC v Revengers FC",
-                "city": "Roche Caiman",
-                "competition": "Seychelles Premier League",
-                "video-type": "Live Streams",
-                "organizer": "Seychelles",
-                "organizer-country": "Seychelles"
-            },
-            "startDate": "2026-05-22T14:20:00Z",
-            "endDate": "2026-05-22T17:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-22T14:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "St. Michel SC v Revengers FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Seychelles Absa Premier League 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 15"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Seychelles"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_07_47_49_b33ae871-6299-416c-b408-6fc92ddef09f/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779459540",
-                "decryption_keys": [
-                    "5388fdaab98c3630af1cef23e511d9ba:18a18ffae0ebafc8d188f9a278d3fc18"
-                ]
-            }
-        },
         {
             "id": "d7aa705f-0619-49f8-a2aa-09e2b636ee89",
             "channelId": "fifa-tournaments",

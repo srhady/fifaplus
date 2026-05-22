@@ -1,13 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:45:22 PM 22-05-2026
+#last update time: 11:00:25 PM 22-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/62/2c/88/4f/622c884f-551b-4d29-bcc6-acb557a471e5.png" group-title="FIFA Live", St. Michel SC v Revengers FC | Seychelles Absa Premier League 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5388fdaab98c3630af1cef23e511d9ba:18a18ffae0ebafc8d188f9a278d3fc18
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_07_47_49_b33ae871-6299-416c-b408-6fc92ddef09f/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779459540
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/11/b7/3b/43/11b73b43-9be8-4e3c-92d1-8519af9c82a8.png" group-title="FIFA Live", Dragons FC v Loto Popo FC | Ligue 1 2025
 #KODIPROP:inputstream.adaptive.license_type=clearkey
