@@ -1,13 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 04:45:19 PM 22-05-2026
+#last update time: 05:00:28 PM 22-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/c8/4c/88/5a/c84c885a-f2f4-4a0a-9202-624ebce4bd34.png" group-title="FIFA Live", Wusum Stars FC v Bullom Stars FC (Second Half) | Leone Rock Premier League 2025-26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c413cfb3547232e7bad0540d614425b3:e161628a50cda620d342e7cd995050f6
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_22_08_05_53_f334d7cc-bb43-424c-a912-41e9bd437488/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779443340
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/63/c2/c5/2b/63c2c52b-312b-4289-ad32-a0db641ed218.png" group-title="FIFA Live", Anse Reunion FC v Real Maldive FC | Seychelles Absa Premier League 2025/26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
