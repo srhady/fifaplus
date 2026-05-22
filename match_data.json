@@ -3,79 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "03:45:20 AM 23-05-2026",
-        "total_live": 1,
-        "total_upcoming": 49
+        "last_update_time": "04:00:29 AM 23-05-2026",
+        "total_live": 0,
+        "total_upcoming": 50
     },
     "matches": [
-        {
-            "id": "be67d471-d826-4e13-a0e8-61847e28f8df",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "be67d471-d826-4e13-a0e8-61847e28f8df",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Monagas B v Ávila FC | Liga FUTVE 2 2026",
-            "category": "livestream",
-            "urlSlug": "monagas-b-vs-avila-f-c",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/57/b2/b9/56/57b2b956-2a4f-4b00-9e73-4c3ff15091b9.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/5a/ff/ec/39/5affec39-73f5-44f2-aa92-cf276eb4b434.png",
-            "freeMode": "FREE_ADS",
-            "title": "Monagas B v Ávila FC | Liga FUTVE 2 2026",
-            "titleTemplateValues": {
-                "team:monagas-b": "Monagas B",
-                "match": "Monagas B v Ávila FC",
-                "season": "Liga FUTVE 2 2026",
-                "team:avila-f-c": "Ávila FC",
-                "stage": "Regular Season",
-                "city": "Maturin",
-                "association": "Venezuela",
-                "global-stage": "Round 12",
-                "publisher": "MA | Venezuela",
-                "stadium": "Comanche Bottini",
-                "competition": "Liga FUTVE 2",
-                "country": "Venezuela",
-                "video-type": "Live Streams",
-                "publisher-channel": "MA | Venezuela | Liga FUTVE 2 2026 (Channel)",
-                "organizer": "Venezuela",
-                "organizer-country": "Venezuela"
-            },
-            "startDate": "2026-05-22T19:20:00Z",
-            "endDate": "2026-05-22T22:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-22T19:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Monagas B v Ávila FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Liga FUTVE 2 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 12"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Venezuela"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_18_14_20_05_a3958fe0-0ff8-4489-873b-9e4ee7300ccf/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779477540",
-                "decryption_keys": [
-                    "a31072adc3723f13aa6a6ce567dc8c06:8edeb2f56d25f83cbdd87a6868689268"
-                ]
-            }
-        },
         {
             "id": "4b9e7d07-eef3-4e9f-ad80-925792272d92",
             "channelId": "fifa-tournaments",
@@ -3114,6 +3046,69 @@
                     "kind": "title",
                     "p": 0,
                     "value": "Onze Unidos v Atlético São Nicolau"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Cape Verdean Football Championship 2026"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 3"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Cabo Verde"
+                }
+            ]
+        },
+        {
+            "id": "afd957e9-3c0e-4b29-ab77-b71634ffb4c8",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "afd957e9-3c0e-4b29-ab77-b71634ffb4c8",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "África Show v Palmeira | Cape Verdean Football Championship 2026",
+            "category": "livestream",
+            "urlSlug": "africa-show-vs-palmeira",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/e2/de/a5/df/e2dea5df-b115-46c7-896c-b14873589822.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/7b/fd/84/c2/7bfd84c2-d73c-462f-9f03-37204ce12286.png",
+            "freeMode": "FREE_ADS",
+            "title": "África Show v Palmeira | Cape Verdean Football Championship 2026",
+            "titleTemplateValues": {
+                "global-stage": "Round 3",
+                "team:palmeira": "Palmeira",
+                "match": "África Show v Palmeira",
+                "stage": "Group Stage",
+                "publisher-channel": "MA | Cape Verde | Cape Verdean Football Championship 2026 (Channel)",
+                "competition": "Cape Verdean Football Championship",
+                "team:africa-show": "África Show",
+                "stadium": "Arsénio Ramos Stadium",
+                "country": "Cabo Verde",
+                "season": "Cape Verdean Football Championship 2026",
+                "publisher": "MA | Cape Verde",
+                "city": "Sal Rei",
+                "fifa-plus": "Mens (FIFA Plus)",
+                "association": "Cabo Verde",
+                "video-type": "Live Streams",
+                "organizer": "Cabo Verde",
+                "organizer-country": "Cabo Verde"
+            },
+            "startDate": "2026-05-23T16:50:00Z",
+            "endDate": "2026-05-23T19:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-23T17:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "África Show v Palmeira"
                 },
                 {
                     "kind": "subtitle",
