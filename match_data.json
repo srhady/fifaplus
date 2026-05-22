@@ -3,9 +3,9 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "01:15:23 PM 22-05-2026",
+        "last_update_time": "01:30:21 PM 22-05-2026",
         "total_live": 0,
-        "total_upcoming": 11
+        "total_upcoming": 12
     },
     "matches": [
         {
@@ -68,6 +68,68 @@
                     "kind": "caption",
                     "p": 1,
                     "value": "New Zealand"
+                }
+            ]
+        },
+        {
+            "id": "b8750462-ee2c-4220-ac82-177df75d6e05",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "b8750462-ee2c-4220-ac82-177df75d6e05",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Wusum Stars FC v Bullom Stars FC | Leone Rock Premier League 2025-26",
+            "category": "livestream",
+            "urlSlug": "wusum-stars-fc-vs-bullom-stars-fc",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/1a/8d/53/9a/1a8d539a-6303-4247-ae28-c0ef08d20cb5.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/13/b0/b8/46/13b0b846-6955-4567-b523-bb1073f8402c.png",
+            "freeMode": "FREE_ADS",
+            "title": "Wusum Stars FC v Bullom Stars FC | Leone Rock Premier League 2025-26",
+            "titleTemplateValues": {
+                "team:bullom-stars-fc": "Bullom Stars FC",
+                "stage": "Regular Season",
+                "match": "Wusum Stars FC v Bullom Stars FC",
+                "country": "Sierra Leone",
+                "competition": "Premier League",
+                "global-stage": "Round 27",
+                "publisher-channel": "MA | Sierra Leone | Rock Premier League 2025-26",
+                "association": "Sierra Leone",
+                "city": "Makeni",
+                "stadium": "Wusum Field",
+                "season": "Leone Rock Premier League 2025-26",
+                "publisher": "MA | Sierra Leone",
+                "video-type": "Live Streams",
+                "team:wusum-stars-fc": "Wusum Stars FC",
+                "organizer": "Sierra Leone",
+                "organizer-country": "Sierra Leone"
+            },
+            "startDate": "2026-05-22T08:50:00Z",
+            "endDate": "2026-05-22T10:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-22T09:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Wusum Stars FC v Bullom Stars FC"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Leone Rock Premier League 2025-26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 27"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Sierra Leone"
                 }
             ]
         },
