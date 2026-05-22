@@ -3,9 +3,9 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "02:45:28 PM 22-05-2026",
-        "total_live": 0,
-        "total_upcoming": 13
+        "last_update_time": "03:00:26 PM 22-05-2026",
+        "total_live": 1,
+        "total_upcoming": 12
     },
     "matches": [
         {
@@ -13,13 +13,13 @@
             "channelId": "fifa-tournaments",
             "catalogRedirectId": "359c92d4-24cf-453d-b20a-990a533e6d25",
             "catalogRedirectType": "EVENT",
-            "standardTitle": "Auckland FC v Eastern Suburbs | New Zealand Men's National League 2026",
+            "standardTitle": "Auckland FC v Eastern Suburbs | New Zealand Men's National League 2026 | Full Match Replay",
             "category": "livestream",
             "urlSlug": "auckland-fc-vs-eastern-suburbs-afc",
             "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/6c/f9/30/95/6cf93095-e33d-4b23-b486-45750c864708.png",
             "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/f8/bc/4d/b9/f8bc4db9-e78e-490f-8d9a-b6279a72d3d7.jpg",
             "freeMode": "FREE_ADS",
-            "title": "Auckland FC v Eastern Suburbs | New Zealand Men's National League 2026",
+            "title": "Auckland FC v Eastern Suburbs | New Zealand Men's National League 2026 | Full Match Replay",
             "titleTemplateValues": {
                 "competition": "Men's National League",
                 "publisher": "MA | New Zealand",
@@ -32,10 +32,10 @@
                 "stadium": "Fred Taylor Park",
                 "association": "New Zealand",
                 "city": "Auckland",
+                "video-type": "Full Match Replays",
                 "country": "New Zealand",
                 "fifa-plus": "Mens (FIFA Plus)",
                 "team:eastern-suburbs-afc": "Eastern Suburbs",
-                "video-type": "Live Streams",
                 "organizer": "New Zealand",
                 "organizer-country": "New Zealand"
             },
@@ -109,7 +109,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -131,7 +131,13 @@
                     "p": 1,
                     "value": "Sierra Leone"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://du2yfy2plnh46.cloudfront.net/out/v1/b173309160114f7ca57f1d6826f2249a/8f1900706e91489c97d9bfa78cd54535/027a1ce70f5243389f55092171452030/index.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720",
+                "decryption_keys": [
+                    "049c8e9c71234f20873a8ad07a981619:2f1dd96ab5988ed8df4bb548c7c53501"
+                ]
+            }
         },
         {
             "id": "1bd138ab-f349-4343-8c28-52e085bf73bd",
