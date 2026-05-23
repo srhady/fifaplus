@@ -3,80 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "09:15:20 PM 23-05-2026",
+        "last_update_time": "09:30:22 PM 23-05-2026",
         "total_live": 14,
-        "total_upcoming": 15
+        "total_upcoming": 14
     },
     "matches": [
-        {
-            "id": "15e7414b-3b4c-4fe7-b3d5-33f28c8e8745",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "15e7414b-3b4c-4fe7-b3d5-33f28c8e8745",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Young Buffaloes FC v Ezulwini United FC | MTN Premier League 2025/26",
-            "category": "livestream",
-            "urlSlug": "young-buffaloes-fc-vs-ezulwini-united-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/60/0d/47/a5/600d47a5-7f38-45fb-9076-17056ded193b.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/ce/32/97/6a/ce32976a-ed24-4d4c-b26d-d69e0993a5ff.png",
-            "freeMode": "FREE_ADS",
-            "title": "Young Buffaloes FC v Ezulwini United FC | MTN Premier League 2025/26",
-            "titleTemplateValues": {
-                "team:ezulwini-united-fc": "Ezulwini United FC",
-                "competition": "Premier League of Eswatini",
-                "country": "Eswatini",
-                "association": "Eswatini",
-                "season": "MTN Premier League 2025/26",
-                "stage": "Regular Season",
-                "team:young-buffaloes-fc": "Young Buffaloes FC",
-                "global-stage": "Round 30",
-                "publisher": "MA | Eswatini",
-                "publisher-channel": "MA | Eswatini | Premier League 2025/2026",
-                "fifa-plus": "Mens (FIFA Plus)",
-                "city": "Big Bend",
-                "match": "Young Buffaloes FC v Ezulwini United FC",
-                "stadium": "Mayaluka Stadium",
-                "video-type": "Live Streams",
-                "organizer": "Eswatini",
-                "organizer-country": "Eswatini"
-            },
-            "startDate": "2026-05-23T13:00:00Z",
-            "endDate": "2026-05-23T15:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-23T13:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Young Buffaloes FC v Ezulwini United FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "MTN Premier League 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 30"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Eswatini"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_21_07_42_13_9cabc27d-85eb-40d4-8bfe-ead187302c78/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779541140",
-                "decryption_keys": [
-                    "8b61145f310d3e7996891b0d1d297670:5039e0afcc6e47db1e6780c384efc3d4"
-                ]
-            }
-        },
         {
             "id": "c5ade2fd-b7ae-4738-8e19-9277090ac0c8",
             "channelId": "fifa-tournaments",
@@ -1063,7 +994,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -1085,7 +1016,13 @@
                     "p": 1,
                     "value": "Togo"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_13_22_03_9e789838-62ed-4ebb-a4ac-5b6f18eb9fe5/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779549540",
+                "decryption_keys": [
+                    "6d08283ef7c038f69206ba5e071b32a8:fef14fe2f807ecaaf9265aa79f88ee4a"
+                ]
+            }
         },
         {
             "id": "63a860be-7bc8-42b6-a665-b083ddb0d920",
