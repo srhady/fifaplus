@@ -3,79 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "09:00:22 PM 23-05-2026",
-        "total_live": 15,
+        "last_update_time": "09:15:20 PM 23-05-2026",
+        "total_live": 14,
         "total_upcoming": 15
     },
     "matches": [
-        {
-            "id": "544f6e2b-4b7f-4a7d-8f0c-226f699f24cd",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "544f6e2b-4b7f-4a7d-8f0c-226f699f24cd",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Barberian FC v Transit Camp | Championship League 2025/26",
-            "category": "livestream",
-            "urlSlug": "barberian-fc-vs-transit-camp-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/27/e7/42/dd/27e742dd-f5da-46d6-80dd-c4751e82832a.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/52/f8/0d/87/52f80d87-70de-45bb-8415-716a12fcc41d.png",
-            "freeMode": "FREE_ADS",
-            "title": "Barberian FC v Transit Camp | Championship League 2025/26",
-            "titleTemplateValues": {
-                "stadium": "Filbert Bayi Stadium",
-                "association": "Tanzania",
-                "country": "Tanzania",
-                "competition": "Tanzania Championship League",
-                "team:barberian-fc": "Barberian FC",
-                "publisher": "MA | Tanzania",
-                "publisher-channel": "MA | Tanzania | NBC Championship League 2025/26",
-                "team:transit-camp-fc": "Transit Camp",
-                "stage": "Regular Season",
-                "city": "Kibaha",
-                "match": "Barberian FC v Transit Camp",
-                "season": "Championship League 2025/26",
-                "global-stage": "Round 26",
-                "video-type": "Live Streams",
-                "organizer": "Tanzania",
-                "organizer-country": "Tanzania"
-            },
-            "startDate": "2026-05-23T12:50:00Z",
-            "endDate": "2026-05-23T15:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-23T13:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Barberian FC v Transit Camp"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Championship League 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Tanzania"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_09_31_21_497ce715-22a4-41ed-a7cd-82153db8db0f/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aswa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779540540",
-                "decryption_keys": [
-                    "98b8cc49568f3221a0139b801122281f:f56d76371c045a540fb0d1a44b37550c"
-                ]
-            }
-        },
         {
             "id": "15e7414b-3b4c-4fe7-b3d5-33f28c8e8745",
             "channelId": "fifa-tournaments",
