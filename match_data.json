@@ -3,9 +3,9 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "12:30:20 AM 24-05-2026",
+        "last_update_time": "12:45:17 AM 24-05-2026",
         "total_live": 12,
-        "total_upcoming": 37
+        "total_upcoming": 38
     },
     "matches": [
         {
@@ -828,69 +828,6 @@
                     "bb320c20b2d5395ba0d9bccfb67f8981:34f43365f7c13e24c3bb611c3c3b3f85"
                 ]
             }
-        },
-        {
-            "id": "7f7732cc-28f5-4433-9f39-3d626fbc7de6",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "7f7732cc-28f5-4433-9f39-3d626fbc7de6",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Afrique Football Elite v Binga FC | Ligue 1 Pro Orange 2025/26",
-            "category": "livestream",
-            "urlSlug": "afrique-football-elite-vs-binga-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/ac/59/f0/5a/ac59f05a-c2ad-43a2-9106-de83c6792b2a.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/25/eb/22/a1/25eb22a1-802a-4c1f-83ee-9d2843b952cf.png",
-            "freeMode": "FREE_ADS",
-            "title": "Afrique Football Elite v Binga FC | Ligue 1 Pro Orange 2025/26",
-            "titleTemplateValues": {
-                "competition": "Ligue 1 Pro Orange",
-                "city": "Bamako",
-                "association": "Mali",
-                "publisher": "MA | Mali",
-                "country": "Mali",
-                "team:binga-fc": "Binga FC",
-                "team:afrique-football-elite": "Afrique Football Elite",
-                "global-stage": "Round 22",
-                "season": "Ligue 1 Pro Orange 2025/26",
-                "publisher-channel": "MA | Mali | Ligue 1 Pro Orange 2025/26",
-                "stage": "Regular Season",
-                "stadium": "Stade Ouezzin Coulibaly",
-                "fifa-plus": "Mens (FIFA Plus)",
-                "match": "Afrique Football Elite v Binga FC",
-                "video-type": "Live Streams",
-                "organizer": "Mali",
-                "organizer-country": "Mali"
-            },
-            "startDate": "2026-05-23T18:20:00Z",
-            "endDate": "2026-05-23T21:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-24T16:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Afrique Football Elite v Binga FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Ligue 1 Pro Orange 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 22"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Mali"
-                }
-            ]
         },
         {
             "id": "89e4191b-76a3-42d8-bd2e-36e79c2b5566",
@@ -3190,6 +3127,68 @@
                     "kind": "caption",
                     "p": 1,
                     "value": "Sierra Leone"
+                }
+            ]
+        },
+        {
+            "id": "0b07428f-ae15-4124-ae32-38f79e7f59f0",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "0b07428f-ae15-4124-ae32-38f79e7f59f0",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Hapoel Hadera v Hapoel Nof HaGalil F.C. | Liga Noar Leumit U19 2025/26",
+            "category": "livestream",
+            "urlSlug": "hapoel-hadera-u19-vs-hapoel-nof-hagalil-f-c",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/06/55/1f/12/06551f12-3c69-42a3-a603-afd83719277e.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/8f/13/de/da/8f13deda-e87f-4824-9835-35d383990cf0.png",
+            "freeMode": "FREE_ADS",
+            "title": "Hapoel Hadera v Hapoel Nof HaGalil F.C. | Liga Noar Leumit U19 2025/26",
+            "titleTemplateValues": {
+                "team:hapoel-hadera-u19": "Hapoel Hadera",
+                "association": "Israel",
+                "global-stage": "Round 25",
+                "stage": "League North",
+                "city": "Hadera",
+                "publisher": "MA | Israel",
+                "season": "Liga Noar Leumit U19 2025/26",
+                "publisher-channel": "MA | Israel | Israeli Noar Leumit League 2025/2026",
+                "match": "Hapoel Hadera v Hapoel Nof HaGalil F.C.",
+                "stadium": "Hedera Training",
+                "team:hapoel-nof-hagalil-f-c": "Hapoel Nof HaGalil F.C.",
+                "competition": "Liga Noar Leumit U18",
+                "country": "Israel",
+                "video-type": "Live Streams",
+                "organizer": "Israel",
+                "organizer-country": "Israel"
+            },
+            "startDate": "2026-05-24T16:20:00Z",
+            "endDate": "2026-05-24T19:00:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-24T16:30:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Hapoel Hadera v Hapoel Nof HaGalil F.C."
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Liga Noar Leumit U19 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 25"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Israel"
                 }
             ]
         }
