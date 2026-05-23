@@ -1,13 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:15:17 PM 23-05-2026
+#last update time: 10:30:25 PM 23-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/30/fb/5a/1f/30fb5a1f-7b28-411a-8877-3b5d582038f0.png" group-title="FIFA Live", FK Banga v FA Šiauliai | Moterų A lyga 2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7c071eb648413cc9ace1a42aeb9b4ff3:054f0324daf691829f41a86666f28f82
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_18_15_03_13_eaf44c63-85e7-4e4b-88ef-46d943e619c4/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Alit%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779544140
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/b3/b6/8c/94/b3b68c94-4991-4bf2-93ca-7018ec69e0ed.png" group-title="FIFA Live", Dibba Al-Hisn v Al Dhaid Club | Round 29 | First Division League 2025/26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -78,3 +73,18 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_18_14_02_19_5bab4678-ad5f-4b49-93a9
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=096a8dce847937be92c982283fd5bcbd:8292f7a5220b77d9b1f6187175307e77
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_14_51_36_b8ca02c6-0c9f-4aea-bf47-8fe96f185292/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779551340
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/e0/c4/e4/ad/e0c4e4ad-abc0-4db7-8698-a0a9f81efe1b.png" group-title="FIFA Live", Freetown City FC v Old Edwardians FC | Leone Rock Premier League 2025-26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3fd9eef0edc3909a90d723eb4311483:0b6bbc2ab97f89d0bba342fe3f9c5f0a
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_08_48_01_7debf637-ccad-4711-8eee-298ece0ffbb0/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779553140
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/5a/12/39/12/5a123912-f1f5-4f62-aacf-541c5a8770bb.png" group-title="FIFA Live", Freeport FC v Paynesville FC | LFA First Division League 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2e339caa94883918912030e1cdea0ce7:d07a4b98511d48b731b658fb60ca1b84
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_14_51_32_3fb71b98-76a3-4e30-8b32-31472cee5582/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779553140
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/6f/35/eb/c1/6f35ebc1-4cc2-42a9-b592-599377eb4ad3.png" group-title="FIFA Live", Sekzia Ness Ziona v Maccabi Yafo Kabilyo | Liga Noar Leumit U19 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d907a9dcf18c3cba98cc435bd4997594:d477af5c6a8feec956f55c97436a933e
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_21_12_24_52_83273bf2-5dff-4afa-a618-7cb640fd6f40/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779553440
