@@ -1,7 +1,7 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 11:00:26 PM 23-05-2026
+#last update time: 11:15:17 PM 23-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/37/1d/f6/2b/371df62b-66b9-4895-8dee-e55c6cd3d9d4.png" group-title="FIFA Live", Deportivo Ebenezer v A.D.A.M.M. | Equatorial Guinea Football League 2025-26
@@ -83,3 +83,13 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_21_08_55_01_e8a66624-783b-4127-a9f9
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8dd940518b39338d93f6111872892fdc:d3eb3557ea5a44e630c6e94e67effe13
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_13_59_33_d38810d1-b663-4b1a-be10-97ef1c4ce661/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Asqi%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779554940
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/7b/fd/84/c2/7bfd84c2-d73c-462f-9f03-37204ce12286.png" group-title="FIFA Live", África Show v Palmeira | Cape Verdean Football Championship 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=615f5329deeb367ebf94e9a93b3be51e:7fbf7384ef3d79dedfd2c4b9da3fd060
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_21_08_54_57_baf761e6-cfe2-4ca3-adf1-a62e17ff328f/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Apor%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779556140
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/d2/e2/3b/09/d2e23b09-8ac0-489c-95fe-66816758f6d8.png" group-title="FIFA Live", FC Nouadhibou v Inter Nouakchott | Super D-1 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c768881df6733f9b5c1f9cb39e5187d:24655dee68c1fe8b2e91506a06e0bfc9
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_18_13_24_34_06b0e80e-c085-4128-b8f8-502caeafcae2/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779556440
