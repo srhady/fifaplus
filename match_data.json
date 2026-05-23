@@ -3,79 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "07:15:21 AM 23-05-2026",
-        "total_live": 3,
-        "total_upcoming": 47
+        "last_update_time": "07:30:23 AM 23-05-2026",
+        "total_live": 2,
+        "total_upcoming": 48
     },
     "matches": [
-        {
-            "id": "4b9e7d07-eef3-4e9f-ad80-925792272d92",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "4b9e7d07-eef3-4e9f-ad80-925792272d92",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "We United FC v Bombers FC | DFA Premier League 2026",
-            "category": "livestream",
-            "urlSlug": "we-united-fc-vs-portsmouth-bombers-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/cd/54/de/4a/cd54de4a-9ed2-47df-822e-cc0094b8e336.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/f8/6c/ea/57/f86cea57-8dbc-4576-bd38-ea569d162a22.png",
-            "freeMode": "FREE_ADS",
-            "title": "We United FC v Bombers FC | DFA Premier League 2026",
-            "titleTemplateValues": {
-                "publisher-channel": "MA | Dominica | DFA Premier League 2026",
-                "country": "Dominica",
-                "team:portsmouth-bombers-fc": "Bombers FC",
-                "city": "Roseau ",
-                "team:we-united-fc": "We United FC",
-                "match": "We United FC v Bombers FC",
-                "association": "Dominica",
-                "competition": "DFA Premier League",
-                "organizer-country": "Dominica",
-                "global-stage": "Round 5",
-                "stage": "Regular Season",
-                "organizer": "Доминика",
-                "season": "DFA Premier League 2026",
-                "stadium": "DFA Technical Centre",
-                "publisher": "MA | Dominica",
-                "video-type": "Live Streams"
-            },
-            "startDate": "2026-05-22T22:50:00Z",
-            "endDate": "2026-05-23T01:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-22T23:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "We United FC v Bombers FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "DFA Premier League 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 5"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Dominica"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_13_07_28_acf7fe7e-5644-4f6d-b13d-65378654a308/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779490140",
-                "decryption_keys": [
-                    "85055195c1fd30c7a289b276cdd1951c:142120cd822f3ed193b7bdeb295a0b24"
-                ]
-            }
-        },
         {
             "id": "e791f810-5ae1-4819-a68f-0c3e3e933fe2",
             "channelId": "fifa-tournaments",
@@ -3142,6 +3074,68 @@
                     "kind": "caption",
                     "p": 1,
                     "value": "Cabo Verde"
+                }
+            ]
+        },
+        {
+            "id": "8ce256d0-7564-40ea-aaae-875206a963af",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "8ce256d0-7564-40ea-aaae-875206a963af",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "KF Vllaznia v KF Egnatia | Championship Playoff | Kategoria Superiore 2025/26",
+            "category": "livestream",
+            "urlSlug": "kf-vllaznia-vs-kf-egnatia",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/1e/b8/b6/0d/1eb8b60d-ca73-4620-a12e-6d83b3142377.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/86/2d/c0/83/862dc083-8620-450d-8cbc-1aa33827a206.png",
+            "freeMode": "FREE_ADS",
+            "title": "KF Vllaznia v KF Egnatia | Championship Playoff | Kategoria Superiore 2025/26",
+            "titleTemplateValues": {
+                "global-stage": "Championship Playoff",
+                "stadium": "Air Albania Stadium",
+                "match": "KF Vllaznia v KF Egnatia",
+                "team:kf-egnatia": "KF Egnatia",
+                "season": "Kategoria Superiore 2025/26",
+                "team:kf-vllaznia": "KF Vllaznia",
+                "country": "Albania",
+                "publisher-channel": "MA | Albania | Abissnet Superiore 2025/26",
+                "publisher": "MA | Albania",
+                "stage": "Final 4",
+                "competition": "Kategoria Superiore",
+                "association": "Albania",
+                "video-type": "Live Streams",
+                "city": "Tirana",
+                "organizer": "Albania",
+                "organizer-country": "Albania"
+            },
+            "startDate": "2026-05-23T16:50:00Z",
+            "endDate": "2026-05-23T19:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-23T17:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "KF Vllaznia v KF Egnatia"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Kategoria Superiore 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Championship Playoff"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Albania"
                 }
             ]
         }
