@@ -3,7 +3,7 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "11:30:22 PM 23-05-2026",
+        "last_update_time": "11:45:18 PM 23-05-2026",
         "total_live": 15,
         "total_upcoming": 0
     },
@@ -486,74 +486,6 @@
             }
         },
         {
-            "id": "2517c407-1904-49f8-b591-d83f204c0b87",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "2517c407-1904-49f8-b591-d83f204c0b87",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Cupelum FC v Sporting Clube GB | Campeonato Nacional de Futebol da 1a Divisão 2025/26",
-            "category": "livestream",
-            "urlSlug": "cupelum-fc-vs-sporting-clube-gb",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/f5/aa/df/8d/f5aadf8d-fa6c-49d2-9a09-43ac1fc84e29.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/1c/a1/48/7f/1ca1487f-19ac-4f46-9347-e059df9970c0.png",
-            "freeMode": "FREE_ADS",
-            "title": "Cupelum FC v Sporting Clube GB | Campeonato Nacional de Futebol da 1a Divisão 2025/26",
-            "titleTemplateValues": {
-                "publisher": "MA | Guinea-Bissau (Publisher)",
-                "competition": "Campeonato Nacional de Futebol da 1a Divisão",
-                "team:sporting-clube-gb": "Sporting Clube GB",
-                "association": "Guinea-Bissau",
-                "city": "Bissau",
-                "season": "Campeonato Nacional de Futebol da 1a Divisão 2025/26",
-                "country": "Guinea-Bissau",
-                "publisher-channel": "MA | Guinea-Bissau | Campeonato Nacional de Futebol da 1a Divisão 2025/26 (Channel)",
-                "stadium": "Lino Correia",
-                "match": "Cupelum FC v Sporting Clube GB",
-                "stage": "Regular Season",
-                "team:cupelum-fc": "Cupelum FC",
-                "global-stage": "Round 20",
-                "video-type": "Live Streams",
-                "organizer": "Guinea-Bissau",
-                "organizer-country": "Guinea-Bissau"
-            },
-            "startDate": "2026-05-23T16:45:00Z",
-            "endDate": "2026-05-23T19:15:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-23T16:45:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Cupelum FC v Sporting Clube GB"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Campeonato Nacional de Futebol da 1a Divisão 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 20"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Guinea-Bissau"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_13_51_25_9596522f-93c1-4045-a229-10655cbec851/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Apor%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779554640",
-                "decryption_keys": [
-                    "412c51dc57b03ef08451a9f1e9445535:ed0b73fc865a8f27c2d9e8e3c1929a7d"
-                ]
-            }
-        },
-        {
             "id": "f7747a8f-177c-4197-984c-a2dadf90dec1",
             "channelId": "fifa-tournaments",
             "catalogRedirectId": "f7747a8f-177c-4197-984c-a2dadf90dec1",
@@ -1031,6 +963,74 @@
                 "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_18_13_24_34_06b0e80e-c085-4128-b8f8-502caeafcae2/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779556440",
                 "decryption_keys": [
                     "0c768881df6733f9b5c1f9cb39e5187d:24655dee68c1fe8b2e91506a06e0bfc9"
+                ]
+            }
+        },
+        {
+            "id": "2517c407-1904-49f8-b591-d83f204c0b87",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "2517c407-1904-49f8-b591-d83f204c0b87",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Cupelum FC v Sporting Clube GB | Campeonato Nacional de Futebol da 1a Divisão 2025/26",
+            "category": "livestream",
+            "urlSlug": "cupelum-fc-vs-sporting-clube-gb",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/f5/aa/df/8d/f5aadf8d-fa6c-49d2-9a09-43ac1fc84e29.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/1c/a1/48/7f/1ca1487f-19ac-4f46-9347-e059df9970c0.png",
+            "freeMode": "FREE_ADS",
+            "title": "Cupelum FC v Sporting Clube GB | Campeonato Nacional de Futebol da 1a Divisão 2025/26",
+            "titleTemplateValues": {
+                "publisher": "MA | Guinea-Bissau (Publisher)",
+                "competition": "Campeonato Nacional de Futebol da 1a Divisão",
+                "team:sporting-clube-gb": "Sporting Clube GB",
+                "association": "Guinea-Bissau",
+                "city": "Bissau",
+                "season": "Campeonato Nacional de Futebol da 1a Divisão 2025/26",
+                "country": "Guinea-Bissau",
+                "publisher-channel": "MA | Guinea-Bissau | Campeonato Nacional de Futebol da 1a Divisão 2025/26 (Channel)",
+                "stadium": "Lino Correia",
+                "match": "Cupelum FC v Sporting Clube GB",
+                "stage": "Regular Season",
+                "team:cupelum-fc": "Cupelum FC",
+                "global-stage": "Round 20",
+                "video-type": "Live Streams",
+                "organizer": "Guinea-Bissau",
+                "organizer-country": "Guinea-Bissau"
+            },
+            "startDate": "2026-05-23T17:38:00Z",
+            "endDate": "2026-05-23T19:15:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-23T16:45:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "started",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Cupelum FC v Sporting Clube GB"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Campeonato Nacional de Futebol da 1a Divisão 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 20"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Guinea-Bissau"
+                }
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_13_51_25_9596522f-93c1-4045-a229-10655cbec851/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Apor%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779554640",
+                "decryption_keys": [
+                    "412c51dc57b03ef08451a9f1e9445535:ed0b73fc865a8f27c2d9e8e3c1929a7d"
                 ]
             }
         }
