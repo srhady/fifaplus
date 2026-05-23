@@ -3,7 +3,7 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "08:30:22 PM 23-05-2026",
+        "last_update_time": "08:45:19 PM 23-05-2026",
         "total_live": 17,
         "total_upcoming": 18
     },
@@ -13,13 +13,13 @@
             "channelId": "fifa-tournaments",
             "catalogRedirectId": "e30acc14-c4be-40ec-a8b0-07de40745d45",
             "catalogRedirectType": "EVENT",
-            "standardTitle": "US Zilimadjou v Atomic Ngomé | Championnat des Comores Division I 2025/26",
+            "standardTitle": "US Zilimadjou v Atomic Ngomé | Championnat des Comores Division I 2025/26 | Full Match Replay",
             "category": "livestream",
             "urlSlug": "us-zilimadjou-vs-atomic-ngome",
             "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/93/27/8b/0a/93278b0a-5477-40c8-bb9d-ccd55ac409d2.png",
             "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/17/59/15/e4/175915e4-236e-4066-a46d-1a9268dd5b68.png",
             "freeMode": "FREE_ADS",
-            "title": "US Zilimadjou v Atomic Ngomé | Championnat des Comores Division I 2025/26",
+            "title": "US Zilimadjou v Atomic Ngomé | Championnat des Comores Division I 2025/26 | Full Match Replay",
             "titleTemplateValues": {
                 "season": "Championnat des Comores Division I 2025/26",
                 "publisher-channel": "MA | Comoros | Division 1 2025/2026",
@@ -29,13 +29,13 @@
                 "stage": "Regular Season",
                 "publisher": "MA | Comoros",
                 "country": "Comoros",
+                "video-type": "Full Match Replays",
                 "match": "US Zilimadjou v Atomic Ngomé",
                 "team:us-zilimadjou": "US Zilimadjou",
                 "stadium": "Stade de Moroni",
                 "association": "Comoros",
                 "fifa-plus": "Mens (FIFA Plus)",
                 "team:atomic-ngome": "Atomic Ngomé",
-                "video-type": "Live Streams",
                 "organizer": "Comoros",
                 "organizer-country": "Comoros"
             },
@@ -1191,7 +1191,7 @@
                 "organizer": "United Arab Emirates",
                 "organizer-country": "United Arab Emirates"
             },
-            "startDate": "2026-05-23T14:16:00Z",
+            "startDate": "2026-05-23T14:32:00Z",
             "endDate": "2026-05-23T16:40:00Z",
             "ctxMetadata": {
                 "kickOffTime": "2026-05-23T14:10:00Z"
