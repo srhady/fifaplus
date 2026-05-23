@@ -1,7 +1,7 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 01:00:23 AM 24-05-2026
+#last update time: 01:15:17 AM 24-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/e3/a0/77/7b/e3a0777b-0467-482c-a05c-89b4fdb75bca.png" group-title="FIFA Live", Académica do Porto Novo v Benfica da Brava | Cape Verdean Football Championship 2026
@@ -33,16 +33,6 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_13_59_33_d38810d1-b663-4b1a-be10
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=615f5329deeb367ebf94e9a93b3be51e:7fbf7384ef3d79dedfd2c4b9da3fd060
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_21_08_54_57_baf761e6-cfe2-4ca3-adf1-a62e17ff328f/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Apor%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779556140
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/d2/e2/3b/09/d2e23b09-8ac0-489c-95fe-66816758f6d8.png" group-title="FIFA Live", FC Nouadhibou v Inter Nouakchott | Super D-1 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0c768881df6733f9b5c1f9cb39e5187d:24655dee68c1fe8b2e91506a06e0bfc9
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_18_13_24_34_06b0e80e-c085-4128-b8f8-502caeafcae2/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779556440
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/1c/a1/48/7f/1ca1487f-19ac-4f46-9347-e059df9970c0.png" group-title="FIFA Live", Cupelum FC v Sporting Clube GB | Campeonato Nacional de Futebol da 1a Divisão 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=412c51dc57b03ef08451a9f1e9445535:ed0b73fc865a8f27c2d9e8e3c1929a7d
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_13_51_25_9596522f-93c1-4045-a229-10655cbec851/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Apor%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779554640
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/db/3a/9b/58/db3a9b58-247f-45b9-83be-5f7e09c001b5.png" group-title="FIFA Live", Tre Fiori v La Fiorita | Coppa Titano 2025/26
 #KODIPROP:inputstream.adaptive.license_type=clearkey

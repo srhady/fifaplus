@@ -3,9 +3,9 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "01:00:23 AM 24-05-2026",
-        "total_live": 9,
-        "total_upcoming": 41
+        "last_update_time": "01:15:17 AM 24-05-2026",
+        "total_live": 7,
+        "total_upcoming": 43
     },
     "matches": [
         {
@@ -418,142 +418,6 @@
                 "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_21_08_54_57_baf761e6-cfe2-4ca3-adf1-a62e17ff328f/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Apor%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779556140",
                 "decryption_keys": [
                     "615f5329deeb367ebf94e9a93b3be51e:7fbf7384ef3d79dedfd2c4b9da3fd060"
-                ]
-            }
-        },
-        {
-            "id": "32d835ea-2858-4d1d-a124-d0e68a7ddcfb",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "32d835ea-2858-4d1d-a124-d0e68a7ddcfb",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "FC Nouadhibou v Inter Nouakchott | Super D-1 2025/26",
-            "category": "livestream",
-            "urlSlug": "fc-nouadhibou-vs-inter-nouakchott",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/39/61/d8/4a/3961d84a-2170-4737-8a7c-42d7ae00e8f7.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/d2/e2/3b/09/d2e23b09-8ac0-489c-95fe-66816758f6d8.png",
-            "freeMode": "FREE_ADS",
-            "title": "FC Nouadhibou v Inter Nouakchott | Super D-1 2025/26",
-            "titleTemplateValues": {
-                "match": "FC Nouadhibou v Inter Nouakchott",
-                "stage": "Regular season",
-                "publisher": "MA | Mauritania",
-                "competition": "Super D-1",
-                "city": "Nouakchott",
-                "association": "Mauritania",
-                "stadium": "Stade Cheikha Ould Boïdiya",
-                "publisher-channel": "MA | Mauritania | Super D1 2025/2026",
-                "season": "Super D-1 2025/26",
-                "global-stage": "Round 26",
-                "team:fc-nouadhibou": "FC Nouadhibou",
-                "country": "Mauritania",
-                "video-type": "Live Streams",
-                "team:inter-nouakchott": "Inter Nouakchott",
-                "organizer": "Mauritania",
-                "organizer-country": "Mauritania"
-            },
-            "startDate": "2026-05-23T17:15:00Z",
-            "endDate": "2026-05-23T19:15:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-23T16:45:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "FC Nouadhibou v Inter Nouakchott"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Super D-1 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Mauritania"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_18_13_24_34_06b0e80e-c085-4128-b8f8-502caeafcae2/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779556440",
-                "decryption_keys": [
-                    "0c768881df6733f9b5c1f9cb39e5187d:24655dee68c1fe8b2e91506a06e0bfc9"
-                ]
-            }
-        },
-        {
-            "id": "2517c407-1904-49f8-b591-d83f204c0b87",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "2517c407-1904-49f8-b591-d83f204c0b87",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Cupelum FC v Sporting Clube GB | Campeonato Nacional de Futebol da 1a Divisão 2025/26",
-            "category": "livestream",
-            "urlSlug": "cupelum-fc-vs-sporting-clube-gb",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/f5/aa/df/8d/f5aadf8d-fa6c-49d2-9a09-43ac1fc84e29.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/1c/a1/48/7f/1ca1487f-19ac-4f46-9347-e059df9970c0.png",
-            "freeMode": "FREE_ADS",
-            "title": "Cupelum FC v Sporting Clube GB | Campeonato Nacional de Futebol da 1a Divisão 2025/26",
-            "titleTemplateValues": {
-                "publisher": "MA | Guinea-Bissau (Publisher)",
-                "competition": "Campeonato Nacional de Futebol da 1a Divisão",
-                "team:sporting-clube-gb": "Sporting Clube GB",
-                "association": "Guinea-Bissau",
-                "city": "Bissau",
-                "season": "Campeonato Nacional de Futebol da 1a Divisão 2025/26",
-                "country": "Guinea-Bissau",
-                "publisher-channel": "MA | Guinea-Bissau | Campeonato Nacional de Futebol da 1a Divisão 2025/26 (Channel)",
-                "stadium": "Lino Correia",
-                "match": "Cupelum FC v Sporting Clube GB",
-                "stage": "Regular Season",
-                "team:cupelum-fc": "Cupelum FC",
-                "global-stage": "Round 20",
-                "video-type": "Live Streams",
-                "organizer": "Guinea-Bissau",
-                "organizer-country": "Guinea-Bissau"
-            },
-            "startDate": "2026-05-23T17:38:00Z",
-            "endDate": "2026-05-23T19:15:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-23T16:45:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Cupelum FC v Sporting Clube GB"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Campeonato Nacional de Futebol da 1a Divisão 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 20"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Guinea-Bissau"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_13_51_25_9596522f-93c1-4045-a229-10655cbec851/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Apor%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779554640",
-                "decryption_keys": [
-                    "412c51dc57b03ef08451a9f1e9445535:ed0b73fc865a8f27c2d9e8e3c1929a7d"
                 ]
             }
         },
@@ -3173,6 +3037,131 @@
                     "kind": "caption",
                     "p": 1,
                     "value": "Guinea-Bissau"
+                }
+            ]
+        },
+        {
+            "id": "c81196cb-003b-4e71-8e62-8aca111e4014",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "c81196cb-003b-4e71-8e62-8aca111e4014",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Nouakchott Academy v ASC Snim | Super D-1 2025/26",
+            "category": "livestream",
+            "urlSlug": "nouakchott-academy-vs-asc-snim",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/39/61/d8/4a/3961d84a-2170-4737-8a7c-42d7ae00e8f7.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/46/65/fc/ac/4665fcac-2e8d-4586-b697-19fa70a01ba3.png",
+            "freeMode": "FREE_ADS",
+            "title": "Nouakchott Academy v ASC Snim | Super D-1 2025/26",
+            "titleTemplateValues": {
+                "stage": "Regular season",
+                "publisher": "MA | Mauritania",
+                "match": "Nouakchott Academy v ASC Snim",
+                "competition": "Super D-1",
+                "city": "Nouakchott",
+                "association": "Mauritania",
+                "stadium": "Stade Cheikha Ould Boïdiya",
+                "publisher-channel": "MA | Mauritania | Super D1 2025/2026",
+                "season": "Super D-1 2025/26",
+                "global-stage": "Round 26",
+                "team:asc-snim": "ASC Snim",
+                "country": "Mauritania",
+                "team:nouakchott-academy": "Nouakchott Academy",
+                "video-type": "Live Streams",
+                "organizer": "Mauritania",
+                "organizer-country": "Mauritania"
+            },
+            "startDate": "2026-05-24T16:35:00Z",
+            "endDate": "2026-05-24T19:15:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-24T16:45:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Nouakchott Academy v ASC Snim"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Super D-1 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Mauritania"
+                }
+            ]
+        },
+        {
+            "id": "46967fa0-deb1-4d06-95c9-39a0135ccc60",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "46967fa0-deb1-4d06-95c9-39a0135ccc60",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Santo Crucifixo v Cutelinho | Cape Verdean Football Championship 2026",
+            "category": "livestream",
+            "urlSlug": "santo-crucifixo-vs-cutelinho",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/e2/de/a5/df/e2dea5df-b115-46c7-896c-b14873589822.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/cb/48/28/8e/cb48288e-96e8-489b-b444-472485b2721f.png",
+            "freeMode": "FREE_ADS",
+            "title": "Santo Crucifixo v Cutelinho | Cape Verdean Football Championship 2026",
+            "titleTemplateValues": {
+                "stadium": "João Serra Stadium ",
+                "global-stage": "Round 3",
+                "team:santo-crucifixo": "Santo Crucifixo",
+                "match": "Santo Crucifixo v Cutelinho",
+                "stage": "Group Stage",
+                "city": "Ponta do Sol",
+                "publisher-channel": "MA | Cape Verde | Cape Verdean Football Championship 2026 (Channel)",
+                "team:cutelinho": "Cutelinho",
+                "competition": "Cape Verdean Football Championship",
+                "country": "Cabo Verde",
+                "season": "Cape Verdean Football Championship 2026",
+                "publisher": "MA | Cape Verde",
+                "fifa-plus": "Mens (FIFA Plus)",
+                "association": "Cabo Verde",
+                "video-type": "Live Streams",
+                "organizer": "Cabo Verde",
+                "organizer-country": "Cabo Verde"
+            },
+            "startDate": "2026-05-24T16:50:00Z",
+            "endDate": "2026-05-24T19:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-24T17:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Santo Crucifixo v Cutelinho"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Cape Verdean Football Championship 2026"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 3"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Cabo Verde"
                 }
             ]
         }
