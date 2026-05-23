@@ -3,7 +3,7 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "12:45:16 PM 23-05-2026",
+        "last_update_time": "01:00:24 PM 23-05-2026",
         "total_live": 2,
         "total_upcoming": 40
     },
@@ -82,13 +82,13 @@
             "channelId": "fifa-tournaments",
             "catalogRedirectId": "d9119d14-e3d9-422f-a858-33043c027ddd",
             "catalogRedirectType": "EVENT",
-            "standardTitle": "Siheung City v Dangjin Citizen FC | K3 League 2026",
+            "standardTitle": "Siheung City v Dangjin Citizen FC | K3 League 2026 | Full Match Replay",
             "category": "livestream",
             "urlSlug": "siheung-city-vs-dangjin-citizen",
             "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/7e/1d/66/a2/7e1d66a2-8abe-46f3-8709-8fcfe0ad564d.png",
             "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/16/65/f7/a5/1665f7a5-0db8-488a-bb3d-3b7852addbeb.png",
             "freeMode": "FREE_ADS",
-            "title": "Siheung City v Dangjin Citizen FC | K3 League 2026",
+            "title": "Siheung City v Dangjin Citizen FC | K3 League 2026 | Full Match Replay",
             "titleTemplateValues": {
                 "competition": "K3 League",
                 "association": "Korea Republic",
@@ -99,12 +99,12 @@
                 "match": "Siheung City v Dangjin Citizen FC",
                 "country": "Korea Republic",
                 "stage": "Regular Season",
+                "video-type": "Full Match Replays",
                 "global-stage": "Round 12",
                 "publisher-channel": "MA | Korea Republic | K3 League 2026 (Channel)",
                 "fifa-plus": "Mens (FIFA Plus)",
                 "city": "Siheung",
                 "stadium": "Jeongwang Stadium",
-                "video-type": "Live Streams",
                 "organizer": "Korea Republic",
                 "organizer-country": "Korea Republic"
             },
@@ -147,69 +147,6 @@
             }
         },
         {
-            "id": "f9161220-caef-4597-969d-8e7463f4c269",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "f9161220-caef-4597-969d-8e7463f4c269",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Birkenhead United v Bay Olympic | New Zealand Men's National League 2026",
-            "category": "livestream",
-            "urlSlug": "birkenhead-united-afc-vs-bay-olympic-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/6c/f9/30/95/6cf93095-e33d-4b23-b486-45750c864708.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/77/af/55/a9/77af55a9-b9ad-4d1d-b204-f3ea4c732a8c.jpg",
-            "freeMode": "FREE_ADS",
-            "title": "Birkenhead United v Bay Olympic | New Zealand Men's National League 2026",
-            "titleTemplateValues": {
-                "competition": "Men's National League",
-                "publisher": "MA | New Zealand",
-                "publisher-channel": "MA | New Zealand | Men's National League 2026 - Regional Phase (Channel)",
-                "team:birkenhead-united-afc": "Birkenhead United",
-                "global-stage": "Northern League",
-                "stadium": "Shepherds Park",
-                "season": "New Zealand Men's National League 2026",
-                "stage": "Regional Phase - Northern League",
-                "association": "New Zealand",
-                "team:bay-olympic-fc": "Bay Olympic",
-                "city": "Auckland",
-                "match": "Birkenhead United v Bay Olympic",
-                "country": "New Zealand",
-                "fifa-plus": "Mens (FIFA Plus)",
-                "video-type": "Live Streams",
-                "organizer": "New Zealand",
-                "organizer-country": "New Zealand"
-            },
-            "startDate": "2026-05-23T04:50:00Z",
-            "endDate": "2026-05-23T08:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-23T05:00:00Z"
-            },
-            "isRegistrationRequired": true,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Birkenhead United v Bay Olympic"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "New Zealand Men's National League 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Northern League"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "New Zealand"
-                }
-            ]
-        },
-        {
             "id": "f79135be-3f87-4293-9c96-a890c28403c1",
             "channelId": "fifa-tournaments",
             "catalogRedirectId": "f79135be-3f87-4293-9c96-a890c28403c1",
@@ -230,13 +167,13 @@
                 "city": "Christchurch",
                 "association": "New Zealand",
                 "stage": "Regional Phase - Southern League",
+                "video-type": "Full Match Replays",
                 "country": "New Zealand",
                 "team:christchurch-united-fc": "Christchurch United",
                 "team:coastal-spirit-fc": "Coastal Spirit",
                 "stadium": "United Sports Centre T1",
                 "fifa-plus": "Mens (FIFA Plus)",
                 "match": "Christchurch United v Coastal Spirit",
-                "video-type": "Live Streams",
                 "organizer": "New Zealand",
                 "organizer-country": "New Zealand"
             },
@@ -277,13 +214,13 @@
             "channelId": "fifa-tournaments",
             "catalogRedirectId": "98061c4a-c0a3-429b-b69a-58b064ef23b3",
             "catalogRedirectType": "EVENT",
-            "standardTitle": "Western Springs v Fencibles United | New Zealand Men's National League 2026",
+            "standardTitle": "Western Springs v Fencibles United | New Zealand Men's National League 2026 | Full Match Replay",
             "category": "livestream",
             "urlSlug": "western-springs-afc-vs-fencibles-united-afc",
             "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/6c/f9/30/95/6cf93095-e33d-4b23-b486-45750c864708.png",
             "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/48/b4/19/71/48b41971-1fd9-4033-bcd4-34e3ae5c6557.jpg",
             "freeMode": "FREE_ADS",
-            "title": "Western Springs v Fencibles United | New Zealand Men's National League 2026",
+            "title": "Western Springs v Fencibles United | New Zealand Men's National League 2026 | Full Match Replay",
             "titleTemplateValues": {
                 "competition": "Men's National League",
                 "publisher": "MA | New Zealand",
@@ -295,11 +232,11 @@
                 "stage": "Regional Phase - Northern League",
                 "association": "New Zealand",
                 "city": "Auckland",
+                "video-type": "Full Match Replays",
                 "team:fencibles-united-afc": "Fencibles United",
                 "country": "New Zealand",
                 "fifa-plus": "Mens (FIFA Plus)",
                 "match": "Western Springs v Fencibles United",
-                "video-type": "Live Streams",
                 "organizer": "New Zealand",
                 "organizer-country": "New Zealand"
             },
