@@ -3,79 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "05:15:16 AM 24-05-2026",
-        "total_live": 5,
+        "last_update_time": "05:30:19 AM 24-05-2026",
+        "total_live": 4,
         "total_upcoming": 38
     },
     "matches": [
-        {
-            "id": "fea42cf2-b61c-4af1-b7bb-b9cf8a507e33",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "fea42cf2-b61c-4af1-b7bb-b9cf8a507e33",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Marítimo La Guaira v Bolívar SC | Liga FUTVE 2 2026",
-            "category": "livestream",
-            "urlSlug": "maritimo-la-guaira-vs-bolivar-sc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/57/b2/b9/56/57b2b956-2a4f-4b00-9e73-4c3ff15091b9.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/b7/be/44/03/b7be4403-7ad5-4d1f-bfe0-31a7c14c70fb.png",
-            "freeMode": "FREE_ADS",
-            "title": "Marítimo La Guaira v Bolívar SC | Liga FUTVE 2 2026",
-            "titleTemplateValues": {
-                "season": "Liga FUTVE 2 2026",
-                "team:maritimo-la-guaira": "Marítimo La Guaira",
-                "stage": "Regular Season",
-                "match": "Marítimo La Guaira v Bolívar SC",
-                "association": "Venezuela",
-                "global-stage": "Round 12",
-                "publisher": "MA | Venezuela",
-                "team:bolivar-sc": "Bolívar SC",
-                "city": "La Guaira",
-                "competition": "Liga FUTVE 2",
-                "stadium": "S.C. Camurí Chico",
-                "country": "Venezuela",
-                "video-type": "Live Streams",
-                "publisher-channel": "MA | Venezuela | Liga FUTVE 2 2026 (Channel)",
-                "organizer": "Venezuela",
-                "organizer-country": "Venezuela"
-            },
-            "startDate": "2026-05-23T20:50:00Z",
-            "endDate": "2026-05-23T23:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-23T21:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Marítimo La Guaira v Bolívar SC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Liga FUTVE 2 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 12"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Venezuela"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_18_14_20_11_f0b2da67-38de-4d55-995c-f8e4675461a0/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779569340",
-                "decryption_keys": [
-                    "6c786d3a2b2035168f6128cd1b6e272f:8109b1d81ac41600057aea3a2899f75a"
-                ]
-            }
-        },
         {
             "id": "9a5a9a54-1429-4ddd-8bff-47b73c2d6f69",
             "channelId": "fifa-tournaments",
