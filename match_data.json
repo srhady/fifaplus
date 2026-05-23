@@ -3,8 +3,8 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "07:00:25 PM 23-05-2026",
-        "total_live": 11,
+        "last_update_time": "07:15:18 PM 23-05-2026",
+        "total_live": 9,
         "total_upcoming": 29
     },
     "matches": [
@@ -73,143 +73,6 @@
                 "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_22_07_32_42_e8835834-469a-489a-b505-214004115b0d/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Alit%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779533340",
                 "decryption_keys": [
                     "2895f0e5ffbb3eae8035cbacb12891e7:9338af02cfc80a8adcdac5e923590573"
-                ]
-            }
-        },
-        {
-            "id": "e3518582-771c-40ac-ac7e-301d93bc7a18",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "e3518582-771c-40ac-ac7e-301d93bc7a18",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Light Stars FC v St. Louis FC | Seychelles Absa Premier League 2025/26",
-            "category": "livestream",
-            "urlSlug": "light-stars-fc-vs-st-louis-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/45/9f/11/a8/459f11a8-e0bb-4967-9ffc-2e4fe552a13e.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/f5/83/ae/46/f583ae46-fbaf-4722-9a58-a4354f08e9ca.png",
-            "freeMode": "FREE_ADS",
-            "title": "Light Stars FC v St. Louis FC | Seychelles Absa Premier League 2025/26",
-            "titleTemplateValues": {
-                "publisher-channel": "MA | Seychelles | Absa Premier League 2025/2026",
-                "publisher": "MA | Seychelles",
-                "city": "Praslin",
-                "stadium": "Amitie Stadium",
-                "team:st-louis-fc": "St. Louis FC",
-                "match": "Light Stars FC v St. Louis FC",
-                "global-stage": "Round 15",
-                "stage": "Regular Season",
-                "association": "Seychelles",
-                "team:light-stars-fc": "Light Stars FC",
-                "season": "Seychelles Absa Premier League 2025/26",
-                "fifa-plus": "Mens (FIFA Plus)",
-                "country": "Seychelles",
-                "competition": "Seychelles Premier League",
-                "video-type": "Live Streams",
-                "organizer": "Seychelles",
-                "organizer-country": "Seychelles"
-            },
-            "startDate": "2026-05-23T10:50:00Z",
-            "endDate": "2026-05-23T13:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-23T11:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Light Stars FC v St. Louis FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Seychelles Absa Premier League 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 15"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Seychelles"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_07_47_52_d366f62d-52c9-4ad9-bfbf-ecf3cbb66f70/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779533340",
-                "decryption_keys": [
-                    "2f9265b021263eeb85de7dd2eeb4fa66:921bd14ff4fb6496be5cd87cbf39e890"
-                ]
-            }
-        },
-        {
-            "id": "51609ce1-be9b-4cec-850c-0d03e70c2dd9",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "51609ce1-be9b-4cec-850c-0d03e70c2dd9",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Dukagjini v KFV Prishtina | Siguria Superliga e Femrave 2026 | Full Match Replay",
-            "category": "livestream",
-            "urlSlug": "kff-dukagjini-vs-kfv-prishtina",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/f9/9f/e4/16/f99fe416-c506-4889-98a0-7682087e5bce.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/53/c9/bc/f6/53c9bcf6-cb4b-4fb4-9bca-c870abbb5ee9.png",
-            "freeMode": "FREE_ADS",
-            "title": "Dukagjini v KFV Prishtina | Siguria Superliga e Femrave 2026 | Full Match Replay",
-            "titleTemplateValues": {
-                "competition": "Superliga e Femrave",
-                "stage": "Regular Season",
-                "global-stage": "Round 10",
-                "association": "Kosovo",
-                "publisher": "MA | Kosovo",
-                "video-type": "Full Match Replays",
-                "stadium": "Stadiumi 18 Qershori",
-                "team:kff-dukagjini": "Dukagjini",
-                "team:kfv-prishtina": "KFV Prishtina",
-                "publisher-channel": "MA | Kosovo | Siguria Superliga e Femrave 2026",
-                "city": "Klina",
-                "season": "Siguria Superliga e Femrave 2026",
-                "country": "Kosovo",
-                "match": "Dukagjini v KFV Prishtina",
-                "organizer": "Kosovo",
-                "organizer-country": "Kosovo"
-            },
-            "startDate": "2026-05-23T10:50:00Z",
-            "endDate": "2026-05-23T13:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-23T11:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Dukagjini v KFV Prishtina"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Siguria Superliga e Femrave 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 10"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Kosovo"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_16_29_26_342982a0-2bba-40f0-91c2-57fe3cc688aa/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Asqi%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779533340",
-                "decryption_keys": [
-                    "cc957946c8e036bbba75478d57758445:48cc5e5a3c95468d0c940b2fcafedecc"
                 ]
             }
         },
