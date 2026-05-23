@@ -3,488 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "10:30:25 PM 23-05-2026",
-        "total_live": 17,
-        "total_upcoming": 8
+        "last_update_time": "10:45:16 PM 23-05-2026",
+        "total_live": 10,
+        "total_upcoming": 7
     },
     "matches": [
-        {
-            "id": "03ce487c-6d98-4928-941f-d17326efbce2",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "03ce487c-6d98-4928-941f-d17326efbce2",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Dibba Al-Hisn v Al Dhaid Club | Round 29 | First Division League 2025/26",
-            "category": "livestream",
-            "urlSlug": "dibba-al-hisn-vs-al-dhaid-club",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/c9/13/52/b0/c91352b0-2f4e-4315-b9be-cc2ce4247b3c.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/b3/b6/8c/94/b3b68c94-4991-4bf2-93ca-7018ec69e0ed.png",
-            "freeMode": "FREE_ADS",
-            "title": "Dibba Al-Hisn v Al Dhaid Club | Round 29 | First Division League 2025/26",
-            "titleTemplateValues": {
-                "city": "Dibba Al-Hisn",
-                "country": "United Arab Emirates",
-                "competition": "First Division League",
-                "stage": "Second Leg",
-                "match": "Dibba Al-Hisn v Al Dhaid Club",
-                "global-stage": "Round 29",
-                "team:al-dhaid-club": "Al Dhaid Club",
-                "season": "First Division League 2025/26",
-                "team:dibba-al-hisn": "Dibba Al-Hisn",
-                "publisher-channel": "MA | UAE | First Division League 2025/2026",
-                "publisher": "MA | UAE",
-                "stadium": "Dibba Al-Hisn Club ",
-                "association": "United Arab Emirates",
-                "video-type": "Live Streams",
-                "organizer": "United Arab Emirates",
-                "organizer-country": "United Arab Emirates"
-            },
-            "startDate": "2026-05-23T14:00:00Z",
-            "endDate": "2026-05-23T16:40:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-23T14:10:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Dibba Al-Hisn v Al Dhaid Club"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "First Division League 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 29"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "United Arab Emirates"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_10_10_47_3fe2581d-26a1-43a5-a12b-d7b779179f3e/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779544740",
-                "decryption_keys": [
-                    "c3fdf202b7673032826ffefd75e0a91a:2a2ed6a26345c8f9bc461f3d67c6fb8b"
-                ]
-            }
-        },
-        {
-            "id": "2377380e-e08f-43f0-821d-20cf08263c11",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "2377380e-e08f-43f0-821d-20cf08263c11",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Emirates Club v Al Hamriyah | Round 29 | First Division League 2025/26",
-            "category": "livestream",
-            "urlSlug": "emirates-club-vs-al-hamriyah",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/c9/13/52/b0/c91352b0-2f4e-4315-b9be-cc2ce4247b3c.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/87/9c/82/48/879c8248-cdbb-4266-95e9-7b891f93ae86.png",
-            "freeMode": "FREE_ADS",
-            "title": "Emirates Club v Al Hamriyah | Round 29 | First Division League 2025/26",
-            "titleTemplateValues": {
-                "match": "Emirates Club v Al Hamriyah",
-                "stadium": "Emirates Club Stadium",
-                "city": "Ras Al-Khaimah",
-                "country": "United Arab Emirates",
-                "competition": "First Division League",
-                "stage": "Second Leg",
-                "team:al-hamriyah": "Al Hamriyah",
-                "global-stage": "Round 29",
-                "season": "First Division League 2025/26",
-                "publisher-channel": "MA | UAE | First Division League 2025/2026",
-                "publisher": "MA | UAE",
-                "association": "United Arab Emirates",
-                "team:emirates-club": "Emirates Club",
-                "video-type": "Live Streams",
-                "organizer": "United Arab Emirates",
-                "organizer-country": "United Arab Emirates"
-            },
-            "startDate": "2026-05-23T14:00:00Z",
-            "endDate": "2026-05-23T16:40:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-23T14:10:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Emirates Club v Al Hamriyah"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "First Division League 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 29"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "United Arab Emirates"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_10_12_08_c329e329-e831-40a8-9482-d79ee5042b04/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779544740",
-                "decryption_keys": [
-                    "98725e7372d83ab49d97b203975769d2:68e8c85a3b08493b297c082cac915636"
-                ]
-            }
-        },
-        {
-            "id": "f4918530-7138-4ce7-be04-0cb7a26cd333",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "f4918530-7138-4ce7-be04-0cb7a26cd333",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Fujairah Club v Majd FC | Round 29 | First Division League 2025/26",
-            "category": "livestream",
-            "urlSlug": "fujairah-club-vs-majd-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/c9/13/52/b0/c91352b0-2f4e-4315-b9be-cc2ce4247b3c.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/1f/8c/47/f7/1f8c47f7-07be-4761-8788-279f98efdaf4.png",
-            "freeMode": "FREE_ADS",
-            "title": "Fujairah Club v Majd FC | Round 29 | First Division League 2025/26",
-            "titleTemplateValues": {
-                "match": "Fujairah Club v Majd FC",
-                "team:fujairah-club": "Fujairah Club",
-                "country": "United Arab Emirates",
-                "competition": "First Division League",
-                "city": "Fujairah",
-                "stage": "Second Leg",
-                "global-stage": "Round 29",
-                "season": "First Division League 2025/26",
-                "stadium": "Fujairah Club",
-                "publisher-channel": "MA | UAE | First Division League 2025/2026",
-                "publisher": "MA | UAE",
-                "association": "United Arab Emirates",
-                "video-type": "Live Streams",
-                "team:majd-fc": "Majd FC",
-                "organizer": "United Arab Emirates",
-                "organizer-country": "United Arab Emirates"
-            },
-            "startDate": "2026-05-23T14:00:00Z",
-            "endDate": "2026-05-23T16:40:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-23T14:10:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Fujairah Club v Majd FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "First Division League 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 29"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "United Arab Emirates"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_10_11_43_65a07eff-1854-4045-a812-ae02f914cfb2/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779544740",
-                "decryption_keys": [
-                    "986762a02b2439a6b8cfddc771b2de8f:d4131a68f4737a1590d2518d231ddb10"
-                ]
-            }
-        },
-        {
-            "id": "a78bb55d-fe79-4161-a7ef-2f495cc4e938",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "a78bb55d-fe79-4161-a7ef-2f495cc4e938",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Gulf United v Al Orooba | Round 29 | First Division League 2025/26",
-            "category": "livestream",
-            "urlSlug": "gulf-united-vs-al-orooba",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/c9/13/52/b0/c91352b0-2f4e-4315-b9be-cc2ce4247b3c.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/3f/54/be/a6/3f54bea6-02b1-4092-98f2-c989a798698f.png",
-            "freeMode": "FREE_ADS",
-            "title": "Gulf United v Al Orooba | Round 29 | First Division League 2025/26",
-            "titleTemplateValues": {
-                "city:dubai": "Dubai",
-                "team:gulf-united": "Gulf United",
-                "country": "United Arab Emirates",
-                "competition": "First Division League",
-                "city:fujairah": "Fujairah",
-                "stage": "Second Leg",
-                "global-stage": "Round 29",
-                "season": "First Division League 2025/26",
-                "publisher-channel": "MA | UAE | First Division League 2025/2026",
-                "publisher": "MA | UAE",
-                "match": "Gulf United v Al Orooba",
-                "stadium": "Al Orooba Club / MS No.2.",
-                "association": "United Arab Emirates",
-                "team:al-orooba": "Al Orooba",
-                "video-type": "Live Streams",
-                "organizer": "United Arab Emirates",
-                "organizer-country": "United Arab Emirates"
-            },
-            "startDate": "2026-05-23T14:00:00Z",
-            "endDate": "2026-05-23T16:40:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-23T14:10:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Gulf United v Al Orooba"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "First Division League 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 29"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "United Arab Emirates"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_10_10_42_316e5021-9572-40f9-b9b1-3f6295670b01/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779544740",
-                "decryption_keys": [
-                    "14bca493aa423b438aff9473105458c7:f1959d0fd6c0641b5dc6fbdef716eafd"
-                ]
-            }
-        },
-        {
-            "id": "a20d936f-9c17-4102-aed9-26da2650840f",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "a20d936f-9c17-4102-aed9-26da2650840f",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Hatta Club v Dubai City F.C. | Round 29 | First Division League 2025/26",
-            "category": "livestream",
-            "urlSlug": "hatta-club-vs-dubai-city-f-c",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/c9/13/52/b0/c91352b0-2f4e-4315-b9be-cc2ce4247b3c.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/d1/8b/a5/a3/d18ba5a3-c566-4f93-ae05-220ac97667cc.png",
-            "freeMode": "FREE_ADS",
-            "title": "Hatta Club v Dubai City F.C. | Round 29 | First Division League 2025/26",
-            "titleTemplateValues": {
-                "stadium": "Hatta Club / Hamdan Bin Rashid Stadium",
-                "country": "United Arab Emirates",
-                "competition": "First Division League",
-                "stage": "Second Leg",
-                "global-stage": "Round 29",
-                "city": "Hatta",
-                "season": "First Division League 2025/26",
-                "team:hatta-club": "Hatta Club",
-                "publisher-channel": "MA | UAE | First Division League 2025/2026",
-                "publisher": "MA | UAE",
-                "association": "United Arab Emirates",
-                "team:dubai-city-f-c": "Dubai City F.C.",
-                "match": "Hatta Club v Dubai City F.C.",
-                "video-type": "Live Streams",
-                "organizer": "United Arab Emirates",
-                "organizer-country": "United Arab Emirates"
-            },
-            "startDate": "2026-05-23T14:00:00Z",
-            "endDate": "2026-05-23T16:40:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-23T14:10:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Hatta Club v Dubai City F.C."
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "First Division League 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 29"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "United Arab Emirates"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_10_11_59_ac9bd646-82de-486c-b091-5bc3338b646e/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779544740",
-                "decryption_keys": [
-                    "005ce1aab12e3007933021489e264826:de4cb2804f45c9a82b51bc7d7d16e1d4"
-                ]
-            }
-        },
-        {
-            "id": "f7b3f5c3-80ca-4245-a11c-d0120195be49",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "f7b3f5c3-80ca-4245-a11c-d0120195be49",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Masfout Club v Al Arabi | Round 29 | First Division League 2025/26",
-            "category": "livestream",
-            "urlSlug": "masfout-club-vs-al-arabi-club",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/c9/13/52/b0/c91352b0-2f4e-4315-b9be-cc2ce4247b3c.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/8a/5b/c0/0d/8a5bc00d-cb92-497a-9a7f-e6242da454ae.png",
-            "freeMode": "FREE_ADS",
-            "title": "Masfout Club v Al Arabi | Round 29 | First Division League 2025/26",
-            "titleTemplateValues": {
-                "team:masfout-club": "Masfout Club",
-                "country": "United Arab Emirates",
-                "competition": "First Division League",
-                "team:al-arabi-club": "Al Arabi",
-                "city": "Masfout",
-                "stage": "Second Leg",
-                "global-stage": "Round 29",
-                "season": "First Division League 2025/26",
-                "match": "Masfout Club v Al Arabi",
-                "stadium": "Masfout Club",
-                "publisher-channel": "MA | UAE | First Division League 2025/2026",
-                "publisher": "MA | UAE",
-                "association": "United Arab Emirates",
-                "video-type": "Live Streams",
-                "organizer": "United Arab Emirates",
-                "organizer-country": "United Arab Emirates"
-            },
-            "startDate": "2026-05-23T14:00:00Z",
-            "endDate": "2026-05-23T16:40:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-23T14:10:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Masfout Club v Al Arabi"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "First Division League 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 29"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "United Arab Emirates"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_10_10_01_00434f39-80b5-4075-a93f-2942914887cf/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779544740",
-                "decryption_keys": [
-                    "93352febd1cb32fbbf8d6f8c4d75e296:bac8e693cfd10fff8a4391b372733f57"
-                ]
-            }
-        },
-        {
-            "id": "b44134bd-bdd7-4348-a7eb-67ccc26fb5d5",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "b44134bd-bdd7-4348-a7eb-67ccc26fb5d5",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "United Club v Al-Ittifaq | Round 29 | First Division League 2025/26",
-            "category": "livestream",
-            "urlSlug": "united-club-vs-al-ittifaq",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/c9/13/52/b0/c91352b0-2f4e-4315-b9be-cc2ce4247b3c.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/58/f3/eb/c5/58f3ebc5-4e13-4606-8db4-29483d858fb1.png",
-            "freeMode": "FREE_ADS",
-            "title": "United Club v Al-Ittifaq | Round 29 | First Division League 2025/26",
-            "titleTemplateValues": {
-                "city": "Dubai",
-                "country": "United Arab Emirates",
-                "competition": "First Division League",
-                "team:united-club": "United Club",
-                "global-stage": "Round 29",
-                "season": "First Division League 2025/26",
-                "stage": "First Leg",
-                "publisher-channel": "MA | UAE | First Division League 2025/2026",
-                "publisher": "MA | UAE",
-                "team:al-ittifaq": "Al-Ittifaq",
-                "association": "United Arab Emirates",
-                "match": "United Club v Al-Ittifaq",
-                "stadium": "United Club / Dubai Sport City",
-                "video-type": "Live Streams",
-                "organizer": "United Arab Emirates",
-                "organizer-country": "United Arab Emirates"
-            },
-            "startDate": "2026-05-23T14:32:00Z",
-            "endDate": "2026-05-23T16:40:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-23T14:10:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "United Club v Al-Ittifaq"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "First Division League 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 29"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "United Arab Emirates"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_10_12_04_b8796328-a834-4aad-a9e8-d0bfd4ba0d16/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779545700",
-                "decryption_keys": [
-                    "f444eb9aea2e381995ccb2daedfc84e0:a4a584ea8628a0aa9b9496014a451ed4"
-                ]
-            }
-        },
         {
             "id": "5e9a6cb5-611e-48a8-87a2-63b5c065cd9c",
             "channelId": "fifa-tournaments",
@@ -1061,9 +584,9 @@
                 "organizer-country": "Liberia"
             },
             "startDate": "2026-05-23T16:20:00Z",
-            "endDate": "2026-05-23T18:30:00Z",
+            "endDate": "2026-05-23T19:00:00Z",
             "ctxMetadata": {
-                "kickOffTime": "2026-05-23T16:00:00Z"
+                "kickOffTime": "2026-05-23T16:30:00Z"
             },
             "isRegistrationRequired": false,
             "shownPrices": null,
@@ -1196,7 +719,7 @@
                 "organizer": "Guinea-Bissau",
                 "organizer-country": "Guinea-Bissau"
             },
-            "startDate": "2026-05-23T16:40:00Z",
+            "startDate": "2026-05-23T16:45:00Z",
             "endDate": "2026-05-23T19:15:00Z",
             "ctxMetadata": {
                 "kickOffTime": "2026-05-23T16:45:00Z"
@@ -1204,7 +727,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -1225,68 +748,6 @@
                     "kind": "caption",
                     "p": 1,
                     "value": "Guinea-Bissau"
-                }
-            ]
-        },
-        {
-            "id": "32d835ea-2858-4d1d-a124-d0e68a7ddcfb",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "32d835ea-2858-4d1d-a124-d0e68a7ddcfb",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "FC Nouadhibou v Inter Nouakchott | Super D-1 2025/26",
-            "category": "livestream",
-            "urlSlug": "fc-nouadhibou-vs-inter-nouakchott",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/39/61/d8/4a/3961d84a-2170-4737-8a7c-42d7ae00e8f7.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/d2/e2/3b/09/d2e23b09-8ac0-489c-95fe-66816758f6d8.png",
-            "freeMode": "FREE_ADS",
-            "title": "FC Nouadhibou v Inter Nouakchott | Super D-1 2025/26",
-            "titleTemplateValues": {
-                "match": "FC Nouadhibou v Inter Nouakchott",
-                "stage": "Regular season",
-                "publisher": "MA | Mauritania",
-                "competition": "Super D-1",
-                "city": "Nouakchott",
-                "association": "Mauritania",
-                "stadium": "Stade Cheikha Ould Boïdiya",
-                "publisher-channel": "MA | Mauritania | Super D1 2025/2026",
-                "season": "Super D-1 2025/26",
-                "global-stage": "Round 26",
-                "team:fc-nouadhibou": "FC Nouadhibou",
-                "country": "Mauritania",
-                "video-type": "Live Streams",
-                "team:inter-nouakchott": "Inter Nouakchott",
-                "organizer": "Mauritania",
-                "organizer-country": "Mauritania"
-            },
-            "startDate": "2026-05-23T16:40:00Z",
-            "endDate": "2026-05-23T19:15:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-23T16:45:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "upcoming",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "FC Nouadhibou v Inter Nouakchott"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Super D-1 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Mauritania"
                 }
             ]
         },
@@ -1664,6 +1125,68 @@
                     "kind": "caption",
                     "p": 1,
                     "value": "Albania"
+                }
+            ]
+        },
+        {
+            "id": "32d835ea-2858-4d1d-a124-d0e68a7ddcfb",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "32d835ea-2858-4d1d-a124-d0e68a7ddcfb",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "FC Nouadhibou v Inter Nouakchott | Super D-1 2025/26",
+            "category": "livestream",
+            "urlSlug": "fc-nouadhibou-vs-inter-nouakchott",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/39/61/d8/4a/3961d84a-2170-4737-8a7c-42d7ae00e8f7.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/d2/e2/3b/09/d2e23b09-8ac0-489c-95fe-66816758f6d8.png",
+            "freeMode": "FREE_ADS",
+            "title": "FC Nouadhibou v Inter Nouakchott | Super D-1 2025/26",
+            "titleTemplateValues": {
+                "match": "FC Nouadhibou v Inter Nouakchott",
+                "stage": "Regular season",
+                "publisher": "MA | Mauritania",
+                "competition": "Super D-1",
+                "city": "Nouakchott",
+                "association": "Mauritania",
+                "stadium": "Stade Cheikha Ould Boïdiya",
+                "publisher-channel": "MA | Mauritania | Super D1 2025/2026",
+                "season": "Super D-1 2025/26",
+                "global-stage": "Round 26",
+                "team:fc-nouadhibou": "FC Nouadhibou",
+                "country": "Mauritania",
+                "video-type": "Live Streams",
+                "team:inter-nouakchott": "Inter Nouakchott",
+                "organizer": "Mauritania",
+                "organizer-country": "Mauritania"
+            },
+            "startDate": "2026-05-23T16:50:00Z",
+            "endDate": "2026-05-23T19:15:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-23T16:45:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "FC Nouadhibou v Inter Nouakchott"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Super D-1 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Mauritania"
                 }
             ]
         }
