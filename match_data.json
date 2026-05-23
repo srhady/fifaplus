@@ -3,79 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "07:15:18 PM 23-05-2026",
+        "last_update_time": "07:30:19 PM 23-05-2026",
         "total_live": 9,
-        "total_upcoming": 29
+        "total_upcoming": 27
     },
     "matches": [
-        {
-            "id": "1202507d-d3f5-4df5-b345-4ecb40738fd7",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "1202507d-d3f5-4df5-b345-4ecb40738fd7",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Minija v Tauras | Pirma Lyga 2026 | Full Match Replay",
-            "category": "livestream",
-            "urlSlug": "fk-minija-vs-fk-tauras",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/f2/4c/3b/b0/f24c3bb0-e739-4ae5-95d3-6cbfe473d948.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/ed/cf/ad/d4/edcfadd4-3ad0-4530-91e6-8b24b7fd19a4.png",
-            "freeMode": "FREE_ADS",
-            "title": "Minija v Tauras | Pirma Lyga 2026 | Full Match Replay",
-            "titleTemplateValues": {
-                "stage": "I Lyga Regular Season",
-                "season": "Pirma Lyga 2026",
-                "stadium": "Kretinga Stadium",
-                "team:fk-minija": "Minija",
-                "team:fk-tauras": "Tauras",
-                "country": "Lithuania",
-                "video-type": "Full Match Replays",
-                "city": "Kretinga",
-                "global-stage": "Round 11",
-                "publisher": "MA | Lithuania ",
-                "competition": "Pirma Lyga",
-                "match": "Minija v Tauras",
-                "association": "Lithuania",
-                "publisher-channel": "MA | Lithuania | Pirma Lyga 2026 (Channel)",
-                "organizer": "Lithuania",
-                "organizer-country": "Lithuania"
-            },
-            "startDate": "2026-05-23T10:50:00Z",
-            "endDate": "2026-05-23T13:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-23T11:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Minija v Tauras"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Pirma Lyga 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 11"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Lithuania"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_22_07_32_42_e8835834-469a-489a-b505-214004115b0d/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Alit%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779533340",
-                "decryption_keys": [
-                    "2895f0e5ffbb3eae8035cbacb12891e7:9338af02cfc80a8adcdac5e923590573"
-                ]
-            }
-        },
         {
             "id": "e30acc14-c4be-40ec-a8b0-07de40745d45",
             "channelId": "fifa-tournaments",
@@ -661,7 +593,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -683,7 +615,13 @@
                     "p": 1,
                     "value": "Bulgaria"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_12_31_04_88a50ead-143a-4cc5-a10e-c7bd81bdd394/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Abul%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779542340",
+                "decryption_keys": [
+                    "046e0d890ed9332da5ede9356a2370ab:56a1c0da68d4b330d3f316890cbb507c"
+                ]
+            }
         },
         {
             "id": "f5b406b5-a184-43eb-87f2-09c722a64a31",
@@ -723,7 +661,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
