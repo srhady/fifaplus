@@ -1,7 +1,7 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 09:30:22 PM 23-05-2026
+#last update time: 09:45:16 PM 23-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/8b/09/79/0c/8b09790c-6fa7-4124-9d55-b9e535719562.png" group-title="FIFA Live", FC Pirin v FC Puldin | Women's National Championship 2025/26
@@ -73,3 +73,8 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_18_13_47_02_940b680d-a22f-43d3-a4a4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d08283ef7c038f69206ba5e071b32a8:fef14fe2f807ecaaf9265aa79f88ee4a
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_13_22_03_9e789838-62ed-4ebb-a4ac-5b6f18eb9fe5/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779549540
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/b4/47/81/30/b4478130-db7e-44f6-b45c-899b2f6f1bb1.png" group-title="FIFA Live", AS GNN v AS ZAM | Coupe Nationale 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7d7754970b793d4bac8a000b5339758f:dee1dbe755d332b4ca801abb59be0c1a
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_13_54_34_8a17b728-6f86-43d5-9999-34c455a25cc1/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779550440
