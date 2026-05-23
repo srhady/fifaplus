@@ -3,79 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "08:30:22 AM 23-05-2026",
-        "total_live": 1,
-        "total_upcoming": 48
+        "last_update_time": "09:00:22 AM 23-05-2026",
+        "total_live": 0,
+        "total_upcoming": 45
     },
     "matches": [
-        {
-            "id": "de1694b1-4ee3-4733-adce-f8878ca5cbb7",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "de1694b1-4ee3-4733-adce-f8878ca5cbb7",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Bubali v RCA | Division Honor 2025-26",
-            "category": "livestream",
-            "urlSlug": "bubali-vs-rca",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/22/1d/cb/0b/221dcb0b-c792-4d48-903e-b725b280c421.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/46/45/15/eb/464515eb-7866-46bc-89dc-29a88bc6ba6a.png",
-            "freeMode": "FREE_ADS",
-            "title": "Bubali v RCA | Division Honor 2025-26",
-            "titleTemplateValues": {
-                "stage": "Division Honor Liga-Oro Round 2",
-                "team:bubali": "Bubali",
-                "country": "Aruba",
-                "association": "Aruba",
-                "season": "Division Honor 2025-26",
-                "publisher": "MA | Aruba",
-                "competition": "Division Honor",
-                "team:rca": "RCA",
-                "stadium": "Sports Complex Guillermo Prospero Trinidad",
-                "publisher-channel": "MA | Aruba | Division Honor 2025-2026",
-                "match": "Bubali v RCA",
-                "global-stage": "Division Honor Oro",
-                "city": "Dakota",
-                "video-type": "Live Streams",
-                "organizer": "Aruba",
-                "organizer-country": "Aruba"
-            },
-            "startDate": "2026-05-23T00:20:00Z",
-            "endDate": "2026-05-23T03:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-23T00:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Bubali v RCA"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Division Honor 2025-26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Division Honor Oro"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Aruba"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_12_59_02_a5a864f1-f1a9-4f65-8f1b-6f128b2de97f/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779495540",
-                "decryption_keys": [
-                    "978cfe8a60ed37e18694cddcfd1ceb03:291df67fee63caebc94b75fd11d7527e"
-                ]
-            }
-        },
         {
             "id": "aed3a778-b17a-4c36-9fdf-5e54c21c24eb",
             "channelId": "fifa-tournaments",
@@ -115,7 +47,7 @@
             "isRegistrationRequired": true,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -178,7 +110,7 @@
             "isRegistrationRequired": true,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -241,7 +173,7 @@
             "isRegistrationRequired": true,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
