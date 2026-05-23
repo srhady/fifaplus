@@ -3,147 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "12:15:16 AM 24-05-2026",
-        "total_live": 14,
-        "total_upcoming": 36
+        "last_update_time": "12:30:20 AM 24-05-2026",
+        "total_live": 12,
+        "total_upcoming": 37
     },
     "matches": [
-        {
-            "id": "265ee898-add5-4525-a4f3-58da48e3671a",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "265ee898-add5-4525-a4f3-58da48e3671a",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "EFO v USCO | Burkina Faso Ligue 1 2025-26",
-            "category": "livestream",
-            "urlSlug": "efo-vs-usco",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/3b/13/b3/ef/3b13b3ef-4be4-44d7-a870-91a28d0a18a9.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/31/17/15/52/31171552-f67d-40e6-afb9-126829b32e75.png",
-            "freeMode": "FREE_ADS",
-            "title": "EFO v USCO | Burkina Faso Ligue 1 2025-26",
-            "titleTemplateValues": {
-                "team:usco": "USCO",
-                "city": "Ouagadougou",
-                "global-stage": "Relegation Playoff – Second Leg",
-                "publisher": "MA | Burkina Faso",
-                "stage": "Regular Season",
-                "association": "Burkina Faso",
-                "season": "Burkina Faso Ligue 1 2025-26",
-                "competition": "Ligue 1",
-                "stadium": "Stade Municipal IJC",
-                "match": "EFO v USCO",
-                "country": "Burkina Faso",
-                "team:efo": "EFO",
-                "video-type": "Live Streams",
-                "publisher-channel": "MA | Burkina Faso | Ligue 1 Masculine 2025/2026",
-                "organizer": "Burkina Faso",
-                "organizer-country": "Burkina Faso"
-            },
-            "startDate": "2026-05-23T15:50:00Z",
-            "endDate": "2026-05-23T18:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-23T16:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "EFO v USCO"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Burkina Faso Ligue 1 2025-26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Relegation Playoff – Second Leg"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Burkina Faso"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_18_14_02_19_5bab4678-ad5f-4b49-93a9-ebbb9f1badea/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779551340",
-                "decryption_keys": [
-                    "66b897bb759938b18df83e08e3823106:a0df89d8316f14a11afbcdaabc0eff19"
-                ]
-            }
-        },
-        {
-            "id": "e1aa5fc7-ee50-4b4e-87e0-cb6456b5b66d",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "e1aa5fc7-ee50-4b4e-87e0-cb6456b5b66d",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Gardnersville FC v Downtown FC | LFA First Division League 2025/26",
-            "category": "livestream",
-            "urlSlug": "gardnersville-fc-vs-downtown-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/f6/3a/6c/ae/f63a6cae-0b9a-49dc-a45e-30daade219f8.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/04/9f/fd/ef/049ffdef-c24a-4346-8a21-b614f8a1f15c.png",
-            "freeMode": "FREE_ADS",
-            "title": "Gardnersville FC v Downtown FC | LFA First Division League 2025/26",
-            "titleTemplateValues": {
-                "match": "Gardnersville FC v Downtown FC",
-                "team:downtown-fc": "Downtown FC",
-                "stage": "Regular Season",
-                "publisher-channel": "MA | Liberia | Liberia LFA First Division League 2025/2026",
-                "global-stage": "Round 29",
-                "association": "Liberia",
-                "team:gardnersville-fc": "Gardnersville FC",
-                "season": "LFA First Division League 2025/26",
-                "competition": "Liberia National League",
-                "country": "Liberia",
-                "publisher": "MA | Liberia",
-                "city": "Paynesville",
-                "video-type": "Live Streams",
-                "stadium": "SKD Annex",
-                "organizer": "Liberia",
-                "organizer-country": "Liberia"
-            },
-            "startDate": "2026-05-23T15:50:00Z",
-            "endDate": "2026-05-23T18:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-23T16:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Gardnersville FC v Downtown FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "LFA First Division League 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 29"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Liberia"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_14_51_36_b8ca02c6-0c9f-4aea-bf47-8fe96f185292/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779551340",
-                "decryption_keys": [
-                    "096a8dce847937be92c982283fd5bcbd:8292f7a5220b77d9b1f6187175307e77"
-                ]
-            }
-        },
         {
             "id": "d5b4f6fd-7bba-4d49-922a-0f0244470be9",
             "channelId": "fifa-tournaments",
@@ -1004,7 +868,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -3187,6 +3051,130 @@
                     "kind": "title",
                     "p": 0,
                     "value": "Bo Rangers FC v Ports Authority FC"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Leone Rock Premier League 2025-26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 28"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Sierra Leone"
+                }
+            ]
+        },
+        {
+            "id": "49f21473-a2fe-4cd9-8592-2252a1fb1afa",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "49f21473-a2fe-4cd9-8592-2252a1fb1afa",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "East End Lions FC v Wusum Stars FC | Leone Rock Premier League 2025-26",
+            "category": "livestream",
+            "urlSlug": "east-end-lions-fc-vs-wusum-stars-fc",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/1a/8d/53/9a/1a8d539a-6303-4247-ae28-c0ef08d20cb5.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/3d/60/d8/65/3d60d865-be01-47e5-83cc-8bd591c8e627.png",
+            "freeMode": "FREE_ADS",
+            "title": "East End Lions FC v Wusum Stars FC | Leone Rock Premier League 2025-26",
+            "titleTemplateValues": {
+                "team:east-end-lions-fc": "East End Lions FC",
+                "stage": "Regular Season",
+                "country": "Sierra Leone",
+                "competition": "Premier League",
+                "match": "East End Lions FC v Wusum Stars FC",
+                "stadium": "Approved School Field",
+                "publisher-channel": "MA | Sierra Leone | Rock Premier League 2025-26",
+                "association": "Sierra Leone",
+                "city": "Freetown",
+                "global-stage": "Round 28",
+                "season": "Leone Rock Premier League 2025-26",
+                "publisher": "MA | Sierra Leone",
+                "video-type": "Live Streams",
+                "team:wusum-stars-fc": "Wusum Stars FC",
+                "organizer": "Sierra Leone",
+                "organizer-country": "Sierra Leone"
+            },
+            "startDate": "2026-05-24T16:20:00Z",
+            "endDate": "2026-05-24T19:00:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-24T16:30:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "East End Lions FC v Wusum Stars FC"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Leone Rock Premier League 2025-26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 28"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Sierra Leone"
+                }
+            ]
+        },
+        {
+            "id": "dc7f1d50-4a4a-4027-90ea-2c4802056bd0",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "dc7f1d50-4a4a-4027-90ea-2c4802056bd0",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Kamboi Eagles FC v Diamond Stars FC | Leone Rock Premier League 2025-26",
+            "category": "livestream",
+            "urlSlug": "kamboi-eagles-fc-vs-diamond-stars-fc",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/1a/8d/53/9a/1a8d539a-6303-4247-ae28-c0ef08d20cb5.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/70/36/cb/79/7036cb79-4dec-4b91-b9c9-546b184c5f29.png",
+            "freeMode": "FREE_ADS",
+            "title": "Kamboi Eagles FC v Diamond Stars FC | Leone Rock Premier League 2025-26",
+            "titleTemplateValues": {
+                "stage": "Regular Season",
+                "country": "Sierra Leone",
+                "competition": "Premier League",
+                "stadium": "Kenema Town Field",
+                "team:diamond-stars-fc": "Diamond Stars FC",
+                "team:kamboi-eagles-fc": "Kamboi Eagles FC",
+                "publisher-channel": "MA | Sierra Leone | Rock Premier League 2025-26",
+                "association": "Sierra Leone",
+                "city": "Kenema",
+                "global-stage": "Round 28",
+                "match": "Kamboi Eagles FC v Diamond Stars FC",
+                "season": "Leone Rock Premier League 2025-26",
+                "publisher": "MA | Sierra Leone",
+                "video-type": "Live Streams",
+                "organizer": "Sierra Leone",
+                "organizer-country": "Sierra Leone"
+            },
+            "startDate": "2026-05-24T16:20:00Z",
+            "endDate": "2026-05-24T19:00:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-24T16:30:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Kamboi Eagles FC v Diamond Stars FC"
                 },
                 {
                     "kind": "subtitle",
