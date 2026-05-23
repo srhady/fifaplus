@@ -3,352 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "08:45:19 PM 23-05-2026",
-        "total_live": 17,
-        "total_upcoming": 18
+        "last_update_time": "09:00:22 PM 23-05-2026",
+        "total_live": 15,
+        "total_upcoming": 15
     },
     "matches": [
-        {
-            "id": "e30acc14-c4be-40ec-a8b0-07de40745d45",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "e30acc14-c4be-40ec-a8b0-07de40745d45",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "US Zilimadjou v Atomic Ngomé | Championnat des Comores Division I 2025/26 | Full Match Replay",
-            "category": "livestream",
-            "urlSlug": "us-zilimadjou-vs-atomic-ngome",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/93/27/8b/0a/93278b0a-5477-40c8-bb9d-ccd55ac409d2.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/17/59/15/e4/175915e4-236e-4066-a46d-1a9268dd5b68.png",
-            "freeMode": "FREE_ADS",
-            "title": "US Zilimadjou v Atomic Ngomé | Championnat des Comores Division I 2025/26 | Full Match Replay",
-            "titleTemplateValues": {
-                "season": "Championnat des Comores Division I 2025/26",
-                "publisher-channel": "MA | Comoros | Division 1 2025/2026",
-                "city": "Moroni",
-                "global-stage": "Round 21",
-                "competition": "Division 1",
-                "stage": "Regular Season",
-                "publisher": "MA | Comoros",
-                "country": "Comoros",
-                "video-type": "Full Match Replays",
-                "match": "US Zilimadjou v Atomic Ngomé",
-                "team:us-zilimadjou": "US Zilimadjou",
-                "stadium": "Stade de Moroni",
-                "association": "Comoros",
-                "fifa-plus": "Mens (FIFA Plus)",
-                "team:atomic-ngome": "Atomic Ngomé",
-                "organizer": "Comoros",
-                "organizer-country": "Comoros"
-            },
-            "startDate": "2026-05-23T11:50:00Z",
-            "endDate": "2026-05-23T15:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-23T12:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "US Zilimadjou v Atomic Ngomé"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Championnat des Comores Division I 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 21"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Comoros"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_11_07_38_40_a77482b3-d4ba-4ae2-b9eb-135f34a27b07/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779536940",
-                "decryption_keys": [
-                    "ab9c94ac642f3b01a5936874ed2e3656:ebf87c82024a068c0035297b8bb18ba5"
-                ]
-            }
-        },
-        {
-            "id": "1ff0ea16-eec1-45ed-b3d5-f0a0aa80788d",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "1ff0ea16-eec1-45ed-b3d5-f0a0aa80788d",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Blue Eagles v FCB Nyasa Big Bullets | FDH Bank Premiership",
-            "category": "livestream",
-            "urlSlug": "blue-eagles-vs-fcb-nyasa-big-bullets",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/80/65/93/8e/8065938e-a1a7-4e07-bc92-5382309a4c23.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/50/65/9f/a7/50659fa7-09da-40c2-8bbd-a3ba9d4f8df9.png",
-            "freeMode": "FREE_ADS",
-            "title": "Blue Eagles v FCB Nyasa Big Bullets | FDH Bank Premiership",
-            "titleTemplateValues": {
-                "global-stage": "Round 5",
-                "country": "Malawi",
-                "association": "Malawi",
-                "stadium": "CIVO Stadium",
-                "team:fcb-nyasa-big-bullets": "FCB Nyasa Big Bullets",
-                "season": "FDH Bank Premiership",
-                "publisher": "MA | Malawi",
-                "stage": "Regular Season",
-                "publisher-channel": "MA | Malawi | FDH Bank Premiership 2026/27 (Channel)",
-                "competition": "Super League",
-                "match": "Blue Eagles v FCB Nyasa Big Bullets",
-                "team:blue-eagles": "Blue Eagles",
-                "video-type": "Live Streams",
-                "city": "Lilongwe",
-                "organizer": "Malawi",
-                "organizer-country": "Malawi"
-            },
-            "startDate": "2026-05-23T12:20:00Z",
-            "endDate": "2026-05-23T15:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-23T12:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Blue Eagles v FCB Nyasa Big Bullets"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "FDH Bank Premiership"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 5"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Malawi"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_15_47_03_6377e884-d9a4-4aaf-b95e-2fa9d9a85163/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Anya%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779538740",
-                "decryption_keys": [
-                    "a32e6482e2e435a0a1272282e621f631:452c6f08d18a499faef737fb4e5167e0"
-                ]
-            }
-        },
-        {
-            "id": "2b0b6417-5aaa-482b-9e1f-6fdc0745cd18",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "2b0b6417-5aaa-482b-9e1f-6fdc0745cd18",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Kamuzu Barracks FC v Ekhaya FC | FDH Bank Premiership",
-            "category": "livestream",
-            "urlSlug": "kamuzu-barracks-fc-vs-ekhaya-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/80/65/93/8e/8065938e-a1a7-4e07-bc92-5382309a4c23.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/96/d4/b9/55/96d4b955-69ca-4400-9c34-637d3553c713.png",
-            "freeMode": "FREE_ADS",
-            "title": "Kamuzu Barracks FC v Ekhaya FC | FDH Bank Premiership",
-            "titleTemplateValues": {
-                "global-stage": "Round 5",
-                "country": "Malawi",
-                "association": "Malawi",
-                "city": "Dowa",
-                "match": "Kamuzu Barracks FC v Ekhaya FC",
-                "stadium": "Champion Stadium",
-                "season": "FDH Bank Premiership",
-                "publisher": "MA | Malawi",
-                "stage": "Regular Season",
-                "publisher-channel": "MA | Malawi | FDH Bank Premiership 2026/27 (Channel)",
-                "team:kamuzu-barracks-fc": "Kamuzu Barracks FC",
-                "team:ekhaya-fc": "Ekhaya FC",
-                "competition": "Super League",
-                "video-type": "Live Streams",
-                "organizer": "Malawi",
-                "organizer-country": "Malawi"
-            },
-            "startDate": "2026-05-23T12:20:00Z",
-            "endDate": "2026-05-23T15:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-23T12:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Kamuzu Barracks FC v Ekhaya FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "FDH Bank Premiership"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 5"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Malawi"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_15_47_09_f1a5f62d-e1e4-421f-95de-83dd401f3b5e/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Anya%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779538740",
-                "decryption_keys": [
-                    "d20cf373d4a531b18c10d42f0bb689ad:7765cc081596ff45a244c8f13dea462b"
-                ]
-            }
-        },
-        {
-            "id": "41acfb8d-7513-4455-95f8-8fb737fa35a0",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "41acfb8d-7513-4455-95f8-8fb737fa35a0",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Moyale Barracks v Creck Sporting FC | FDH Bank Premiership",
-            "category": "livestream",
-            "urlSlug": "moyale-barracks-vs-creck-sporting-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/80/65/93/8e/8065938e-a1a7-4e07-bc92-5382309a4c23.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/12/ff/28/30/12ff2830-5aac-42fc-8ff4-6577ac555601.png",
-            "freeMode": "FREE_ADS",
-            "title": "Moyale Barracks v Creck Sporting FC | FDH Bank Premiership",
-            "titleTemplateValues": {
-                "global-stage": "Round 5",
-                "country": "Malawi",
-                "city": "Rumphi",
-                "stadium": "Rumphi Stadium",
-                "association": "Malawi",
-                "match": "Moyale Barracks v Creck Sporting FC",
-                "season": "FDH Bank Premiership",
-                "publisher": "MA | Malawi",
-                "stage": "Regular Season",
-                "publisher-channel": "MA | Malawi | FDH Bank Premiership 2026/27 (Channel)",
-                "team:moyale-barracks": "Moyale Barracks",
-                "team:creck-sporting-fc": "Creck Sporting FC",
-                "competition": "Super League",
-                "video-type": "Live Streams",
-                "organizer": "Malawi",
-                "organizer-country": "Malawi"
-            },
-            "startDate": "2026-05-23T12:20:00Z",
-            "endDate": "2026-05-23T15:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-23T12:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Moyale Barracks v Creck Sporting FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "FDH Bank Premiership"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 5"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Malawi"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_15_47_00_47398d8e-f9c2-41e4-95b3-3e93b8131023/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Anya%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779538740",
-                "decryption_keys": [
-                    "25ccbb1d028536f2a5b5d033ab195f72:9cd486f57b22da98cfb1988f72e00ada"
-                ]
-            }
-        },
-        {
-            "id": "1bb370b1-6f1a-4c93-ac87-a855b07328da",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "1bb370b1-6f1a-4c93-ac87-a855b07328da",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Red Lions v Mitundu Baptist | FDH Bank Premiership",
-            "category": "livestream",
-            "urlSlug": "red-lions-vs-mitundu-baptist",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/80/65/93/8e/8065938e-a1a7-4e07-bc92-5382309a4c23.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/5f/7f/81/ba/5f7f81ba-29e4-4643-a5c6-49b859a5bebd.png",
-            "freeMode": "FREE_ADS",
-            "title": "Red Lions v Mitundu Baptist | FDH Bank Premiership",
-            "titleTemplateValues": {
-                "global-stage": "Round 5",
-                "country": "Malawi",
-                "city": "Zomba",
-                "association": "Malawi",
-                "season": "FDH Bank Premiership",
-                "publisher": "MA | Malawi",
-                "stage": "Regular Season",
-                "team:red-lions": "Red Lions",
-                "publisher-channel": "MA | Malawi | FDH Bank Premiership 2026/27 (Channel)",
-                "competition": "Super League",
-                "team:mitundu-baptist": "Mitundu Baptist",
-                "stadium": "Zomba Stadium",
-                "match": "Red Lions v Mitundu Baptist",
-                "video-type": "Live Streams",
-                "organizer": "Malawi",
-                "organizer-country": "Malawi"
-            },
-            "startDate": "2026-05-23T12:20:00Z",
-            "endDate": "2026-05-23T15:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-23T12:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Red Lions v Mitundu Baptist"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "FDH Bank Premiership"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 5"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Malawi"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_15_47_06_df8bfba8-000c-40fa-ad7c-2c9daed0a5f4/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Anya%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779538740",
-                "decryption_keys": [
-                    "48f1512dbdf636e0a96e5d90fe159d04:66bc437704452a088854bd96b25fd8f7"
-                ]
-            }
-        },
         {
             "id": "544f6e2b-4b7f-4a7d-8f0c-226f699f24cd",
             "channelId": "fifa-tournaments",
@@ -1267,7 +926,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -1289,7 +948,13 @@
                     "p": 1,
                     "value": "Equatorial Guinea"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_21_07_13_13_f97b00f3-bec3-41a2-a31e-e3059bffed2f/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779547740",
+                "decryption_keys": [
+                    "73d6f1ec1ab63df09da7c5e752a1a198:1d39822b5c7e72535087edda67e3c19e"
+                ]
+            }
         },
         {
             "id": "811055d6-4295-48a5-a88d-da7b04b21574",
@@ -1329,7 +994,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -1351,7 +1016,13 @@
                     "p": 1,
                     "value": "Benin"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_18_13_46_59_0cae8f6c-8122-41a4-8112-8703380ef43d/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779547740",
+                "decryption_keys": [
+                    "ba7a67a3739f357e8f2f3c0e8addfe6d:a455786bb555f01919a0b97f5c1877c4"
+                ]
+            }
         },
         {
             "id": "04cea4db-c201-4d86-969e-e73e8f2099ab",
@@ -1391,7 +1062,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -1413,7 +1084,13 @@
                     "p": 1,
                     "value": "Benin"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_18_13_47_02_940b680d-a22f-43d3-a4a4-f5671c871a60/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779547740",
+                "decryption_keys": [
+                    "588db24ad19e38c4a48338970ed5fdfa:1952c5c92ae4505b7421176e9a839fb8"
+                ]
+            }
         },
         {
             "id": "fbf4a6d4-a5c4-4d40-bbc3-f664f6d5a6f7",
