@@ -3,9 +3,9 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "10:45:16 PM 23-05-2026",
-        "total_live": 10,
-        "total_upcoming": 7
+        "last_update_time": "11:00:26 PM 23-05-2026",
+        "total_live": 16,
+        "total_upcoming": 2
     },
     "matches": [
         {
@@ -749,7 +749,13 @@
                     "p": 1,
                     "value": "Guinea-Bissau"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_13_51_25_9596522f-93c1-4045-a229-10655cbec851/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Apor%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779554640",
+                "decryption_keys": [
+                    "412c51dc57b03ef08451a9f1e9445535:ed0b73fc865a8f27c2d9e8e3c1929a7d"
+                ]
+            }
         },
         {
             "id": "f7747a8f-177c-4197-984c-a2dadf90dec1",
@@ -790,7 +796,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -812,7 +818,13 @@
                     "p": 1,
                     "value": "Cabo Verde"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_21_08_54_34_632a0e3b-09b0-4364-8d21-5cf8c02aef2c/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Apor%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779554940",
+                "decryption_keys": [
+                    "50095e761ab33cad8a5d40f07d60d553:77f3f23ad01be4de2a6610de622a1119"
+                ]
+            }
         },
         {
             "id": "39c3e797-e01e-4cf9-bcd1-f4507ffaaff1",
@@ -853,7 +865,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -875,7 +887,13 @@
                     "p": 1,
                     "value": "Cabo Verde"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_21_08_54_30_58b39804-e0a6-4fb8-9ee1-2374b225247b/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Apor%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779554940",
+                "decryption_keys": [
+                    "bb1715bb9f713335bff0b27e6a911528:2c9f4ac934e7673a7bc929264a0b14c9"
+                ]
+            }
         },
         {
             "id": "79b937c4-9a82-4454-91bc-94d29d8a7adc",
@@ -916,7 +934,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -938,7 +956,13 @@
                     "p": 1,
                     "value": "Cabo Verde"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_21_08_54_27_385bfc4f-4950-4768-95c0-f87783af4df7/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Apor%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779554940",
+                "decryption_keys": [
+                    "d4256079cef234578c4868fdbebe4d09:c79bc314e967adda8c6a8531d939d84d"
+                ]
+            }
         },
         {
             "id": "591fb4ec-bea5-4938-92c7-89677036e2bf",
@@ -979,7 +1003,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -1001,70 +1025,13 @@
                     "p": 1,
                     "value": "Cabo Verde"
                 }
-            ]
-        },
-        {
-            "id": "afd957e9-3c0e-4b29-ab77-b71634ffb4c8",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "afd957e9-3c0e-4b29-ab77-b71634ffb4c8",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "África Show v Palmeira | Cape Verdean Football Championship 2026",
-            "category": "livestream",
-            "urlSlug": "africa-show-vs-palmeira",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/e2/de/a5/df/e2dea5df-b115-46c7-896c-b14873589822.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/7b/fd/84/c2/7bfd84c2-d73c-462f-9f03-37204ce12286.png",
-            "freeMode": "FREE_ADS",
-            "title": "África Show v Palmeira | Cape Verdean Football Championship 2026",
-            "titleTemplateValues": {
-                "global-stage": "Round 3",
-                "team:palmeira": "Palmeira",
-                "match": "África Show v Palmeira",
-                "stage": "Group Stage",
-                "publisher-channel": "MA | Cape Verde | Cape Verdean Football Championship 2026 (Channel)",
-                "competition": "Cape Verdean Football Championship",
-                "team:africa-show": "África Show",
-                "stadium": "Arsénio Ramos Stadium",
-                "country": "Cabo Verde",
-                "season": "Cape Verdean Football Championship 2026",
-                "publisher": "MA | Cape Verde",
-                "city": "Sal Rei",
-                "fifa-plus": "Mens (FIFA Plus)",
-                "association": "Cabo Verde",
-                "video-type": "Live Streams",
-                "organizer": "Cabo Verde",
-                "organizer-country": "Cabo Verde"
-            },
-            "startDate": "2026-05-23T16:50:00Z",
-            "endDate": "2026-05-23T19:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-23T17:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "upcoming",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "África Show v Palmeira"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Cape Verdean Football Championship 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 3"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Cabo Verde"
-                }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_21_08_55_01_e8a66624-783b-4127-a9f9-57854227eeee/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Apor%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779554940",
+                "decryption_keys": [
+                    "6ee6643abc8136e1a01b29a7ee04cc15:99de74f4d48071ff4c39a261fb89926b"
+                ]
+            }
         },
         {
             "id": "8ce256d0-7564-40ea-aaae-875206a963af",
@@ -1104,7 +1071,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -1125,6 +1092,75 @@
                     "kind": "caption",
                     "p": 1,
                     "value": "Albania"
+                }
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_13_59_33_d38810d1-b663-4b1a-be10-97ef1c4ce661/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Asqi%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779554940",
+                "decryption_keys": [
+                    "8dd940518b39338d93f6111872892fdc:d3eb3557ea5a44e630c6e94e67effe13"
+                ]
+            }
+        },
+        {
+            "id": "afd957e9-3c0e-4b29-ab77-b71634ffb4c8",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "afd957e9-3c0e-4b29-ab77-b71634ffb4c8",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "África Show v Palmeira | Cape Verdean Football Championship 2026",
+            "category": "livestream",
+            "urlSlug": "africa-show-vs-palmeira",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/e2/de/a5/df/e2dea5df-b115-46c7-896c-b14873589822.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/7b/fd/84/c2/7bfd84c2-d73c-462f-9f03-37204ce12286.png",
+            "freeMode": "FREE_ADS",
+            "title": "África Show v Palmeira | Cape Verdean Football Championship 2026",
+            "titleTemplateValues": {
+                "global-stage": "Round 3",
+                "team:palmeira": "Palmeira",
+                "match": "África Show v Palmeira",
+                "stage": "Group Stage",
+                "publisher-channel": "MA | Cape Verde | Cape Verdean Football Championship 2026 (Channel)",
+                "competition": "Cape Verdean Football Championship",
+                "team:africa-show": "África Show",
+                "stadium": "Arsénio Ramos Stadium",
+                "country": "Cabo Verde",
+                "season": "Cape Verdean Football Championship 2026",
+                "publisher": "MA | Cape Verde",
+                "city": "Sal Rei",
+                "fifa-plus": "Mens (FIFA Plus)",
+                "association": "Cabo Verde",
+                "video-type": "Live Streams",
+                "organizer": "Cabo Verde",
+                "organizer-country": "Cabo Verde"
+            },
+            "startDate": "2026-05-23T17:10:00Z",
+            "endDate": "2026-05-23T19:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-23T17:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "África Show v Palmeira"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Cape Verdean Football Championship 2026"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 3"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Cabo Verde"
                 }
             ]
         },
@@ -1158,7 +1194,7 @@
                 "organizer": "Mauritania",
                 "organizer-country": "Mauritania"
             },
-            "startDate": "2026-05-23T16:50:00Z",
+            "startDate": "2026-05-23T17:10:00Z",
             "endDate": "2026-05-23T19:15:00Z",
             "ctxMetadata": {
                 "kickOffTime": "2026-05-23T16:45:00Z"
