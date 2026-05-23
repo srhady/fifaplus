@@ -3,8 +3,8 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "08:00:22 PM 23-05-2026",
-        "total_live": 17,
+        "last_update_time": "08:15:16 PM 23-05-2026",
+        "total_live": 16,
         "total_upcoming": 19
     },
     "matches": [
@@ -74,75 +74,6 @@
                 "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_11_07_38_40_a77482b3-d4ba-4ae2-b9eb-135f34a27b07/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779536940",
                 "decryption_keys": [
                     "ab9c94ac642f3b01a5936874ed2e3656:ebf87c82024a068c0035297b8bb18ba5"
-                ]
-            }
-        },
-        {
-            "id": "2e63faeb-6ece-41b4-89d0-04468365bcc6",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "2e63faeb-6ece-41b4-89d0-04468365bcc6",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Foresters FC v Cote D'Or FC | Seychelles Absa Premier League 2025/26",
-            "category": "livestream",
-            "urlSlug": "foresters-fc-vs-cote-d-or-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/45/9f/11/a8/459f11a8-e0bb-4967-9ffc-2e4fe552a13e.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/2b/f1/4c/b8/2bf14cb8-dc34-45a7-9640-f2f7f094b2ef.png",
-            "freeMode": "FREE_ADS",
-            "title": "Foresters FC v Cote D'Or FC | Seychelles Absa Premier League 2025/26",
-            "titleTemplateValues": {
-                "publisher-channel": "MA | Seychelles | Absa Premier League 2025/2026",
-                "publisher": "MA | Seychelles",
-                "stadium": "Stad Linite",
-                "global-stage": "Round 15",
-                "stage": "Regular Season",
-                "association": "Seychelles",
-                "season": "Seychelles Absa Premier League 2025/26",
-                "fifa-plus": "Mens (FIFA Plus)",
-                "country": "Seychelles",
-                "team:cote-d-or-fc": "Cote D'Or FC",
-                "match": "Foresters FC v Cote D'Or FC",
-                "city": "Roche Caiman",
-                "competition": "Seychelles Premier League",
-                "team:foresters-fc": "Foresters FC",
-                "video-type": "Live Streams",
-                "organizer": "Seychelles",
-                "organizer-country": "Seychelles"
-            },
-            "startDate": "2026-05-23T11:50:00Z",
-            "endDate": "2026-05-23T14:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-23T12:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Foresters FC v Cote D'Or FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Seychelles Absa Premier League 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 15"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Seychelles"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_07_47_55_426443ff-4657-408c-9c7e-5a44c5918ae3/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779536940",
-                "decryption_keys": [
-                    "9016e03541b631e4834db9ce9655f825:3441d81b123a987f6ff448833896d96a"
                 ]
             }
         },
@@ -1260,7 +1191,7 @@
                 "organizer": "United Arab Emirates",
                 "organizer-country": "United Arab Emirates"
             },
-            "startDate": "2026-05-23T14:05:00Z",
+            "startDate": "2026-05-23T14:30:00Z",
             "endDate": "2026-05-23T16:40:00Z",
             "ctxMetadata": {
                 "kickOffTime": "2026-05-23T14:10:00Z"
