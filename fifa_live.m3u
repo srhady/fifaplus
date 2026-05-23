@@ -1,18 +1,13 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:00:26 PM 23-05-2026
+#last update time: 10:15:17 PM 23-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/30/fb/5a/1f/30fb5a1f-7b28-411a-8877-3b5d582038f0.png" group-title="FIFA Live", FK Banga v FA Šiauliai | Moterų A lyga 2026
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7c071eb648413cc9ace1a42aeb9b4ff3:054f0324daf691829f41a86666f28f82
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_18_15_03_13_eaf44c63-85e7-4e4b-88ef-46d943e619c4/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Alit%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779544140
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/cd/f7/40/6e/cdf7406e-e470-4d3c-b9f3-f99b78297e93.png" group-title="FIFA Live", FK Žalgiris v Kauno rajono FA | Moterų A lyga 2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=66c38ea34d5838408b25c1b00b474a31:4b4a462cf62cb3335b17215ba6696808
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_18_15_02_59_b1727250-cdde-4202-ac37-14a49cfe365f/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Alit%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779544140
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/b3/b6/8c/94/b3b68c94-4991-4bf2-93ca-7018ec69e0ed.png" group-title="FIFA Live", Dibba Al-Hisn v Al Dhaid Club | Round 29 | First Division League 2025/26
 #KODIPROP:inputstream.adaptive.license_type=clearkey

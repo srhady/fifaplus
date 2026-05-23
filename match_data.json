@@ -3,8 +3,8 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "10:00:26 PM 23-05-2026",
-        "total_live": 16,
+        "last_update_time": "10:15:17 PM 23-05-2026",
+        "total_live": 15,
         "total_upcoming": 11
     },
     "matches": [
@@ -73,74 +73,6 @@
                 "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_18_15_03_13_eaf44c63-85e7-4e4b-88ef-46d943e619c4/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Alit%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779544140",
                 "decryption_keys": [
                     "7c071eb648413cc9ace1a42aeb9b4ff3:054f0324daf691829f41a86666f28f82"
-                ]
-            }
-        },
-        {
-            "id": "e488b952-2577-4853-9eaf-8a7ed8613b9d",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "e488b952-2577-4853-9eaf-8a7ed8613b9d",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "FK Žalgiris v Kauno rajono FA | Moterų A lyga 2026",
-            "category": "livestream",
-            "urlSlug": "fk-zalgiris-vs-kauno-rajono-fa",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/bd/c4/94/1b/bdc4941b-d298-4af7-aae1-86bcc62032fd.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/cd/f7/40/6e/cdf7406e-e470-4d3c-b9f3-f99b78297e93.png",
-            "freeMode": "FREE_ADS",
-            "title": "FK Žalgiris v Kauno rajono FA | Moterų A lyga 2026",
-            "titleTemplateValues": {
-                "stadium": "Žalgiris Stadium",
-                "season": "Moterų A lyga 2026",
-                "team:fk-zalgiris": "FK Žalgiris",
-                "publisher-channel": "MA | Lithuania | Moterų A Lyga 2026 (Channel)",
-                "country": "Lithuania",
-                "team:kauno-rajono-fa": "Kauno rajono FA",
-                "competition": "Women's A league",
-                "publisher": "MA | Lithuania ",
-                "city": "Vilnius",
-                "association": "Lithuania",
-                "stage": "Moterų A Lyga",
-                "match": "FK Žalgiris v Kauno rajono FA",
-                "global-stage": "Round 9",
-                "video-type": "Live Streams",
-                "organizer": "Lithuania",
-                "organizer-country": "Lithuania"
-            },
-            "startDate": "2026-05-23T13:50:00Z",
-            "endDate": "2026-05-23T16:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-23T14:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "FK Žalgiris v Kauno rajono FA"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Moterų A lyga 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 9"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Lithuania"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_18_15_02_59_b1727250-cdde-4202-ac37-14a49cfe365f/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Alit%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779544140",
-                "decryption_keys": [
-                    "66c38ea34d5838408b25c1b00b474a31:4b4a462cf62cb3335b17215ba6696808"
                 ]
             }
         },
@@ -1161,68 +1093,6 @@
             ]
         },
         {
-            "id": "3d1dc237-520b-4b56-a8a7-f0fd2a4433b3",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "3d1dc237-520b-4b56-a8a7-f0fd2a4433b3",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Freeport FC v Paynesville FC | LFA First Division League 2025/26",
-            "category": "livestream",
-            "urlSlug": "freeport-vs-paynesville-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/f6/3a/6c/ae/f63a6cae-0b9a-49dc-a45e-30daade219f8.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/5a/12/39/12/5a123912-f1f5-4f62-aacf-541c5a8770bb.png",
-            "freeMode": "FREE_ADS",
-            "title": "Freeport FC v Paynesville FC | LFA First Division League 2025/26",
-            "titleTemplateValues": {
-                "team:paynesville-fc": "Paynesville FC",
-                "stage": "Regular Season",
-                "publisher-channel": "MA | Liberia | Liberia LFA First Division League 2025/2026",
-                "stadium": "TUSA Field",
-                "global-stage": "Round 29",
-                "team:freeport": "Freeport FC",
-                "association": "Liberia",
-                "season": "LFA First Division League 2025/26",
-                "competition": "Liberia National League",
-                "country": "Liberia",
-                "publisher": "MA | Liberia",
-                "city": "Gardnersville",
-                "match": "Freeport FC v Paynesville FC",
-                "video-type": "Live Streams",
-                "organizer": "Liberia",
-                "organizer-country": "Liberia"
-            },
-            "startDate": "2026-05-23T16:20:00Z",
-            "endDate": "2026-05-23T18:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-23T16:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "upcoming",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Freeport FC v Paynesville FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "LFA First Division League 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 29"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Liberia"
-                }
-            ]
-        },
-        {
             "id": "333dfd83-6d8b-4bf8-8e02-2a16f79d2c22",
             "channelId": "fifa-tournaments",
             "catalogRedirectId": "333dfd83-6d8b-4bf8-8e02-2a16f79d2c22",
@@ -1281,6 +1151,68 @@
                     "kind": "caption",
                     "p": 1,
                     "value": "Israel"
+                }
+            ]
+        },
+        {
+            "id": "3d1dc237-520b-4b56-a8a7-f0fd2a4433b3",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "3d1dc237-520b-4b56-a8a7-f0fd2a4433b3",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Freeport FC v Paynesville FC | LFA First Division League 2025/26",
+            "category": "livestream",
+            "urlSlug": "freeport-vs-paynesville-fc",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/f6/3a/6c/ae/f63a6cae-0b9a-49dc-a45e-30daade219f8.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/5a/12/39/12/5a123912-f1f5-4f62-aacf-541c5a8770bb.png",
+            "freeMode": "FREE_ADS",
+            "title": "Freeport FC v Paynesville FC | LFA First Division League 2025/26",
+            "titleTemplateValues": {
+                "team:paynesville-fc": "Paynesville FC",
+                "stage": "Regular Season",
+                "publisher-channel": "MA | Liberia | Liberia LFA First Division League 2025/2026",
+                "stadium": "TUSA Field",
+                "global-stage": "Round 29",
+                "team:freeport": "Freeport FC",
+                "association": "Liberia",
+                "season": "LFA First Division League 2025/26",
+                "competition": "Liberia National League",
+                "country": "Liberia",
+                "publisher": "MA | Liberia",
+                "city": "Gardnersville",
+                "match": "Freeport FC v Paynesville FC",
+                "video-type": "Live Streams",
+                "organizer": "Liberia",
+                "organizer-country": "Liberia"
+            },
+            "startDate": "2026-05-23T16:25:00Z",
+            "endDate": "2026-05-23T18:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-23T16:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Freeport FC v Paynesville FC"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "LFA First Division League 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 29"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Liberia"
                 }
             ]
         },
