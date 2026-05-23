@@ -3,7 +3,7 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "09:45:19 AM 23-05-2026",
+        "last_update_time": "10:00:26 AM 23-05-2026",
         "total_live": 0,
         "total_upcoming": 45
     },
@@ -324,6 +324,69 @@
             ]
         },
         {
+            "id": "f9161220-caef-4597-969d-8e7463f4c269",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "f9161220-caef-4597-969d-8e7463f4c269",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Birkenhead United v Bay Olympic | New Zealand Men's National League 2026",
+            "category": "livestream",
+            "urlSlug": "birkenhead-united-afc-vs-bay-olympic-fc",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/6c/f9/30/95/6cf93095-e33d-4b23-b486-45750c864708.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/77/af/55/a9/77af55a9-b9ad-4d1d-b204-f3ea4c732a8c.jpg",
+            "freeMode": "FREE_ADS",
+            "title": "Birkenhead United v Bay Olympic | New Zealand Men's National League 2026",
+            "titleTemplateValues": {
+                "competition": "Men's National League",
+                "publisher": "MA | New Zealand",
+                "publisher-channel": "MA | New Zealand | Men's National League 2026 - Regional Phase (Channel)",
+                "team:birkenhead-united-afc": "Birkenhead United",
+                "global-stage": "Northern League",
+                "stadium": "Shepherds Park",
+                "season": "New Zealand Men's National League 2026",
+                "stage": "Regional Phase - Northern League",
+                "association": "New Zealand",
+                "team:bay-olympic-fc": "Bay Olympic",
+                "city": "Auckland",
+                "match": "Birkenhead United v Bay Olympic",
+                "country": "New Zealand",
+                "fifa-plus": "Mens (FIFA Plus)",
+                "video-type": "Live Streams",
+                "organizer": "New Zealand",
+                "organizer-country": "New Zealand"
+            },
+            "startDate": "2026-05-23T04:50:00Z",
+            "endDate": "2026-05-23T08:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-23T05:00:00Z"
+            },
+            "isRegistrationRequired": true,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Birkenhead United v Bay Olympic"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "New Zealand Men's National League 2026"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Northern League"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "New Zealand"
+                }
+            ]
+        },
+        {
             "id": "f79135be-3f87-4293-9c96-a890c28403c1",
             "channelId": "fifa-tournaments",
             "catalogRedirectId": "f79135be-3f87-4293-9c96-a890c28403c1",
@@ -431,69 +494,6 @@
                     "kind": "title",
                     "p": 0,
                     "value": "Western Springs v Fencibles United"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "New Zealand Men's National League 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Northern League"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "New Zealand"
-                }
-            ]
-        },
-        {
-            "id": "f9161220-caef-4597-969d-8e7463f4c269",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "f9161220-caef-4597-969d-8e7463f4c269",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Birkenhead United v Bay Olympic | New Zealand Men's National League 2026",
-            "category": "livestream",
-            "urlSlug": "birkenhead-united-afc-vs-bay-olympic-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/6c/f9/30/95/6cf93095-e33d-4b23-b486-45750c864708.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/77/af/55/a9/77af55a9-b9ad-4d1d-b204-f3ea4c732a8c.jpg",
-            "freeMode": "FREE_ADS",
-            "title": "Birkenhead United v Bay Olympic | New Zealand Men's National League 2026",
-            "titleTemplateValues": {
-                "competition": "Men's National League",
-                "publisher": "MA | New Zealand",
-                "publisher-channel": "MA | New Zealand | Men's National League 2026 - Regional Phase (Channel)",
-                "team:birkenhead-united-afc": "Birkenhead United",
-                "global-stage": "Northern League",
-                "stadium": "Shepherds Park",
-                "season": "New Zealand Men's National League 2026",
-                "stage": "Regional Phase - Northern League",
-                "association": "New Zealand",
-                "team:bay-olympic-fc": "Bay Olympic",
-                "city": "Auckland",
-                "match": "Birkenhead United v Bay Olympic",
-                "country": "New Zealand",
-                "fifa-plus": "Mens (FIFA Plus)",
-                "video-type": "Live Streams",
-                "organizer": "New Zealand",
-                "organizer-country": "New Zealand"
-            },
-            "startDate": "2026-05-23T05:50:00Z",
-            "endDate": "2026-05-23T08:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-23T05:00:00Z"
-            },
-            "isRegistrationRequired": true,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "upcoming",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Birkenhead United v Bay Olympic"
                 },
                 {
                     "kind": "subtitle",
