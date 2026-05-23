@@ -1,13 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 08:15:18 AM 23-05-2026
+#last update time: 08:30:22 AM 23-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/45/ce/f7/84/45cef784-b01e-44b3-b4cc-b6bc0953aedd.png" group-title="FIFA Live", Attackers FC v Roaring Lions FC | Anguilla Senior Men's League 2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bd85c47878bf3e68b5624cd636348564:ffbdb3e9292e7aab914ec2fa737402ad
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_10_28_46_6b1ee31e-2c1c-4526-9234-5e8f9ca6b3d2/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779494340
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/46/45/15/eb/464515eb-7866-46bc-89dc-29a88bc6ba6a.png" group-title="FIFA Live", Bubali v RCA | Division Honor 2025-26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
