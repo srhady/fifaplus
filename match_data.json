@@ -3,79 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "04:00:22 AM 24-05-2026",
-        "total_live": 3,
-        "total_upcoming": 41
+        "last_update_time": "04:30:20 AM 24-05-2026",
+        "total_live": 5,
+        "total_upcoming": 38
     },
     "matches": [
-        {
-            "id": "89e4191b-76a3-42d8-bd2e-36e79c2b5566",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "89e4191b-76a3-42d8-bd2e-36e79c2b5566",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Aragua FC v Mineros de Guayana | Liga FUTVE 2 2026",
-            "category": "livestream",
-            "urlSlug": "aragua-fc-vs-mineros-de-guayana",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/57/b2/b9/56/57b2b956-2a4f-4b00-9e73-4c3ff15091b9.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/a8/37/45/13/a8374513-33f5-4e96-85ac-94eff8a983f2.png",
-            "freeMode": "FREE_ADS",
-            "title": "Aragua FC v Mineros de Guayana | Liga FUTVE 2 2026",
-            "titleTemplateValues": {
-                "season": "Liga FUTVE 2 2026",
-                "city": "Maracay",
-                "stadium": "Olympic Stadium Hermanos Ghersi Páez",
-                "stage": "Regular Season",
-                "association": "Venezuela",
-                "global-stage": "Round 12",
-                "publisher": "MA | Venezuela",
-                "match": "Aragua FC v Mineros de Guayana",
-                "competition": "Liga FUTVE 2",
-                "team:aragua-fc": "Aragua FC",
-                "country": "Venezuela",
-                "team:mineros-de-guayana": "Mineros de Guayana",
-                "video-type": "Live Streams",
-                "publisher-channel": "MA | Venezuela | Liga FUTVE 2 2026 (Channel)",
-                "organizer": "Venezuela",
-                "organizer-country": "Venezuela"
-            },
-            "startDate": "2026-05-23T19:50:00Z",
-            "endDate": "2026-05-23T22:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-23T20:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Aragua FC v Mineros de Guayana"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Liga FUTVE 2 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 12"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Venezuela"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_18_14_20_08_9d3b2587-9737-4b8b-907c-39006533ce31/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779565740",
-                "decryption_keys": [
-                    "67e3b171ad853c63bf739726ebd854b9:65b23b5471d8412bf0066b428059c741"
-                ]
-            }
-        },
         {
             "id": "fea42cf2-b61c-4af1-b7bb-b9cf8a507e33",
             "channelId": "fifa-tournaments",
@@ -250,7 +182,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -272,7 +204,13 @@
                     "p": 1,
                     "value": "Dominica"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_13_07_32_5393ee5f-b422-49ea-9c87-b7ffac25509b/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779574740",
+                "decryption_keys": [
+                    "bf9c8e9414bd31f5a952689fcc0975ce:fc083851364b7b5adc31383d03da4158"
+                ]
+            }
         },
         {
             "id": "062cc570-6d84-4390-a56b-1ec843e0d311",
@@ -312,7 +250,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -334,7 +272,13 @@
                     "p": 1,
                     "value": "Aruba"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_12_59_06_8af6d107-e490-4687-932b-59ee344f677a/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779574740",
+                "decryption_keys": [
+                    "5da1c680d4f8351a97a4ec3991fff0f9:18bba127a664a5ab892acc075a504fb4"
+                ]
+            }
         },
         {
             "id": "ba458d9d-98a2-4587-ab9c-86055c1ce6e0",
@@ -374,7 +318,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -396,7 +340,13 @@
                     "p": 1,
                     "value": "Turks and Caicos Islands"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_21_14_46_25_e6f496b8-4180-4d4e-bf5b-97f90e2143de/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779574740",
+                "decryption_keys": [
+                    "3b964db9db8b3c5693a33aab3aae4c2e:cbe1b37680dbe3655176a9d4136a2429"
+                ]
+            }
         },
         {
             "id": "6625d025-7ad9-47b4-a625-73d08c0e3576",
