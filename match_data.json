@@ -3,215 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "12:45:17 AM 24-05-2026",
-        "total_live": 12,
-        "total_upcoming": 38
+        "last_update_time": "01:00:23 AM 24-05-2026",
+        "total_live": 9,
+        "total_upcoming": 41
     },
     "matches": [
-        {
-            "id": "d5b4f6fd-7bba-4d49-922a-0f0244470be9",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "d5b4f6fd-7bba-4d49-922a-0f0244470be9",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Freetown City FC v Old Edwardians FC | Leone Rock Premier League 2025-26",
-            "category": "livestream",
-            "urlSlug": "freetown-city-fc-vs-old-edwardians-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/1a/8d/53/9a/1a8d539a-6303-4247-ae28-c0ef08d20cb5.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/e0/c4/e4/ad/e0c4e4ad-abc0-4db7-8698-a0a9f81efe1b.png",
-            "freeMode": "FREE_ADS",
-            "title": "Freetown City FC v Old Edwardians FC | Leone Rock Premier League 2025-26",
-            "titleTemplateValues": {
-                "stage": "Regular Season",
-                "country": "Sierra Leone",
-                "competition": "Premier League",
-                "stadium": "Approved School Field",
-                "publisher-channel": "MA | Sierra Leone | Rock Premier League 2025-26",
-                "association": "Sierra Leone",
-                "team:freetown-city-fc": "Freetown City FC",
-                "match": "Freetown City FC v Old Edwardians FC",
-                "city": "Freetown",
-                "global-stage": "Round 28",
-                "season": "Leone Rock Premier League 2025-26",
-                "publisher": "MA | Sierra Leone",
-                "team:old-edwardians-fc": "Old Edwardians FC",
-                "video-type": "Live Streams",
-                "organizer": "Sierra Leone",
-                "organizer-country": "Sierra Leone"
-            },
-            "startDate": "2026-05-23T16:20:00Z",
-            "endDate": "2026-05-23T19:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-23T16:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Freetown City FC v Old Edwardians FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Leone Rock Premier League 2025-26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 28"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Sierra Leone"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_08_48_01_7debf637-ccad-4711-8eee-298ece0ffbb0/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779553140",
-                "decryption_keys": [
-                    "c3fd9eef0edc3909a90d723eb4311483:0b6bbc2ab97f89d0bba342fe3f9c5f0a"
-                ]
-            }
-        },
-        {
-            "id": "3d1dc237-520b-4b56-a8a7-f0fd2a4433b3",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "3d1dc237-520b-4b56-a8a7-f0fd2a4433b3",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Freeport FC v Paynesville FC | LFA First Division League 2025/26",
-            "category": "livestream",
-            "urlSlug": "freeport-vs-paynesville-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/f6/3a/6c/ae/f63a6cae-0b9a-49dc-a45e-30daade219f8.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/5a/12/39/12/5a123912-f1f5-4f62-aacf-541c5a8770bb.png",
-            "freeMode": "FREE_ADS",
-            "title": "Freeport FC v Paynesville FC | LFA First Division League 2025/26",
-            "titleTemplateValues": {
-                "team:paynesville-fc": "Paynesville FC",
-                "stage": "Regular Season",
-                "publisher-channel": "MA | Liberia | Liberia LFA First Division League 2025/2026",
-                "stadium": "TUSA Field",
-                "global-stage": "Round 29",
-                "team:freeport": "Freeport FC",
-                "association": "Liberia",
-                "season": "LFA First Division League 2025/26",
-                "competition": "Liberia National League",
-                "country": "Liberia",
-                "publisher": "MA | Liberia",
-                "city": "Gardnersville",
-                "match": "Freeport FC v Paynesville FC",
-                "video-type": "Live Streams",
-                "organizer": "Liberia",
-                "organizer-country": "Liberia"
-            },
-            "startDate": "2026-05-23T16:20:00Z",
-            "endDate": "2026-05-23T19:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-23T16:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Freeport FC v Paynesville FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "LFA First Division League 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 29"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Liberia"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_14_51_32_3fb71b98-76a3-4e30-8b32-31472cee5582/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779553140",
-                "decryption_keys": [
-                    "2e339caa94883918912030e1cdea0ce7:d07a4b98511d48b731b658fb60ca1b84"
-                ]
-            }
-        },
-        {
-            "id": "333dfd83-6d8b-4bf8-8e02-2a16f79d2c22",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "333dfd83-6d8b-4bf8-8e02-2a16f79d2c22",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Sekzia Ness Ziona v Maccabi Yafo Kabilyo | Liga Noar Leumit U19 2025/26",
-            "category": "livestream",
-            "urlSlug": "fc-sekzia-ness-ziona-u19-vs-maccabi-yafo-kabilyo",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/06/55/1f/12/06551f12-3c69-42a3-a603-afd83719277e.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/6f/35/eb/c1/6f35ebc1-4cc2-42a9-b592-599377eb4ad3.png",
-            "freeMode": "FREE_ADS",
-            "title": "Sekzia Ness Ziona v Maccabi Yafo Kabilyo | Liga Noar Leumit U19 2025/26",
-            "titleTemplateValues": {
-                "city": "Ness Ziona",
-                "match": "Sekzia Ness Ziona v Maccabi Yafo Kabilyo",
-                "stage": "League South",
-                "stadium": "Nes-Ziona Stadium",
-                "team:fc-sekzia-ness-ziona-u19": "Sekzia Ness Ziona",
-                "association": "Israel",
-                "global-stage": "Round 25",
-                "publisher": "MA | Israel",
-                "season": "Liga Noar Leumit U19 2025/26",
-                "publisher-channel": "MA | Israel | Israeli Noar Leumit League 2025/2026",
-                "team:maccabi-yafo-kabilyo": "Maccabi Yafo Kabilyo",
-                "competition": "Liga Noar Leumit U18",
-                "country": "Israel",
-                "video-type": "Live Streams",
-                "organizer": "Israel",
-                "organizer-country": "Israel"
-            },
-            "startDate": "2026-05-23T16:25:00Z",
-            "endDate": "2026-05-23T19:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-23T16:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Sekzia Ness Ziona v Maccabi Yafo Kabilyo"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Liga Noar Leumit U19 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 25"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Israel"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_21_12_24_52_83273bf2-5dff-4afa-a618-7cb640fd6f40/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779553440",
-                "decryption_keys": [
-                    "d907a9dcf18c3cba98cc435bd4997594:d477af5c6a8feec956f55c97436a933e"
-                ]
-            }
-        },
         {
             "id": "f7747a8f-177c-4197-984c-a2dadf90dec1",
             "channelId": "fifa-tournaments",
@@ -3189,6 +2985,194 @@
                     "kind": "caption",
                     "p": 1,
                     "value": "Israel"
+                }
+            ]
+        },
+        {
+            "id": "5d4a44c1-df8e-4237-9290-cbb0ca54d445",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "5d4a44c1-df8e-4237-9290-cbb0ca54d445",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "FC Malicoura v Stade Malien | Ligue 1 Pro Orange 2025/26",
+            "category": "livestream",
+            "urlSlug": "fc-malicoura-vs-stade-malien",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/34/83/cd/27/3483cd27-4676-4115-a7fe-d9172b8a2900.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/00/d1/18/13/00d11813-7530-4c3a-a60d-063e22c34e7a.png",
+            "freeMode": "FREE_ADS",
+            "title": "FC Malicoura v Stade Malien | Ligue 1 Pro Orange 2025/26",
+            "titleTemplateValues": {
+                "competition": "Ligue 1 Pro Orange",
+                "city": "Bamako",
+                "team:stade-malien": "Stade Malien",
+                "association": "Mali",
+                "match": "FC Malicoura v Stade Malien",
+                "publisher": "MA | Mali",
+                "country": "Mali",
+                "global-stage": "Round 22",
+                "season": "Ligue 1 Pro Orange 2025/26",
+                "publisher-channel": "MA | Mali | Ligue 1 Pro Orange 2025/26",
+                "stage": "Regular Season",
+                "team:fc-malicoura": "FC Malicoura",
+                "fifa-plus": "Mens (FIFA Plus)",
+                "stadium": "Mamadou Konate Stadium",
+                "video-type": "Live Streams",
+                "organizer": "Mali",
+                "organizer-country": "Mali"
+            },
+            "startDate": "2026-05-24T16:20:00Z",
+            "endDate": "2026-05-24T19:00:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-24T16:30:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "FC Malicoura v Stade Malien"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Ligue 1 Pro Orange 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 22"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Mali"
+                }
+            ]
+        },
+        {
+            "id": "7f7732cc-28f5-4433-9f39-3d626fbc7de6",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "7f7732cc-28f5-4433-9f39-3d626fbc7de6",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Afrique Football Elite v Binga FC | Ligue 1 Pro Orange 2025/26",
+            "category": "livestream",
+            "urlSlug": "afrique-football-elite-vs-binga-fc",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/ac/59/f0/5a/ac59f05a-c2ad-43a2-9106-de83c6792b2a.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/25/eb/22/a1/25eb22a1-802a-4c1f-83ee-9d2843b952cf.png",
+            "freeMode": "FREE_ADS",
+            "title": "Afrique Football Elite v Binga FC | Ligue 1 Pro Orange 2025/26",
+            "titleTemplateValues": {
+                "competition": "Ligue 1 Pro Orange",
+                "city": "Bamako",
+                "association": "Mali",
+                "publisher": "MA | Mali",
+                "country": "Mali",
+                "team:binga-fc": "Binga FC",
+                "team:afrique-football-elite": "Afrique Football Elite",
+                "global-stage": "Round 22",
+                "season": "Ligue 1 Pro Orange 2025/26",
+                "publisher-channel": "MA | Mali | Ligue 1 Pro Orange 2025/26",
+                "stage": "Regular Season",
+                "stadium": "Stade Ouezzin Coulibaly",
+                "fifa-plus": "Mens (FIFA Plus)",
+                "match": "Afrique Football Elite v Binga FC",
+                "video-type": "Live Streams",
+                "organizer": "Mali",
+                "organizer-country": "Mali"
+            },
+            "startDate": "2026-05-24T16:30:00Z",
+            "endDate": "2026-05-24T18:50:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-24T16:30:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Afrique Football Elite v Binga FC"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Ligue 1 Pro Orange 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 22"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Mali"
+                }
+            ]
+        },
+        {
+            "id": "f5cecb66-933d-4ed5-af32-335ea85bf10a",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "f5cecb66-933d-4ed5-af32-335ea85bf10a",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "SB Benfica v UDIB | Campeonato Nacional de Futebol da 1a Divisão 2025/26",
+            "category": "livestream",
+            "urlSlug": "sb-benfica-vs-udib",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/f5/aa/df/8d/f5aadf8d-fa6c-49d2-9a09-43ac1fc84e29.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/15/82/35/ea/158235ea-431b-43ae-a3e8-6edf701d5340.png",
+            "freeMode": "FREE_ADS",
+            "title": "SB Benfica v UDIB | Campeonato Nacional de Futebol da 1a Divisão 2025/26",
+            "titleTemplateValues": {
+                "team:udib": "UDIB",
+                "publisher": "MA | Guinea-Bissau (Publisher)",
+                "competition": "Campeonato Nacional de Futebol da 1a Divisão",
+                "association": "Guinea-Bissau",
+                "city": "Bissau",
+                "season": "Campeonato Nacional de Futebol da 1a Divisão 2025/26",
+                "country": "Guinea-Bissau",
+                "publisher-channel": "MA | Guinea-Bissau | Campeonato Nacional de Futebol da 1a Divisão 2025/26 (Channel)",
+                "match": "SB Benfica v UDIB",
+                "stadium": "Lino Correia",
+                "stage": "Regular Season",
+                "global-stage": "Round 20",
+                "team:sb-benfica": "SB Benfica",
+                "video-type": "Live Streams",
+                "organizer": "Guinea-Bissau",
+                "organizer-country": "Guinea-Bissau"
+            },
+            "startDate": "2026-05-24T16:35:00Z",
+            "endDate": "2026-05-24T19:15:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-24T16:45:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "SB Benfica v UDIB"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Campeonato Nacional de Futebol da 1a Divisão 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 20"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Guinea-Bissau"
                 }
             ]
         }

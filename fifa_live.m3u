@@ -1,23 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 12:45:17 AM 24-05-2026
+#last update time: 01:00:23 AM 24-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/e0/c4/e4/ad/e0c4e4ad-abc0-4db7-8698-a0a9f81efe1b.png" group-title="FIFA Live", Freetown City FC v Old Edwardians FC | Leone Rock Premier League 2025-26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c3fd9eef0edc3909a90d723eb4311483:0b6bbc2ab97f89d0bba342fe3f9c5f0a
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_08_48_01_7debf637-ccad-4711-8eee-298ece0ffbb0/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779553140
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/5a/12/39/12/5a123912-f1f5-4f62-aacf-541c5a8770bb.png" group-title="FIFA Live", Freeport FC v Paynesville FC | LFA First Division League 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2e339caa94883918912030e1cdea0ce7:d07a4b98511d48b731b658fb60ca1b84
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_14_51_32_3fb71b98-76a3-4e30-8b32-31472cee5582/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779553140
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/6f/35/eb/c1/6f35ebc1-4cc2-42a9-b592-599377eb4ad3.png" group-title="FIFA Live", Sekzia Ness Ziona v Maccabi Yafo Kabilyo | Liga Noar Leumit U19 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d907a9dcf18c3cba98cc435bd4997594:d477af5c6a8feec956f55c97436a933e
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_21_12_24_52_83273bf2-5dff-4afa-a618-7cb640fd6f40/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779553440
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/e3/a0/77/7b/e3a0777b-0467-482c-a05c-89b4fdb75bca.png" group-title="FIFA Live", Académica do Porto Novo v Benfica da Brava | Cape Verdean Football Championship 2026
 #KODIPROP:inputstream.adaptive.license_type=clearkey
