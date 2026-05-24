@@ -3,7 +3,7 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "03:15:16 AM 25-05-2026",
+        "last_update_time": "03:30:22 AM 25-05-2026",
         "total_live": 9,
         "total_upcoming": 20
     },
@@ -774,7 +774,7 @@
                 "organizer": "Aruba",
                 "organizer-country": "Aruba"
             },
-            "startDate": "2026-05-24T21:50:00Z",
+            "startDate": "2026-05-24T21:55:00Z",
             "endDate": "2026-05-25T00:30:00Z",
             "ctxMetadata": {
                 "kickOffTime": "2026-05-24T22:00:00Z"
