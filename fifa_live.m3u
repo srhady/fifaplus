@@ -1,7 +1,7 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 02:45:18 AM 25-05-2026
+#last update time: 03:00:25 AM 25-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/91/4e/fc/1b/914efc1b-4f8a-42ee-9b6c-771fac40410b.png" group-title="FIFA Live", El Vigía FC v Ureña SC | Liga FUTVE 2 2026
@@ -43,3 +43,8 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_21_14_28_21_cdaa2a88-9f3d-463c-b1f0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2a7db557a32b3336a9057b5cb9b71584:cfa20b8c6765d81a8994471b6d88bcda
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_22_12_54_36_f10eb8ac-0d89-4a06-a228-0b0028808b89/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Anld%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779653940
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/bd/65/27/71/bd652771-8915-4ae9-b2a8-9ae930bbe08e.png" group-title="FIFA Live", Deportivo Lara v Zamora FC (B) | Liga FUTVE 2 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6879a02ff10d379b974adc414cf96eb3:d8c4dd23f49ff9057ff018d371688014
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_21_14_28_24_e928a95f-386c-45d9-b546-1645fa651f3d/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779655740
