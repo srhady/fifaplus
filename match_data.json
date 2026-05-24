@@ -3,283 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "04:15:19 AM 25-05-2026",
-        "total_live": 10,
-        "total_upcoming": 17
+        "last_update_time": "04:45:18 AM 25-05-2026",
+        "total_live": 7,
+        "total_upcoming": 16
     },
     "matches": [
-        {
-            "id": "80afb300-4bda-4885-939e-375f0a6e1b83",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "80afb300-4bda-4885-939e-375f0a6e1b83",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "San Ramón FF v Upala FC | Women's Second Division 2026",
-            "category": "livestream",
-            "urlSlug": "san-ramon-ff-vs-upala-carrillo",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/64/40/22/1b/6440221b-bfd4-4877-ae83-eaa1aed35d1c.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/db/08/13/c1/db0813c1-3e5d-4fd1-a1d3-4d944978ddae.png",
-            "freeMode": "FREE_ADS",
-            "title": "San Ramón FF v Upala FC | Women's Second Division 2026",
-            "titleTemplateValues": {
-                "team:upala-carrillo": "Upala FC",
-                "association": "Costa Rica",
-                "stadium": "San Ramón Stadium",
-                "team:san-ramon-ff": "San Ramón FF",
-                "season": "Women's Second Division 2026",
-                "publisher": "MA | Costa Rica",
-                "stage": "Semi Final ",
-                "publisher-channel": "MA | Costa Rica | Segunda DIvision Femenina 2026 (Channel)",
-                "match": "San Ramón FF v Upala FC",
-                "global-stage": "Final - Second Leg",
-                "city": "San Ramón",
-                "country": "Costa Rica",
-                "competition": "Segunda División Femenina de Costa Rica",
-                "video-type": "Live Streams",
-                "organizer": "Costa Rica",
-                "organizer-country": "Costa Rica"
-            },
-            "startDate": "2026-05-24T19:20:00Z",
-            "endDate": "2026-05-24T22:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-24T19:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "San Ramón FF v Upala FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Women's Second Division 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Final - Second Leg"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Costa Rica"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_21_13_45_30_e7828227-cc28-4674-8c44-f355e5cddacc/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779650340",
-                "decryption_keys": [
-                    "96f3c182c3953c709769500ad0bec045:04da13ef3fd40f79cfa307997caca5e7"
-                ]
-            }
-        },
-        {
-            "id": "81bafc5d-162d-438d-b90d-ddecee37e57a",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "81bafc5d-162d-438d-b90d-ddecee37e57a",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "South East FC v Harlem United SC | DFA Premier League 2026",
-            "category": "livestream",
-            "urlSlug": "south-east-fc-vs-harlem-united-sc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/cd/54/de/4a/cd54de4a-9ed2-47df-822e-cc0094b8e336.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/6f/52/b2/2d/6f52b22d-ccb7-49db-b919-ee79e27e2a98.png",
-            "freeMode": "FREE_ADS",
-            "title": "South East FC v Harlem United SC | DFA Premier League 2026",
-            "titleTemplateValues": {
-                "publisher-channel": "MA | Dominica | DFA Premier League 2026",
-                "country": "Dominica",
-                "team:harlem-united-sc": "Harlem United SC",
-                "city": "Roseau ",
-                "match": "South East FC v Harlem United SC",
-                "association": "Dominica",
-                "competition": "DFA Premier League",
-                "organizer-country": "Dominica",
-                "global-stage": "Round 5",
-                "stage": "Regular Season",
-                "organizer": "Доминика",
-                "team:south-east-fc": "South East FC",
-                "season": "DFA Premier League 2026",
-                "stadium": "DFA Technical Centre",
-                "publisher": "MA | Dominica",
-                "video-type": "Live Streams"
-            },
-            "startDate": "2026-05-24T19:50:00Z",
-            "endDate": "2026-05-24T22:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-24T20:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "South East FC v Harlem United SC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "DFA Premier League 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 5"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Dominica"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_13_07_39_ea84ee4f-d8e9-46c4-89f8-f9ccfa13b72a/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779652140",
-                "decryption_keys": [
-                    "08ed0fc2c48a30888e052d821219e9ef:4d447560a595d47ba6d6b1d776bb1ebd"
-                ]
-            }
-        },
-        {
-            "id": "f22e2084-c7c1-43c8-946a-740630fa0806",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "f22e2084-c7c1-43c8-946a-740630fa0806",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "FC San Nicolas v Caravel | Division Honor 2025-26",
-            "category": "livestream",
-            "urlSlug": "fc-san-nicolas-vs-caravel",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/22/1d/cb/0b/221dcb0b-c792-4d48-903e-b725b280c421.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/30/f7/a2/d5/30f7a2d5-e140-433f-8afa-48af41e43068.png",
-            "freeMode": "FREE_ADS",
-            "title": "FC San Nicolas v Caravel | Division Honor 2025-26",
-            "titleTemplateValues": {
-                "publisher-channel": "MA | Aruba | Division Honor 2025-2026",
-                "country": "Aruba",
-                "city": "Dakota",
-                "match": "FC San Nicolas v Caravel",
-                "association": "Aruba",
-                "competition": "Division Honor",
-                "team:caravel": "Caravel",
-                "organizer-country": "Aruba",
-                "global-stage": "Division Honor Plata",
-                "stage": "Division Honor Liga-Plata Pool A Round 2",
-                "team:fc-san-nicolas": "FC San Nicolas",
-                "organizer": "Aruba",
-                "season": "Division Honor 2025-26",
-                "publisher": "MA | Aruba",
-                "stadium": "Sports Complex Guillermo Prospero Trinidad",
-                "video-type": "Live Streams"
-            },
-            "startDate": "2026-05-24T19:50:00Z",
-            "endDate": "2026-05-24T22:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-24T20:10:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "FC San Nicolas v Caravel"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Division Honor 2025-26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Division Honor Plata"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Aruba"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_12_59_14_8d56df7c-94c9-4488-836d-7ccb3825e00a/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779652140",
-                "decryption_keys": [
-                    "bd3b00e661313fb38e3a396a9d30e5e3:8b5f5cc5d1443d7e5fc114616f12dc7f"
-                ]
-            }
-        },
-        {
-            "id": "4dc0683b-21c7-44aa-a478-ea8550ad49bf",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "4dc0683b-21c7-44aa-a478-ea8550ad49bf",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Miranda v Dynamo Puerto | Liga FUTVE 2 2026",
-            "category": "livestream",
-            "urlSlug": "miranda-vs-dynamo-puerto",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/57/b2/b9/56/57b2b956-2a4f-4b00-9e73-4c3ff15091b9.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/fe/fc/ac/af/fefcacaf-2e7c-4ace-bb3c-abb27c987ed9.png",
-            "freeMode": "FREE_ADS",
-            "title": "Miranda v Dynamo Puerto | Liga FUTVE 2 2026",
-            "titleTemplateValues": {
-                "season": "Liga FUTVE 2 2026",
-                "match": "Miranda v Dynamo Puerto",
-                "team:dynamo-puerto": "Dynamo Puerto",
-                "stadium": "Brígido Iriarte",
-                "stage": "Regular Season",
-                "city": "Caracas",
-                "association": "Venezuela",
-                "global-stage": "Round 12",
-                "publisher": "MA | Venezuela",
-                "team:miranda": "Miranda",
-                "competition": "Liga FUTVE 2",
-                "country": "Venezuela",
-                "video-type": "Live Streams",
-                "publisher-channel": "MA | Venezuela | Liga FUTVE 2 2026 (Channel)",
-                "organizer": "Venezuela",
-                "organizer-country": "Venezuela"
-            },
-            "startDate": "2026-05-24T19:50:00Z",
-            "endDate": "2026-05-24T22:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-24T20:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Miranda v Dynamo Puerto"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Liga FUTVE 2 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 12"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Venezuela"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_21_08_33_18_782e34b6-9e30-405f-9b23-f96e9b6f37e6/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779652140",
-                "decryption_keys": [
-                    "59d6820d273833b3a27c1b12ea49d6f9:ab3b30e9f53d0f5689c5f10d33139c95"
-                ]
-            }
-        },
         {
             "id": "fae42dba-a9ca-45dd-b9c8-9c0d84b787c0",
             "channelId": "fifa-tournaments",
@@ -726,7 +454,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -748,7 +476,13 @@
                     "p": 1,
                     "value": "Dominica"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_13_07_41_1a9c6df6-ad9e-4579-806e-66612fe7edfe/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779661140",
+                "decryption_keys": [
+                    "7ce90304157e38afb292cd8739dfaf94:9dd2e3d77dd705a991a75a6a12dae01d"
+                ]
+            }
         },
         {
             "id": "609baeeb-e49c-494a-b2a9-f2bf8baa2fae",
