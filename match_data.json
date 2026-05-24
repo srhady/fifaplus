@@ -3,77 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "11:15:19 AM 24-05-2026",
-        "total_live": 1,
+        "last_update_time": "11:30:22 AM 24-05-2026",
+        "total_live": 0,
         "total_upcoming": 32
     },
     "matches": [
-        {
-            "id": "6552d5c2-3610-4dad-943b-16aa59356e59",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "6552d5c2-3610-4dad-943b-16aa59356e59",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "South Melbourne FC v Auckland FC | OFC Professional League 2026",
-            "category": "livestream",
-            "urlSlug": "south-melbourne-vs-auckland-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/f7/3e/d0/a0/f73ed0a0-89b0-481d-882e-8a7959a34a71.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/04/59/9c/24/04599c24-9666-438a-90db-57b4451059db.jpg",
-            "freeMode": "FREE_ADS",
-            "title": "South Melbourne FC v Auckland FC | OFC Professional League 2026",
-            "titleTemplateValues": {
-                "stadium": "Eden Park",
-                "match": "South Melbourne FC v Auckland FC",
-                "publisher": "OFC",
-                "association:australia": "Australia",
-                "team:south-melbourne": "South Melbourne FC",
-                "team:auckland-fc": "Auckland FC",
-                "city": "Auckland/Tāmaki Makaurau ",
-                "association:new-zealand": "New Zealand",
-                "publisher-channel": "OFC | OFC Pro League 2026 (Channel)",
-                "country:new-zealand": "New Zealand",
-                "stage": "Final",
-                "season": "OFC Professional League 2026",
-                "global-stage": "Final",
-                "confederation": "OFC",
-                "fifa-plus": "Mens (FIFA Plus)",
-                "country:australia": "Australia",
-                "competition": "OFC Professional League ",
-                "video-type": "Live Streams",
-                "organizer": "OFC"
-            },
-            "startDate": "2026-05-24T02:50:00Z",
-            "endDate": "2026-05-24T05:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-24T03:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "South Melbourne FC v Auckland FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "OFC Professional League 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Final"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_21_13_04_51_9a9f4458-0a8b-4e63-bad1-abe1998d9bce/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779590940",
-                "decryption_keys": [
-                    "aef2cd9cd72136498cf862826ef78512:379bf4a6a119875f10a1966e5c782467"
-                ]
-            }
-        },
         {
             "id": "2ef30ff5-a016-4acb-b937-05c0c4d9c411",
             "channelId": "fifa-tournaments",
