@@ -1,23 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 12:15:16 AM 25-05-2026
+#last update time: 12:30:20 AM 25-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/10/2b/71/60/102b7160-9938-461e-a178-85f0a4eabb78.png" group-title="FIFA Live", KOZAF v AS Sonabel | Burkina Faso Ligue 1 2025-26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=145f915b48a338c388ecd2572737fa56:5c630f8f282163078807d05ee6226469
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_18_14_02_22_cd32bde1-fbd7-48b1-8197-87a2c8930fb3/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779637740
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/27/14/43/12/27144312-5f48-4d98-809a-fd07c01ca9af.png" group-title="FIFA Live", Discoveries SA v Bea Mountain FC | LFA First Division League 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=60864e6d2280346793c3a6e5636ed63b:eea294c0ee80af7119dbe58e3f594913
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_14_51_39_90ee4654-99eb-4375-9c43-15681fe6a15f/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779637740
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/63/dc/23/80/63dc2380-0863-4bcf-a9ad-697055662e28.png" group-title="FIFA Live", Heaven Eleven v Watanga FC | LFA First Division League 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=386c1e3400c530aa893142ecb04cb8fa:281818a5b6085061f934e5856a221a7e
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_14_51_42_b51b90b3-f82a-43ff-adc8-a2486439d250/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779637740
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/70/36/cb/79/7036cb79-4dec-4b91-b9c9-546b184c5f29.png" group-title="FIFA Live", Kamboi Eagles FC v Diamond Stars FC | Leone Rock Premier League 2025-26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
