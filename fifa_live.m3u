@@ -1,15 +1,15 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 08:45:19 AM 24-05-2026
+#last update time: 09:00:25 AM 24-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/6f/07/3b/c9/6f073bc9-db86-43da-b9f7-d81848f2f59a.png" group-title="FIFA Live", Britannia v Dakota | Division Honor 2025-26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ed4ce3cc5dc53a88bd0bf63358fbc136:6f5533054b7a2d25ce314f05d964efe0
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_12_59_09_f23313f9-0de8-4b61-94c6-d131b8ec85ef/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779581940
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/b0/8e/43/e3/b08e43e3-271c-4073-b0fb-1aa7ac06d3e5.png" group-title="FIFA Live", UNAN-Managua v Matiguás FC | Liga Primera Nicaragua 2025/26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=50d0f7d24e7338b98ccaf0982a1eff40:2fada08b5bfb13eb7e8ce99c1ec4c3b9
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_12_40_59_30f8bde2-7aef-438b-8bfd-6838d07dcec7/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779584040
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/04/59/9c/24/04599c24-9666-438a-90db-57b4451059db.jpg" group-title="FIFA Live", South Melbourne FC v Auckland FC | OFC Professional League 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aef2cd9cd72136498cf862826ef78512:379bf4a6a119875f10a1966e5c782467
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_21_13_04_51_9a9f4458-0a8b-4e63-bad1-abe1998d9bce/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779590940

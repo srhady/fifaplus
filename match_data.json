@@ -3,79 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "08:45:19 AM 24-05-2026",
+        "last_update_time": "09:00:25 AM 24-05-2026",
         "total_live": 2,
-        "total_upcoming": 33
+        "total_upcoming": 32
     },
     "matches": [
-        {
-            "id": "4dd75a1f-703f-4d85-a4d6-c5f746508b94",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "4dd75a1f-703f-4d85-a4d6-c5f746508b94",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Britannia v Dakota | Division Honor 2025-26",
-            "category": "livestream",
-            "urlSlug": "britannia-vs-dakota",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/22/1d/cb/0b/221dcb0b-c792-4d48-903e-b725b280c421.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/6f/07/3b/c9/6f073bc9-db86-43da-b9f7-d81848f2f59a.png",
-            "freeMode": "FREE_ADS",
-            "title": "Britannia v Dakota | Division Honor 2025-26",
-            "titleTemplateValues": {
-                "stage": "Division Honor Liga-Oro Round 2",
-                "country": "Aruba",
-                "association": "Aruba",
-                "match": "Britannia v Dakota",
-                "season": "Division Honor 2025-26",
-                "team:dakota": "Dakota",
-                "publisher": "MA | Aruba",
-                "competition": "Division Honor",
-                "team:britannia": "Britannia",
-                "stadium": "Sports Complex Guillermo Prospero Trinidad",
-                "publisher-channel": "MA | Aruba | Division Honor 2025-2026",
-                "global-stage": "Division Honor Oro",
-                "city": "Dakota",
-                "video-type": "Live Streams",
-                "organizer": "Aruba",
-                "organizer-country": "Aruba"
-            },
-            "startDate": "2026-05-24T00:20:00Z",
-            "endDate": "2026-05-24T03:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-24T00:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Britannia v Dakota"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Division Honor 2025-26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Division Honor Oro"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Aruba"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_12_59_09_f23313f9-0de8-4b61-94c6-d131b8ec85ef/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779581940",
-                "decryption_keys": [
-                    "ed4ce3cc5dc53a88bd0bf63358fbc136:6f5533054b7a2d25ce314f05d964efe0"
-                ]
-            }
-        },
         {
             "id": "2cbcb984-a1f5-4bf9-8d25-b732b2a4bf56",
             "channelId": "fifa-tournaments",
@@ -248,7 +180,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -265,7 +197,13 @@
                     "p": 0,
                     "value": "Final"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_21_13_04_51_9a9f4458-0a8b-4e63-bad1-abe1998d9bce/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779590940",
+                "decryption_keys": [
+                    "aef2cd9cd72136498cf862826ef78512:379bf4a6a119875f10a1966e5c782467"
+                ]
+            }
         },
         {
             "id": "2ef30ff5-a016-4acb-b937-05c0c4d9c411",
