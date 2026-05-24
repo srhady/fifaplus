@@ -1,7 +1,7 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 12:30:20 AM 25-05-2026
+#last update time: 12:45:18 AM 25-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/70/36/cb/79/7036cb79-4dec-4b91-b9c9-546b184c5f29.png" group-title="FIFA Live", Kamboi Eagles FC v Diamond Stars FC | Leone Rock Premier League 2025-26
@@ -23,11 +23,6 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_08_48_06_117e6766-d400-45c4-8afc
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=54db978dad5b39bc8c36ec61e4ae7a74:76d710437dd37e1a06582bdfdebfc37b
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_08_48_26_edfd2562-6ec7-43b3-a1ca-c18979d71727/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779639540
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/25/eb/22/a1/25eb22a1-802a-4c1f-83ee-9d2843b952cf.png" group-title="FIFA Live", Afrique Football Elite v Binga FC | Ligue 1 Pro Orange 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8036481714c83a33b34278f529d343af:cda243c28c779ba158e370caf06a36e4
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_21_07_57_49_3e44c9a4-78ec-4102-800b-2ab5f8ef8297/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Abam%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779639540
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/00/d1/18/13/00d11813-7530-4c3a-a60d-063e22c34e7a.png" group-title="FIFA Live", FC Malicoura v Stade Malien | Ligue 1 Pro Orange 2025/26
 #KODIPROP:inputstream.adaptive.license_type=clearkey

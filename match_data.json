@@ -3,8 +3,8 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "12:30:20 AM 25-05-2026",
-        "total_live": 10,
+        "last_update_time": "12:45:18 AM 25-05-2026",
+        "total_live": 9,
         "total_upcoming": 29
     },
     "matches": [
@@ -277,75 +277,6 @@
                 "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_08_48_26_edfd2562-6ec7-43b3-a1ca-c18979d71727/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779639540",
                 "decryption_keys": [
                     "54db978dad5b39bc8c36ec61e4ae7a74:76d710437dd37e1a06582bdfdebfc37b"
-                ]
-            }
-        },
-        {
-            "id": "7f7732cc-28f5-4433-9f39-3d626fbc7de6",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "7f7732cc-28f5-4433-9f39-3d626fbc7de6",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Afrique Football Elite v Binga FC | Ligue 1 Pro Orange 2025/26",
-            "category": "livestream",
-            "urlSlug": "afrique-football-elite-vs-binga-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/ac/59/f0/5a/ac59f05a-c2ad-43a2-9106-de83c6792b2a.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/25/eb/22/a1/25eb22a1-802a-4c1f-83ee-9d2843b952cf.png",
-            "freeMode": "FREE_ADS",
-            "title": "Afrique Football Elite v Binga FC | Ligue 1 Pro Orange 2025/26",
-            "titleTemplateValues": {
-                "competition": "Ligue 1 Pro Orange",
-                "city": "Bamako",
-                "association": "Mali",
-                "publisher": "MA | Mali",
-                "country": "Mali",
-                "team:binga-fc": "Binga FC",
-                "team:afrique-football-elite": "Afrique Football Elite",
-                "global-stage": "Round 22",
-                "season": "Ligue 1 Pro Orange 2025/26",
-                "publisher-channel": "MA | Mali | Ligue 1 Pro Orange 2025/26",
-                "stage": "Regular Season",
-                "stadium": "Stade Ouezzin Coulibaly",
-                "fifa-plus": "Mens (FIFA Plus)",
-                "match": "Afrique Football Elite v Binga FC",
-                "video-type": "Live Streams",
-                "organizer": "Mali",
-                "organizer-country": "Mali"
-            },
-            "startDate": "2026-05-24T16:20:00Z",
-            "endDate": "2026-05-24T18:50:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-24T16:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Afrique Football Elite v Binga FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Ligue 1 Pro Orange 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 22"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Mali"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_21_07_57_49_3e44c9a4-78ec-4102-800b-2ab5f8ef8297/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Abam%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779639540",
-                "decryption_keys": [
-                    "8036481714c83a33b34278f529d343af:cda243c28c779ba158e370caf06a36e4"
                 ]
             }
         },
@@ -816,6 +747,68 @@
             ]
         },
         {
+            "id": "80afb300-4bda-4885-939e-375f0a6e1b83",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "80afb300-4bda-4885-939e-375f0a6e1b83",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "San Ramón FF v Upala FC | Women's Second Division 2026",
+            "category": "livestream",
+            "urlSlug": "san-ramon-ff-vs-upala-carrillo",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/64/40/22/1b/6440221b-bfd4-4877-ae83-eaa1aed35d1c.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/db/08/13/c1/db0813c1-3e5d-4fd1-a1d3-4d944978ddae.png",
+            "freeMode": "FREE_ADS",
+            "title": "San Ramón FF v Upala FC | Women's Second Division 2026",
+            "titleTemplateValues": {
+                "team:upala-carrillo": "Upala FC",
+                "association": "Costa Rica",
+                "stadium": "San Ramón Stadium",
+                "team:san-ramon-ff": "San Ramón FF",
+                "season": "Women's Second Division 2026",
+                "publisher": "MA | Costa Rica",
+                "stage": "Semi Final ",
+                "publisher-channel": "MA | Costa Rica | Segunda DIvision Femenina 2026 (Channel)",
+                "match": "San Ramón FF v Upala FC",
+                "global-stage": "Final - Second Leg",
+                "city": "San Ramón",
+                "country": "Costa Rica",
+                "competition": "Segunda División Femenina de Costa Rica",
+                "video-type": "Live Streams",
+                "organizer": "Costa Rica",
+                "organizer-country": "Costa Rica"
+            },
+            "startDate": "2026-05-24T19:20:00Z",
+            "endDate": "2026-05-24T22:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-24T19:30:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "San Ramón FF v Upala FC"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Women's Second Division 2026"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Final - Second Leg"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Costa Rica"
+                }
+            ]
+        },
+        {
             "id": "81bafc5d-162d-438d-b90d-ddecee37e57a",
             "channelId": "fifa-tournaments",
             "catalogRedirectId": "81bafc5d-162d-438d-b90d-ddecee37e57a",
@@ -998,68 +991,6 @@
                     "kind": "caption",
                     "p": 1,
                     "value": "Venezuela"
-                }
-            ]
-        },
-        {
-            "id": "80afb300-4bda-4885-939e-375f0a6e1b83",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "80afb300-4bda-4885-939e-375f0a6e1b83",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "San Ramón FF v Upala FC | Women's Second Division 2026",
-            "category": "livestream",
-            "urlSlug": "san-ramon-ff-vs-upala-carrillo",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/64/40/22/1b/6440221b-bfd4-4877-ae83-eaa1aed35d1c.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/db/08/13/c1/db0813c1-3e5d-4fd1-a1d3-4d944978ddae.png",
-            "freeMode": "FREE_ADS",
-            "title": "San Ramón FF v Upala FC | Women's Second Division 2026",
-            "titleTemplateValues": {
-                "team:upala-carrillo": "Upala FC",
-                "association": "Costa Rica",
-                "stadium": "San Ramón Stadium",
-                "team:san-ramon-ff": "San Ramón FF",
-                "season": "Women's Second Division 2026",
-                "publisher": "MA | Costa Rica",
-                "stage": "Semi Final ",
-                "publisher-channel": "MA | Costa Rica | Segunda DIvision Femenina 2026 (Channel)",
-                "match": "San Ramón FF v Upala FC",
-                "global-stage": "Final - Second Leg",
-                "city": "San Ramón",
-                "country": "Costa Rica",
-                "competition": "Segunda División Femenina de Costa Rica",
-                "video-type": "Live Streams",
-                "organizer": "Costa Rica",
-                "organizer-country": "Costa Rica"
-            },
-            "startDate": "2026-05-24T19:50:00Z",
-            "endDate": "2026-05-24T22:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-24T20:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "upcoming",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "San Ramón FF v Upala FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Women's Second Division 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Final - Second Leg"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Costa Rica"
                 }
             ]
         },
