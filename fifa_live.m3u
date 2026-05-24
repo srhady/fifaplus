@@ -1,18 +1,13 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 08:30:21 AM 24-05-2026
+#last update time: 08:45:19 AM 24-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/6f/07/3b/c9/6f073bc9-db86-43da-b9f7-d81848f2f59a.png" group-title="FIFA Live", Britannia v Dakota | Division Honor 2025-26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ed4ce3cc5dc53a88bd0bf63358fbc136:6f5533054b7a2d25ce314f05d964efe0
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_12_59_09_f23313f9-0de8-4b61-94c6-d131b8ec85ef/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779581940
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/93/25/e8/5f/9325e85f-2c9b-42f3-9f6a-df47f7c7b892.png" group-title="FIFA Live", SWA Sharks FC v Academy Eagles FC | Provo Premier League 2025-26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f1943eff4866326cb45564ba32636fd7:3b83f0abc2f93126f7e3614c28038714
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_21_14_46_29_5bb63669-413d-4878-82a7-833dbff160c9/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779582060
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/b0/8e/43/e3/b08e43e3-271c-4073-b0fb-1aa7ac06d3e5.png" group-title="FIFA Live", UNAN-Managua v Matiguás FC | Liga Primera Nicaragua 2025/26
 #KODIPROP:inputstream.adaptive.license_type=clearkey

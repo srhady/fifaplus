@@ -3,8 +3,8 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "08:30:21 AM 24-05-2026",
-        "total_live": 3,
+        "last_update_time": "08:45:19 AM 24-05-2026",
+        "total_live": 2,
         "total_upcoming": 33
     },
     "matches": [
@@ -73,74 +73,6 @@
                 "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_12_59_09_f23313f9-0de8-4b61-94c6-d131b8ec85ef/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779581940",
                 "decryption_keys": [
                     "ed4ce3cc5dc53a88bd0bf63358fbc136:6f5533054b7a2d25ce314f05d964efe0"
-                ]
-            }
-        },
-        {
-            "id": "a6bd7136-5868-4726-aa0d-cd730f6ca179",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "a6bd7136-5868-4726-aa0d-cd730f6ca179",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "SWA Sharks FC v Academy Eagles FC | Provo Premier League 2025-26",
-            "category": "livestream",
-            "urlSlug": "swa-sharks-fc-vs-academy-eagles-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/87/67/83/32/87678332-8da2-44c0-ab94-759e5e5f208a.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/93/25/e8/5f/9325e85f-2c9b-42f3-9f6a-df47f7c7b892.png",
-            "freeMode": "FREE_ADS",
-            "title": "SWA Sharks FC v Academy Eagles FC | Provo Premier League 2025-26",
-            "titleTemplateValues": {
-                "competition": "Provo Premier League",
-                "publisher-channel": "MA | Turks and Caicos | Provo Premier League 2025/26",
-                "stage": "Knockout Round",
-                "stadium": "TCIFA National Academy",
-                "season": "Provo Premier League 2025-26",
-                "match": "SWA Sharks FC v Academy Eagles FC",
-                "association": "Turks and Caicos Islands",
-                "global-stage": "Playoffs",
-                "publisher": "MA | Turks and Caicos",
-                "team:swa-sharks-fc": "SWA Sharks FC",
-                "team:academy-eagles-fc": "Academy Eagles FC",
-                "city": "Venetian Road Settlement",
-                "country": "Turks and Caicos Islands",
-                "video-type": "Live Streams",
-                "organizer": "Turks and Caicos Islands",
-                "organizer-country": "Turks and Caicos Islands"
-            },
-            "startDate": "2026-05-24T00:22:00Z",
-            "endDate": "2026-05-24T03:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-24T00:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "SWA Sharks FC v Academy Eagles FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Provo Premier League 2025-26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Playoffs"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Turks and Caicos Islands"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_21_14_46_29_5bb63669-413d-4878-82a7-833dbff160c9/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779582060",
-                "decryption_keys": [
-                    "f1943eff4866326cb45564ba32636fd7:3b83f0abc2f93126f7e3614c28038714"
                 ]
             }
         },
