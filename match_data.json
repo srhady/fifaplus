@@ -3,79 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "07:15:18 PM 24-05-2026",
-        "total_live": 8,
+        "last_update_time": "07:30:22 PM 24-05-2026",
+        "total_live": 7,
         "total_upcoming": 22
     },
     "matches": [
-        {
-            "id": "f01bf7a6-8671-4511-aedd-04e8b79fc229",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "f01bf7a6-8671-4511-aedd-04e8b79fc229",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "FK TransINVEST v FK Gintra | Moterų A lyga 2026 | Full Match Replay",
-            "category": "livestream",
-            "urlSlug": "fk-transinvest-vs-fk-gintra",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/bd/c4/94/1b/bdc4941b-d298-4af7-aae1-86bcc62032fd.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/62/13/c6/2b/6213c62b-45f6-4bed-992e-563576a661b1.png",
-            "freeMode": "FREE_ADS",
-            "title": "FK TransINVEST v FK Gintra | Moterų A lyga 2026 | Full Match Replay",
-            "titleTemplateValues": {
-                "stadium": "FK TransINVEST stadionas",
-                "team:fk-transinvest": "FK TransINVEST",
-                "match": "FK TransINVEST v FK Gintra",
-                "season": "Moterų A lyga 2026",
-                "publisher-channel": "MA | Lithuania | Moterų A Lyga 2026 (Channel)",
-                "country": "Lithuania",
-                "video-type": "Full Match Replays",
-                "competition": "Women's A league",
-                "publisher": "MA | Lithuania ",
-                "city": "Vilnius",
-                "association": "Lithuania",
-                "stage": "Moterų A Lyga",
-                "global-stage": "Round 9",
-                "team:fk-gintra": "FK Gintra",
-                "organizer": "Lithuania",
-                "organizer-country": "Lithuania"
-            },
-            "startDate": "2026-05-24T10:50:00Z",
-            "endDate": "2026-05-24T13:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-24T11:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "FK TransINVEST v FK Gintra"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Moterų A lyga 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 9"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Lithuania"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_18_15_03_18_86192f41-ba65-4622-83d6-0a4777da648d/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Alit%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779619740",
-                "decryption_keys": [
-                    "b9b89e93e48c3284887b069d10e05d8d:ed2ca3243dcc086cf86473cee8f48ff4"
-                ]
-            }
-        },
         {
             "id": "5a79aa37-46d2-4fd9-b9fa-d4788066b836",
             "channelId": "fifa-tournaments",
