@@ -3,79 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "10:00:25 PM 24-05-2026",
-        "total_live": 11,
-        "total_upcoming": 12
+        "last_update_time": "10:15:19 PM 24-05-2026",
+        "total_live": 12,
+        "total_upcoming": 11
     },
     "matches": [
-        {
-            "id": "2bf6e956-1262-477e-ac4e-acb59fe47f55",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "2bf6e956-1262-477e-ac4e-acb59fe47f55",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Cano Sport Academy v Deportivo Unidad | Equatorial Guinea Football League 2025-26",
-            "category": "livestream",
-            "urlSlug": "cano-sport-academy-vs-dvo-unidad",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/be/a6/4b/29/bea64b29-04f3-438c-a12e-9e7778326159.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/f6/2b/48/60/f62b4860-4edd-40c8-8ef8-86393d6e442a.png",
-            "freeMode": "FREE_ADS",
-            "title": "Cano Sport Academy v Deportivo Unidad | Equatorial Guinea Football League 2025-26",
-            "titleTemplateValues": {
-                "stage": "Regular Stage",
-                "match": "Cano Sport Academy v Deportivo Unidad",
-                "publisher-channel": "MA | Equatorial Guinea | Liga de Fútbol de Guinea Ecuatorial 2025/2026",
-                "season": "Equatorial Guinea Football League 2025-26",
-                "city": "Malabo",
-                "team:cano-sport-academy": "Cano Sport Academy",
-                "publisher": "MA | Equatorial Guinea",
-                "stadium": "Pablo Boyas Stadium",
-                "association": "Equatorial Guinea",
-                "global-stage": "Round 15",
-                "team:dvo-unidad": "Deportivo Unidad",
-                "competition": "Liga de Fútbol de Guinea Equatorial",
-                "video-type": "Live Streams",
-                "country": "Equatorial Guinea",
-                "organizer": "Equatorial Guinea",
-                "organizer-country": "Equatorial Guinea"
-            },
-            "startDate": "2026-05-24T14:50:00Z",
-            "endDate": "2026-05-24T17:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-24T15:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Cano Sport Academy v Deportivo Unidad"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Equatorial Guinea Football League 2025-26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 15"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Equatorial Guinea"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_21_07_13_17_9902b83b-b71b-48b4-85ac-33ab9dbf7fbf/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779634140",
-                "decryption_keys": [
-                    "026a9f36d34b3d089ca31cc2c134b59b:36c14a7a93fc1b9143874fa299a87864"
-                ]
-            }
-        },
         {
             "id": "a076843f-c573-4cf1-b009-0af397853304",
             "channelId": "fifa-tournaments",
@@ -141,6 +73,74 @@
                 "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_10_25_05_a118795a-133c-443e-9283-4b821d20d607/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Apor%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779634740",
                 "decryption_keys": [
                     "4076a5c5f33a37a09bb61e0f8aeddd17:83908489ea51f59f919ecbfd82efa373"
+                ]
+            }
+        },
+        {
+            "id": "2bf6e956-1262-477e-ac4e-acb59fe47f55",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "2bf6e956-1262-477e-ac4e-acb59fe47f55",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Cano Sport Academy v Deportivo Unidad | Equatorial Guinea Football League 2025-26",
+            "category": "livestream",
+            "urlSlug": "cano-sport-academy-vs-dvo-unidad",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/be/a6/4b/29/bea64b29-04f3-438c-a12e-9e7778326159.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/f6/2b/48/60/f62b4860-4edd-40c8-8ef8-86393d6e442a.png",
+            "freeMode": "FREE_ADS",
+            "title": "Cano Sport Academy v Deportivo Unidad | Equatorial Guinea Football League 2025-26",
+            "titleTemplateValues": {
+                "stage": "Regular Stage",
+                "match": "Cano Sport Academy v Deportivo Unidad",
+                "publisher-channel": "MA | Equatorial Guinea | Liga de Fútbol de Guinea Ecuatorial 2025/2026",
+                "season": "Equatorial Guinea Football League 2025-26",
+                "city": "Malabo",
+                "team:cano-sport-academy": "Cano Sport Academy",
+                "publisher": "MA | Equatorial Guinea",
+                "stadium": "Pablo Boyas Stadium",
+                "association": "Equatorial Guinea",
+                "global-stage": "Round 15",
+                "team:dvo-unidad": "Deportivo Unidad",
+                "competition": "Liga de Fútbol de Guinea Equatorial",
+                "video-type": "Live Streams",
+                "country": "Equatorial Guinea",
+                "organizer": "Equatorial Guinea",
+                "organizer-country": "Equatorial Guinea"
+            },
+            "startDate": "2026-05-24T15:06:00Z",
+            "endDate": "2026-05-24T17:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-24T15:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "started",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Cano Sport Academy v Deportivo Unidad"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Equatorial Guinea Football League 2025-26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 15"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Equatorial Guinea"
+                }
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_21_07_13_17_9902b83b-b71b-48b4-85ac-33ab9dbf7fbf/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779634140",
+                "decryption_keys": [
+                    "026a9f36d34b3d089ca31cc2c134b59b:36c14a7a93fc1b9143874fa299a87864"
                 ]
             }
         },
@@ -761,6 +761,74 @@
             }
         },
         {
+            "id": "dc7f1d50-4a4a-4027-90ea-2c4802056bd0",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "dc7f1d50-4a4a-4027-90ea-2c4802056bd0",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Kamboi Eagles FC v Diamond Stars FC | Leone Rock Premier League 2025-26",
+            "category": "livestream",
+            "urlSlug": "kamboi-eagles-fc-vs-diamond-stars-fc",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/1a/8d/53/9a/1a8d539a-6303-4247-ae28-c0ef08d20cb5.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/70/36/cb/79/7036cb79-4dec-4b91-b9c9-546b184c5f29.png",
+            "freeMode": "FREE_ADS",
+            "title": "Kamboi Eagles FC v Diamond Stars FC | Leone Rock Premier League 2025-26",
+            "titleTemplateValues": {
+                "stage": "Regular Season",
+                "country": "Sierra Leone",
+                "competition": "Premier League",
+                "stadium": "Kenema Town Field",
+                "team:diamond-stars-fc": "Diamond Stars FC",
+                "team:kamboi-eagles-fc": "Kamboi Eagles FC",
+                "publisher-channel": "MA | Sierra Leone | Rock Premier League 2025-26",
+                "association": "Sierra Leone",
+                "city": "Kenema",
+                "global-stage": "Round 28",
+                "match": "Kamboi Eagles FC v Diamond Stars FC",
+                "season": "Leone Rock Premier League 2025-26",
+                "publisher": "MA | Sierra Leone",
+                "video-type": "Live Streams",
+                "organizer": "Sierra Leone",
+                "organizer-country": "Sierra Leone"
+            },
+            "startDate": "2026-05-24T16:10:00Z",
+            "endDate": "2026-05-24T19:00:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-24T16:30:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "started",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Kamboi Eagles FC v Diamond Stars FC"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Leone Rock Premier League 2025-26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 28"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Sierra Leone"
+                }
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_08_48_11_4d305b41-325f-472a-bba8-7000b68137b2/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779638940",
+                "decryption_keys": [
+                    "9157ca6dfe8b351ca3b27e386cbad7e6:6bb52fbf1f1da5535975b862d5ec017b"
+                ]
+            }
+        },
+        {
             "id": "8927d9e1-41b8-4513-8c42-243c44b4bc34",
             "channelId": "fifa-tournaments",
             "catalogRedirectId": "8927d9e1-41b8-4513-8c42-243c44b4bc34",
@@ -990,68 +1058,6 @@
                     "kind": "title",
                     "p": 0,
                     "value": "East End Lions FC v Wusum Stars FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Leone Rock Premier League 2025-26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 28"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Sierra Leone"
-                }
-            ]
-        },
-        {
-            "id": "dc7f1d50-4a4a-4027-90ea-2c4802056bd0",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "dc7f1d50-4a4a-4027-90ea-2c4802056bd0",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Kamboi Eagles FC v Diamond Stars FC | Leone Rock Premier League 2025-26",
-            "category": "livestream",
-            "urlSlug": "kamboi-eagles-fc-vs-diamond-stars-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/1a/8d/53/9a/1a8d539a-6303-4247-ae28-c0ef08d20cb5.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/70/36/cb/79/7036cb79-4dec-4b91-b9c9-546b184c5f29.png",
-            "freeMode": "FREE_ADS",
-            "title": "Kamboi Eagles FC v Diamond Stars FC | Leone Rock Premier League 2025-26",
-            "titleTemplateValues": {
-                "stage": "Regular Season",
-                "country": "Sierra Leone",
-                "competition": "Premier League",
-                "stadium": "Kenema Town Field",
-                "team:diamond-stars-fc": "Diamond Stars FC",
-                "team:kamboi-eagles-fc": "Kamboi Eagles FC",
-                "publisher-channel": "MA | Sierra Leone | Rock Premier League 2025-26",
-                "association": "Sierra Leone",
-                "city": "Kenema",
-                "global-stage": "Round 28",
-                "match": "Kamboi Eagles FC v Diamond Stars FC",
-                "season": "Leone Rock Premier League 2025-26",
-                "publisher": "MA | Sierra Leone",
-                "video-type": "Live Streams",
-                "organizer": "Sierra Leone",
-                "organizer-country": "Sierra Leone"
-            },
-            "startDate": "2026-05-24T16:20:00Z",
-            "endDate": "2026-05-24T19:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-24T16:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "upcoming",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Kamboi Eagles FC v Diamond Stars FC"
                 },
                 {
                     "kind": "subtitle",
