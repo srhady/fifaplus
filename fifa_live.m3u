@@ -1,18 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 09:15:22 PM 24-05-2026
+#last update time: 09:30:22 PM 24-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/07/7f/51/b4/077f51b4-f607-4f7f-b63a-e94b498e1b8d.png" group-title="FIFA Live", Deportivo La Guaira FC v Caracas FC | Liga FUTVE Femenina 2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f8e382b262bb3ed89727cbc3e18a066c:a03f1ab0405cf9f30dfc9545c92c6023
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_22_12_40_33_5f243f68-e2c9-4560-9a35-9e99156e3a26/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779626940
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/4e/34/a8/e9/4e34a8e9-20c9-4757-959c-b170cec5294f.png" group-title="FIFA Live", Manzini Sea Birds FC v Nsingizini Hotspurs FC | MTN Premier League 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6740c37535ef39b2a16a55f90217b276:2450000c58f17117d2afef7873c631ab
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_21_07_42_17_0f688053-5d8e-473a-9414-8ba1abc27863/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779626940
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/f6/2b/48/60/f62b4860-4edd-40c8-8ef8-86393d6e442a.png" group-title="FIFA Live", Cano Sport Academy v Deportivo Unidad | Equatorial Guinea Football League 2025-26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -23,3 +13,23 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_21_07_13_17_9902b83b-b71b-48b4-85ac
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4076a5c5f33a37a09bb61e0f8aeddd17:83908489ea51f59f919ecbfd82efa373
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_10_25_05_a118795a-133c-443e-9283-4b821d20d607/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Apor%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779634740
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/4a/e7/d3/1a/4ae7d31a-7d68-49e3-bd49-3b0f593bc42c.png" group-title="FIFA Live", AS Binah v FC Espoir | D1 Lonato 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=43446a0b4c3f3b65a5e4bc1c2464d372:e9904b0c7bb0c43251fe959a74e6c6c4
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_13_22_09_420c58b0-0fe8-4905-932e-310867aa7908/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779635940
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/cb/87/f6/31/cb87f631-3c17-42cb-8260-846710339a6c.png" group-title="FIFA Live", AS Gbohloesu v ASCK | D1 Lonato 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=576d3af187ae3ad393dd50d3114cd55c:84662eccaa584502284fc2b3f1e0f31f
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_13_22_28_8c554ff5-6c95-4c31-bc3f-357aa771b364/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779635940
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/2f/be/a5/81/2fbea581-1156-4142-84a0-53405b96f700.png" group-title="FIFA Live", Entente II v AS OTR | D1 Lonato 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=096bed1145923f01aa1796cdcf17a10d:51ecf7bb4f4d8612fa2448f1ba07ccf8
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_13_22_06_2b63c268-3ae8-4e27-a5c6-bd5ef55e5354/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779635940
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/dc/a0/92/c4/dca092c4-c626-4b1d-81ef-54751e3e9cf6.png" group-title="FIFA Live", Semassi FC v ASKO | D1 Lonato 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7f3ce10877ba33c4bbc79d488277a82e:5f816faa5e593189a2275576c3a240e0
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_13_22_13_441e6c7d-951b-429e-8737-fdb19569d616/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779635940

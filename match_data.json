@@ -3,147 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "09:15:22 PM 24-05-2026",
-        "total_live": 4,
-        "total_upcoming": 21
+        "last_update_time": "09:30:22 PM 24-05-2026",
+        "total_live": 6,
+        "total_upcoming": 17
     },
     "matches": [
-        {
-            "id": "41c28132-0c1d-429f-ad97-308a355200cd",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "41c28132-0c1d-429f-ad97-308a355200cd",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Deportivo La Guaira FC v Caracas FC | Liga FUTVE Femenina 2026",
-            "category": "livestream",
-            "urlSlug": "deportivo-la-guaira-fc-vs-caracas-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/3b/73/9f/e2/3b739fe2-a58f-4d2c-b017-2bc4fd4e71f9.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/07/7f/51/b4/077f51b4-f607-4f7f-b63a-e94b498e1b8d.png",
-            "freeMode": "FREE_ADS",
-            "title": "Deportivo La Guaira FC v Caracas FC | Liga FUTVE Femenina 2026",
-            "titleTemplateValues": {
-                "match": "Deportivo La Guaira FC v Caracas FC",
-                "city": "Caracas",
-                "association": "Venezuela",
-                "season": "Liga FUTVE Femenina 2026",
-                "stage": "Regular Season",
-                "publisher": "MA | Venezuela",
-                "team:deportivo-la-guaira-fc": "Deportivo La Guaira FC",
-                "team:caracas-fc": "Caracas FC",
-                "publisher-channel": "MA | Venezuela | Liga FUTVE Femenina 2026 (Channel)",
-                "competition": "Liga FUTVE Femenina",
-                "country": "Venezuela",
-                "global-stage": "Round 6",
-                "video-type": "Live Streams",
-                "organizer": "Venezuela",
-                "organizer-country": "Venezuela"
-            },
-            "startDate": "2026-05-24T12:50:00Z",
-            "endDate": "2026-05-24T15:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-24T13:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Deportivo La Guaira FC v Caracas FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Liga FUTVE Femenina 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 6"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Venezuela"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_22_12_40_33_5f243f68-e2c9-4560-9a35-9e99156e3a26/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779626940",
-                "decryption_keys": [
-                    "f8e382b262bb3ed89727cbc3e18a066c:a03f1ab0405cf9f30dfc9545c92c6023"
-                ]
-            }
-        },
-        {
-            "id": "a4dfef31-1bad-4efe-a2fc-a53e231a39d6",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "a4dfef31-1bad-4efe-a2fc-a53e231a39d6",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Manzini Sea Birds FC v Nsingizini Hotspurs FC | MTN Premier League 2025/26",
-            "category": "livestream",
-            "urlSlug": "manzini-sea-birds-fc-vs-nsingizini-hotspurs-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/60/0d/47/a5/600d47a5-7f38-45fb-9076-17056ded193b.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/4e/34/a8/e9/4e34a8e9-20c9-4757-959c-b170cec5294f.png",
-            "freeMode": "FREE_ADS",
-            "title": "Manzini Sea Birds FC v Nsingizini Hotspurs FC | MTN Premier League 2025/26",
-            "titleTemplateValues": {
-                "match": "Manzini Sea Birds FC v Nsingizini Hotspurs FC",
-                "competition": "Premier League of Eswatini",
-                "country": "Eswatini",
-                "association": "Eswatini",
-                "city": "Lobamba",
-                "season": "MTN Premier League 2025/26",
-                "stage": "Regular Season",
-                "global-stage": "Round 30",
-                "stadium": "Somhlolo National Stadium",
-                "team:manzini-sea-birds-fc": "Manzini Sea Birds FC",
-                "publisher": "MA | Eswatini",
-                "publisher-channel": "MA | Eswatini | Premier League 2025/2026",
-                "team:nsingizini-hotspurs-fc": "Nsingizini Hotspurs FC",
-                "fifa-plus": "Mens (FIFA Plus)",
-                "video-type": "Live Streams",
-                "organizer": "Eswatini",
-                "organizer-country": "Eswatini"
-            },
-            "startDate": "2026-05-24T12:50:00Z",
-            "endDate": "2026-05-24T15:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-24T13:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Manzini Sea Birds FC v Nsingizini Hotspurs FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "MTN Premier League 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 30"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Eswatini"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_21_07_42_17_0f688053-5d8e-473a-9414-8ba1abc27863/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779626940",
-                "decryption_keys": [
-                    "6740c37535ef39b2a16a55f90217b276:2450000c58f17117d2afef7873c631ab"
-                ]
-            }
-        },
         {
             "id": "2bf6e956-1262-477e-ac4e-acb59fe47f55",
             "channelId": "fifa-tournaments",
@@ -319,7 +183,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -341,7 +205,13 @@
                     "p": 1,
                     "value": "Togo"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_13_22_09_420c58b0-0fe8-4905-932e-310867aa7908/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779635940",
+                "decryption_keys": [
+                    "43446a0b4c3f3b65a5e4bc1c2464d372:e9904b0c7bb0c43251fe959a74e6c6c4"
+                ]
+            }
         },
         {
             "id": "d390e3fe-5edb-4eee-b105-59f90af70cdb",
@@ -382,7 +252,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -404,7 +274,13 @@
                     "p": 1,
                     "value": "Togo"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_13_22_28_8c554ff5-6c95-4c31-bc3f-357aa771b364/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779635940",
+                "decryption_keys": [
+                    "576d3af187ae3ad393dd50d3114cd55c:84662eccaa584502284fc2b3f1e0f31f"
+                ]
+            }
         },
         {
             "id": "b14d3c54-ae1b-4896-906c-a11d0ccbcb15",
@@ -445,7 +321,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -467,7 +343,13 @@
                     "p": 1,
                     "value": "Togo"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_13_22_06_2b63c268-3ae8-4e27-a5c6-bd5ef55e5354/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779635940",
+                "decryption_keys": [
+                    "096bed1145923f01aa1796cdcf17a10d:51ecf7bb4f4d8612fa2448f1ba07ccf8"
+                ]
+            }
         },
         {
             "id": "61a68ea2-3b82-4613-9cad-0300cb94e113",
@@ -508,7 +390,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -530,7 +412,13 @@
                     "p": 1,
                     "value": "Togo"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_13_22_13_441e6c7d-951b-429e-8737-fdb19569d616/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779635940",
+                "decryption_keys": [
+                    "7f3ce10877ba33c4bbc79d488277a82e:5f816faa5e593189a2275576c3a240e0"
+                ]
+            }
         },
         {
             "id": "db82e631-a40d-4d44-83d5-8ca7e7ac79b4",
