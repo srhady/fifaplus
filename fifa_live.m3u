@@ -1,13 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 06:15:16 AM 24-05-2026
+#last update time: 06:30:21 AM 24-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/c7/d2/93/6a/c7d2936a-4ea3-4a36-912d-c79e643ad5c1.png" group-title="FIFA Live", St. John's SC v Honved FC | Grenada Premier League 2026/27
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d741fbb34f163600b72d32ad72d4fb35:e0360e7aed2a7ef21b7b7a9faf5aee7c
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_15_04_12_b76d5433-d3bc-467f-8e0e-86d3e08990d2/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779573360
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/3d/7f/3c/16/3d7f3c16-b3bc-406e-951b-b67e85c17fec.png" group-title="FIFA Live", Dublanc FC v Bath Estate FC | DFA Premier League 2026
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -23,3 +18,13 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_12_59_06_8af6d107-e490-4687-932b
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3b964db9db8b3c5693a33aab3aae4c2e:cbe1b37680dbe3655176a9d4136a2429
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_21_14_46_25_e6f496b8-4180-4d4e-bf5b-97f90e2143de/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779574740
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/6f/07/3b/c9/6f073bc9-db86-43da-b9f7-d81848f2f59a.png" group-title="FIFA Live", Britannia v Dakota | Division Honor 2025-26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ed4ce3cc5dc53a88bd0bf63358fbc136:6f5533054b7a2d25ce314f05d964efe0
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_12_59_09_f23313f9-0de8-4b61-94c6-d131b8ec85ef/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779581940
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/93/25/e8/5f/9325e85f-2c9b-42f3-9f6a-df47f7c7b892.png" group-title="FIFA Live", SWA Sharks FC v Academy Eagles FC | Provo Premier League 2025-26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f1943eff4866326cb45564ba32636fd7:3b83f0abc2f93126f7e3614c28038714
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_21_14_46_29_5bb63669-413d-4878-82a7-833dbff160c9/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779582060
