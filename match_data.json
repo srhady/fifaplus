@@ -3,79 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "12:00:25 AM 25-05-2026",
-        "total_live": 16,
+        "last_update_time": "12:15:16 AM 25-05-2026",
+        "total_live": 13,
         "total_upcoming": 29
     },
     "matches": [
-        {
-            "id": "db82e631-a40d-4d44-83d5-8ca7e7ac79b4",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "db82e631-a40d-4d44-83d5-8ca7e7ac79b4",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "AS UAM v ASN Nigelec | Coupe Nationale 2025/26",
-            "category": "livestream",
-            "urlSlug": "as-uam-vs-asn-nigelec",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/b6/7a/aa/4a/b67aaa4a-5147-46f0-94f7-60a41a794933.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/83/61/e8/3d/8361e83d-8644-4d78-8ccf-65caff7cedd2.png",
-            "freeMode": "FREE_ADS",
-            "title": "AS UAM v ASN Nigelec | Coupe Nationale 2025/26",
-            "titleTemplateValues": {
-                "publisher": "MA | Niger ",
-                "publisher-channel": "MA | Niger | Coupe Nationale 2025/26 (Channel)",
-                "association": "Niger",
-                "team:as-uam": "AS UAM",
-                "team:asn-nigelec": "ASN Nigelec",
-                "country": "Niger",
-                "city": "Niamey",
-                "stage": "Semi finals",
-                "season": "Coupe Nationale 2025/26",
-                "global-stage": "Semi-finals",
-                "match": "AS UAM v ASN Nigelec",
-                "stadium": "Municipal Stadium",
-                "video-type": "Live Streams",
-                "competition": "Nigerien Coupe Nationale",
-                "organizer": "Niger",
-                "organizer-country": "Niger"
-            },
-            "startDate": "2026-05-24T15:35:00Z",
-            "endDate": "2026-05-24T18:15:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-24T15:45:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "AS UAM v ASN Nigelec"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Coupe Nationale 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Semi-finals"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Niger"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_13_54_38_adac021b-04ba-4ebe-80e6-227213358e79/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779636840",
-                "decryption_keys": [
-                    "9d3423a14b1e3e349238acb87031d37c:b0f3c9b87e8086730ca222d6ac562506"
-                ]
-            }
-        },
         {
             "id": "eb055860-e370-4daa-aa65-daee49ca4022",
             "channelId": "fifa-tournaments",
@@ -281,74 +213,6 @@
             }
         },
         {
-            "id": "6ef609c8-73f8-41c7-9d0a-ba17c22389c9",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "6ef609c8-73f8-41c7-9d0a-ba17c22389c9",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Masters FC v Dedza Dynamos FC | FDH Bank Premiership",
-            "category": "livestream",
-            "urlSlug": "masters-fc-vs-dedza-dynamos-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/80/65/93/8e/8065938e-a1a7-4e07-bc92-5382309a4c23.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/ee/e6/f7/5a/eee6f75a-e759-4b55-897e-3b79a5c012ac.png",
-            "freeMode": "FREE_ADS",
-            "title": "Masters FC v Dedza Dynamos FC | FDH Bank Premiership",
-            "titleTemplateValues": {
-                "global-stage": "Round 5",
-                "country": "Malawi",
-                "stadium": "Bingu National Stadium",
-                "association": "Malawi",
-                "team:masters-fc": "Masters FC",
-                "match": "Masters FC v Dedza Dynamos FC",
-                "season": "FDH Bank Premiership",
-                "publisher": "MA | Malawi",
-                "stage": "Regular Season",
-                "publisher-channel": "MA | Malawi | FDH Bank Premiership 2026/27 (Channel)",
-                "team:dedza-dynamos-fc": "Dedza Dynamos FC",
-                "competition": "Super League",
-                "video-type": "Live Streams",
-                "city": "Lilongwe",
-                "organizer": "Malawi",
-                "organizer-country": "Malawi"
-            },
-            "startDate": "2026-05-24T15:55:00Z",
-            "endDate": "2026-05-24T18:05:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-24T16:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Masters FC v Dedza Dynamos FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "FDH Bank Premiership"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 5"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Malawi"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_15_47_22_f95f607e-0629-4b64-aa3a-7fd8d045c265/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Anya%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779638040",
-                "decryption_keys": [
-                    "f33d7c6e7c9c3f69a9eb36636eac15aa:9347af2198e2ad73ea1612158eb20c29"
-                ]
-            }
-        },
-        {
             "id": "dc7f1d50-4a4a-4027-90ea-2c4802056bd0",
             "channelId": "fifa-tournaments",
             "catalogRedirectId": "dc7f1d50-4a4a-4027-90ea-2c4802056bd0",
@@ -361,27 +225,27 @@
             "freeMode": "FREE_ADS",
             "title": "Kamboi Eagles FC v Diamond Stars FC | Leone Rock Premier League 2025-26",
             "titleTemplateValues": {
-                "stage": "Regular Season",
-                "country": "Sierra Leone",
-                "competition": "Premier League",
-                "stadium": "Kenema Town Field",
-                "team:diamond-stars-fc": "Diamond Stars FC",
-                "team:kamboi-eagles-fc": "Kamboi Eagles FC",
                 "publisher-channel": "MA | Sierra Leone | Rock Premier League 2025-26",
-                "association": "Sierra Leone",
+                "country": "Sierra Leone",
+                "team:diamond-stars-fc": "Diamond Stars FC",
                 "city": "Kenema",
-                "global-stage": "Round 28",
                 "match": "Kamboi Eagles FC v Diamond Stars FC",
+                "association": "Sierra Leone",
+                "competition": "Premier League",
+                "organizer-country": "Sierra Leone",
+                "team:kamboi-eagles-fc": "Kamboi Eagles FC",
+                "global-stage": "Round 28",
+                "stage": "Regular Season",
+                "organizer": "Sierra Leone",
+                "stadium": "Kenema Town Field",
                 "season": "Leone Rock Premier League 2025-26",
                 "publisher": "MA | Sierra Leone",
-                "video-type": "Live Streams",
-                "organizer": "Sierra Leone",
-                "organizer-country": "Sierra Leone"
+                "video-type": "Live Streams"
             },
             "startDate": "2026-05-24T16:10:00Z",
             "endDate": "2026-05-24T19:00:00Z",
             "ctxMetadata": {
-                "kickOffTime": "2026-05-24T16:30:00Z"
+                "kickOffTime": "2026-05-24T16:17:00Z"
             },
             "isRegistrationRequired": false,
             "shownPrices": null,
@@ -549,74 +413,6 @@
                 "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_08_48_06_117e6766-d400-45c4-8afc-54b5ddcf2b59/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779639540",
                 "decryption_keys": [
                     "a3cc4ee5247f3280b27b8182f987f809:75ec5c3464562f585cad76dcdb661a92"
-                ]
-            }
-        },
-        {
-            "id": "c047bdac-80c4-4d34-882a-6b85fcaddbc0",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "c047bdac-80c4-4d34-882a-6b85fcaddbc0",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Bo Rangers FC v Ports Authority FC | Leone Rock Premier League 2025-26",
-            "category": "livestream",
-            "urlSlug": "bo-rangers-fc-vs-ports-authority-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/1a/8d/53/9a/1a8d539a-6303-4247-ae28-c0ef08d20cb5.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/1d/a8/80/6e/1da8806e-1745-4e9b-9af7-0c742fe68673.png",
-            "freeMode": "FREE_ADS",
-            "title": "Bo Rangers FC v Ports Authority FC | Leone Rock Premier League 2025-26",
-            "titleTemplateValues": {
-                "team:ports-authority-fc": "Ports Authority FC",
-                "stage": "Regular Season",
-                "country": "Sierra Leone",
-                "competition": "Premier League",
-                "city": "Bo",
-                "stadium": "Southern Arena Stadium",
-                "publisher-channel": "MA | Sierra Leone | Rock Premier League 2025-26",
-                "team:bo-rangers-fc": "Bo Rangers FC",
-                "association": "Sierra Leone",
-                "match": "Bo Rangers FC v Ports Authority FC",
-                "global-stage": "Round 28",
-                "season": "Leone Rock Premier League 2025-26",
-                "publisher": "MA | Sierra Leone",
-                "video-type": "Live Streams",
-                "organizer": "Sierra Leone",
-                "organizer-country": "Sierra Leone"
-            },
-            "startDate": "2026-05-24T16:20:00Z",
-            "endDate": "2026-05-24T19:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-24T16:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Bo Rangers FC v Ports Authority FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Leone Rock Premier League 2025-26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 28"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Sierra Leone"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_08_48_16_95247501-f1fb-4159-ab4c-74f85bf86edf/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779639540",
-                "decryption_keys": [
-                    "a70fd240dc9639f4888dfb18c3236c2b:bd7ab17c14d894665afa343b56b5d447"
                 ]
             }
         },
