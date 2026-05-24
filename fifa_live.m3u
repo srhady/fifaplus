@@ -1,18 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 06:45:15 AM 24-05-2026
+#last update time: 07:00:22 AM 24-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/3d/7f/3c/16/3d7f3c16-b3bc-406e-951b-b67e85c17fec.png" group-title="FIFA Live", Dublanc FC v Bath Estate FC | DFA Premier League 2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bf9c8e9414bd31f5a952689fcc0975ce:fc083851364b7b5adc31383d03da4158
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_13_07_32_5393ee5f-b422-49ea-9c87-b7ffac25509b/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779574740
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/b7/34/1f/16/b7341f16-da1f-4822-a8c6-d1222575ee47.png" group-title="FIFA Live", La Fama v SV Sporting Aruba | Division Honor 2025-26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5da1c680d4f8351a97a4ec3991fff0f9:18bba127a664a5ab892acc075a504fb4
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_12_59_06_8af6d107-e490-4687-932b-59ee344f677a/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779574740
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/6f/07/3b/c9/6f073bc9-db86-43da-b9f7-d81848f2f59a.png" group-title="FIFA Live", Britannia v Dakota | Division Honor 2025-26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -23,3 +13,8 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_12_59_09_f23313f9-0de8-4b61-94c6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f1943eff4866326cb45564ba32636fd7:3b83f0abc2f93126f7e3614c28038714
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_21_14_46_29_5bb63669-413d-4878-82a7-833dbff160c9/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779582060
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/b0/8e/43/e3/b08e43e3-271c-4073-b0fb-1aa7ac06d3e5.png" group-title="FIFA Live", UNAN-Managua v Matiguás FC | Liga Primera Nicaragua 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=50d0f7d24e7338b98ccaf0982a1eff40:2fada08b5bfb13eb7e8ce99c1ec4c3b9
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_12_40_59_30f8bde2-7aef-438b-8bfd-6838d07dcec7/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779584040
