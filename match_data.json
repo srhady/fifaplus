@@ -3,148 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "01:15:17 AM 25-05-2026",
-        "total_live": 2,
-        "total_upcoming": 29
+        "last_update_time": "01:30:21 AM 25-05-2026",
+        "total_live": 3,
+        "total_upcoming": 26
     },
     "matches": [
-        {
-            "id": "46967fa0-deb1-4d06-95c9-39a0135ccc60",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "46967fa0-deb1-4d06-95c9-39a0135ccc60",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Santo Crucifixo v Cutelinho | Cape Verdean Football Championship 2026",
-            "category": "livestream",
-            "urlSlug": "santo-crucifixo-vs-cutelinho",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/e2/de/a5/df/e2dea5df-b115-46c7-896c-b14873589822.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/cb/48/28/8e/cb48288e-96e8-489b-b444-472485b2721f.png",
-            "freeMode": "FREE_ADS",
-            "title": "Santo Crucifixo v Cutelinho | Cape Verdean Football Championship 2026",
-            "titleTemplateValues": {
-                "stadium": "João Serra Stadium ",
-                "global-stage": "Round 3",
-                "team:santo-crucifixo": "Santo Crucifixo",
-                "match": "Santo Crucifixo v Cutelinho",
-                "stage": "Group Stage",
-                "city": "Ponta do Sol",
-                "publisher-channel": "MA | Cape Verde | Cape Verdean Football Championship 2026 (Channel)",
-                "team:cutelinho": "Cutelinho",
-                "competition": "Cape Verdean Football Championship",
-                "country": "Cabo Verde",
-                "season": "Cape Verdean Football Championship 2026",
-                "publisher": "MA | Cape Verde",
-                "fifa-plus": "Mens (FIFA Plus)",
-                "association": "Cabo Verde",
-                "video-type": "Live Streams",
-                "organizer": "Cabo Verde",
-                "organizer-country": "Cabo Verde"
-            },
-            "startDate": "2026-05-24T16:50:00Z",
-            "endDate": "2026-05-24T19:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-24T17:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Santo Crucifixo v Cutelinho"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Cape Verdean Football Championship 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 3"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Cabo Verde"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_21_08_55_05_5613d35a-a39e-41f0-9d83-a86cf8367533/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Apor%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779641340",
-                "decryption_keys": [
-                    "b816d3552a913db6ae0eb32360b5cdc2:babafe8443e1dac2d27165b6fe41be09"
-                ]
-            }
-        },
-        {
-            "id": "abd92a64-39e1-4dec-bf2c-d1c7e323c160",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "abd92a64-39e1-4dec-bf2c-d1c7e323c160",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "AF Elbasani v FC Dinamo City | Championship Playoff | Kategoria Superiore 2025/26",
-            "category": "livestream",
-            "urlSlug": "af-elbasani-vs-fc-dinamo-city",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/1e/b8/b6/0d/1eb8b60d-ca73-4620-a12e-6d83b3142377.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/23/4e/d8/9a/234ed89a-4f82-432a-b162-a74e010bc367.png",
-            "freeMode": "FREE_ADS",
-            "title": "AF Elbasani v FC Dinamo City | Championship Playoff | Kategoria Superiore 2025/26",
-            "titleTemplateValues": {
-                "global-stage": "Championship Playoff",
-                "match": "AF Elbasani v FC Dinamo City",
-                "stadium": "Air Albania Stadium",
-                "season": "Kategoria Superiore 2025/26",
-                "team:af-elbasani": "AF Elbasani",
-                "country": "Albania",
-                "publisher-channel": "MA | Albania | Abissnet Superiore 2025/26",
-                "publisher": "MA | Albania",
-                "stage": "Final 4",
-                "competition": "Kategoria Superiore",
-                "team:fc-dinamo-city": "FC Dinamo City",
-                "association": "Albania",
-                "video-type": "Live Streams",
-                "city": "Tirana",
-                "organizer": "Albania",
-                "organizer-country": "Albania"
-            },
-            "startDate": "2026-05-24T16:50:00Z",
-            "endDate": "2026-05-24T19:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-24T17:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "AF Elbasani v FC Dinamo City"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Kategoria Superiore 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Championship Playoff"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Albania"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_13_59_37_29454698-fb9d-42e0-aefd-5e74cdddb5bc/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Asqi%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779641340",
-                "decryption_keys": [
-                    "6f94ce78f6233c8992c4bbb04b60dc01:e9526c393dbee473f39d91b40fb1e0d6"
-                ]
-            }
-        },
         {
             "id": "9bb3e353-12d9-4c5b-87e4-bc788b7697d4",
             "channelId": "fifa-tournaments",
@@ -183,7 +46,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -205,7 +68,13 @@
                     "p": 1,
                     "value": "Venezuela"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_21_14_28_16_945da078-ae7f-4d4c-ba9a-3d11a0c2f668/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779650340",
+                "decryption_keys": [
+                    "2ccfcf9595e431d99cedde00b622962f:7caed97407e5a6884f5aa59f5ad1da2e"
+                ]
+            }
         },
         {
             "id": "8fd30b59-ec65-4750-96d0-1b0dd429341f",
@@ -245,7 +114,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -267,7 +136,13 @@
                     "p": 1,
                     "value": "Venezuela"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_21_14_28_13_4d8cf24d-ebb1-4f94-95c5-ac2f468b322b/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779650340",
+                "decryption_keys": [
+                    "e5c496b907e733f29fec9b512b6d739c:db6f5c62fb803b5d28d8b9f9e1ad5e56"
+                ]
+            }
         },
         {
             "id": "80afb300-4bda-4885-939e-375f0a6e1b83",
@@ -307,7 +182,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -329,7 +204,13 @@
                     "p": 1,
                     "value": "Costa Rica"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_21_13_45_30_e7828227-cc28-4674-8c44-f355e5cddacc/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779650340",
+                "decryption_keys": [
+                    "96f3c182c3953c709769500ad0bec045:04da13ef3fd40f79cfa307997caca5e7"
+                ]
+            }
         },
         {
             "id": "81bafc5d-162d-438d-b90d-ddecee37e57a",

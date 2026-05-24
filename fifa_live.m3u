@@ -1,15 +1,20 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 01:15:17 AM 25-05-2026
+#last update time: 01:30:21 AM 25-05-2026
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/cb/48/28/8e/cb48288e-96e8-489b-b444-472485b2721f.png" group-title="FIFA Live", Santo Crucifixo v Cutelinho | Cape Verdean Football Championship 2026
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/91/4e/fc/1b/914efc1b-4f8a-42ee-9b6c-771fac40410b.png" group-title="FIFA Live", El Vigía FC v Ureña SC | Liga FUTVE 2 2026
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b816d3552a913db6ae0eb32360b5cdc2:babafe8443e1dac2d27165b6fe41be09
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_21_08_55_05_5613d35a-a39e-41f0-9d83-a86cf8367533/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Apor%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779641340
+#KODIPROP:inputstream.adaptive.license_key=2ccfcf9595e431d99cedde00b622962f:7caed97407e5a6884f5aa59f5ad1da2e
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_21_14_28_16_945da078-ae7f-4d4c-ba9a-3d11a0c2f668/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779650340
 
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/23/4e/d8/9a/234ed89a-4f82-432a-b162-a74e010bc367.png" group-title="FIFA Live", AF Elbasani v FC Dinamo City | Championship Playoff | Kategoria Superiore 2025/26
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/7f/d6/21/e7/7fd621e7-d30e-40e5-aa23-ae3b2cb20b5b.png" group-title="FIFA Live", Real Frontera v Puerto Cabello B | Liga FUTVE 2 2026
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6f94ce78f6233c8992c4bbb04b60dc01:e9526c393dbee473f39d91b40fb1e0d6
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_13_59_37_29454698-fb9d-42e0-aefd-5e74cdddb5bc/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Asqi%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779641340
+#KODIPROP:inputstream.adaptive.license_key=e5c496b907e733f29fec9b512b6d739c:db6f5c62fb803b5d28d8b9f9e1ad5e56
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_21_14_28_13_4d8cf24d-ebb1-4f94-95c5-ac2f468b322b/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779650340
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/db/08/13/c1/db0813c1-3e5d-4fd1-a1d3-4d944978ddae.png" group-title="FIFA Live", San Ramón FF v Upala FC | Women's Second Division 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=96f3c182c3953c709769500ad0bec045:04da13ef3fd40f79cfa307997caca5e7
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_21_13_45_30_e7828227-cc28-4674-8c44-f355e5cddacc/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779650340
