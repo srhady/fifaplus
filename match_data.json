@@ -3,215 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "08:45:19 PM 24-05-2026",
-        "total_live": 7,
-        "total_upcoming": 22
+        "last_update_time": "09:00:23 PM 24-05-2026",
+        "total_live": 5,
+        "total_upcoming": 21
     },
     "matches": [
-        {
-            "id": "5a79aa37-46d2-4fd9-b9fa-d4788066b836",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "5a79aa37-46d2-4fd9-b9fa-d4788066b836",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Civil Service United v Karonga United | FDH Bank Premiership",
-            "category": "livestream",
-            "urlSlug": "civil-service-united-vs-karonga-united",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/80/65/93/8e/8065938e-a1a7-4e07-bc92-5382309a4c23.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/24/c2/92/42/24c29242-d737-42ab-9ad8-2c0e425dfe87.png",
-            "freeMode": "FREE_ADS",
-            "title": "Civil Service United v Karonga United | FDH Bank Premiership",
-            "titleTemplateValues": {
-                "global-stage": "Round 5",
-                "country": "Malawi",
-                "association": "Malawi",
-                "team:civil-service-united": "Civil Service United",
-                "stadium": "CIVO Stadium",
-                "match": "Civil Service United v Karonga United",
-                "team:karonga-united": "Karonga United",
-                "season": "FDH Bank Premiership",
-                "publisher": "MA | Malawi",
-                "stage": "Regular Season",
-                "publisher-channel": "MA | Malawi | FDH Bank Premiership 2026/27 (Channel)",
-                "competition": "Super League",
-                "video-type": "Live Streams",
-                "city": "Lilongwe",
-                "organizer": "Malawi",
-                "organizer-country": "Malawi"
-            },
-            "startDate": "2026-05-24T12:20:00Z",
-            "endDate": "2026-05-24T15:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-24T12:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Civil Service United v Karonga United"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "FDH Bank Premiership"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 5"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Malawi"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_15_47_12_34deee05-c223-4d4c-aaa8-741a9e6abab7/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Anya%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779625140",
-                "decryption_keys": [
-                    "e662094d2c673ffba7a716ac0401a9bc:42f048baf2b77df844c76500d241ea94"
-                ]
-            }
-        },
-        {
-            "id": "1eaad60b-eec5-457a-af7e-80552a875cd5",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "1eaad60b-eec5-457a-af7e-80552a875cd5",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "MAFCO FC v Chitipa United | FDH Bank Premiership",
-            "category": "livestream",
-            "urlSlug": "mafco-fc-vs-chitipa-united",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/80/65/93/8e/8065938e-a1a7-4e07-bc92-5382309a4c23.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/b6/a3/e1/15/b6a3e115-2b04-414f-b587-761050f64a0e.png",
-            "freeMode": "FREE_ADS",
-            "title": "MAFCO FC v Chitipa United | FDH Bank Premiership",
-            "titleTemplateValues": {
-                "global-stage": "Round 5",
-                "country": "Malawi",
-                "association": "Malawi",
-                "city": "Dowa",
-                "team:chitipa-united": "Chitipa United",
-                "match": "MAFCO FC v Chitipa United",
-                "stadium": "Champion Stadium",
-                "season": "FDH Bank Premiership",
-                "publisher": "MA | Malawi",
-                "stage": "Regular Season",
-                "publisher-channel": "MA | Malawi | FDH Bank Premiership 2026/27 (Channel)",
-                "team:mafco-fc": "MAFCO FC",
-                "competition": "Super League",
-                "video-type": "Live Streams",
-                "organizer": "Malawi",
-                "organizer-country": "Malawi"
-            },
-            "startDate": "2026-05-24T12:20:00Z",
-            "endDate": "2026-05-24T15:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-24T12:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "MAFCO FC v Chitipa United"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "FDH Bank Premiership"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 5"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Malawi"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_15_47_16_40507774-f400-4a29-8d5d-c5dd45ca6b44/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Anya%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779625140",
-                "decryption_keys": [
-                    "9dd7b0d199e0361ba3773af77a596546:64d6d3af7328d5eb1bd900a3deb91c1a"
-                ]
-            }
-        },
-        {
-            "id": "e4fd6ece-69b9-4b2e-96e1-eef637f2170d",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "e4fd6ece-69b9-4b2e-96e1-eef637f2170d",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Mighty Wanderers v Silver Strikers FC | FDH Bank Premiership",
-            "category": "livestream",
-            "urlSlug": "mighty-mukuru-wanderers-vs-silver-strikers",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/80/65/93/8e/8065938e-a1a7-4e07-bc92-5382309a4c23.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/0a/0a/7b/13/0a0a7b13-16d8-4160-93de-3857b3f5b76a.png",
-            "freeMode": "FREE_ADS",
-            "title": "Mighty Wanderers v Silver Strikers FC | FDH Bank Premiership",
-            "titleTemplateValues": {
-                "global-stage": "Round 5",
-                "country": "Malawi",
-                "team:silver-strikers": "Silver Strikers FC",
-                "city": "Zomba",
-                "association": "Malawi",
-                "season": "FDH Bank Premiership",
-                "publisher": "MA | Malawi",
-                "stage": "Regular Season",
-                "publisher-channel": "MA | Malawi | FDH Bank Premiership 2026/27 (Channel)",
-                "competition": "Super League",
-                "stadium": "Zomba Stadium",
-                "team:mighty-mukuru-wanderers": "Mighty Wanderers",
-                "match": "Mighty Wanderers v Silver Strikers FC",
-                "video-type": "Live Streams",
-                "organizer": "Malawi",
-                "organizer-country": "Malawi"
-            },
-            "startDate": "2026-05-24T12:20:00Z",
-            "endDate": "2026-05-24T15:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-24T12:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Mighty Wanderers v Silver Strikers FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "FDH Bank Premiership"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 5"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Malawi"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_15_47_19_488da2e1-c885-4cd5-8e89-abb96dc4d8b8/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Anya%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779625140",
-                "decryption_keys": [
-                    "038d822c42d13349b743e8214b615fd3:cd0778e5b4fb410deabea0b02b4a9c6e"
-                ]
-            }
-        },
         {
             "id": "2093ccd8-25ba-46e7-8cd2-b062ed46f4cc",
             "channelId": "fifa-tournaments",
@@ -523,7 +319,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -545,7 +341,13 @@
                     "p": 1,
                     "value": "Equatorial Guinea"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_21_07_13_17_9902b83b-b71b-48b4-85ac-33ab9dbf7fbf/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779634140",
+                "decryption_keys": [
+                    "026a9f36d34b3d089ca31cc2c134b59b:36c14a7a93fc1b9143874fa299a87864"
+                ]
+            }
         },
         {
             "id": "6dfed1c1-75d4-4ed9-896d-5ba0ddd767ee",
