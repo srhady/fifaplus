@@ -3,74 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "08:15:21 AM 24-05-2026",
+        "last_update_time": "08:30:21 AM 24-05-2026",
         "total_live": 3,
         "total_upcoming": 33
     },
     "matches": [
-        {
-            "id": "6625d025-7ad9-47b4-a625-73d08c0e3576",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "6625d025-7ad9-47b4-a625-73d08c0e3576",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Nelson Suburbs v Ferrymead Bays | New Zealand Men's National League 2026",
-            "category": "livestream",
-            "urlSlug": "nelson-suburbs-fc-vs-ferrymead-bays-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/6c/f9/30/95/6cf93095-e33d-4b23-b486-45750c864708.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/3a/b4/dc/0f/3ab4dc0f-9568-49af-ae10-b63dad387141.jpg",
-            "freeMode": "FREE_ADS",
-            "title": "Nelson Suburbs v Ferrymead Bays | New Zealand Men's National League 2026",
-            "titleTemplateValues": {
-                "competition": "Men's National League",
-                "publisher": "MA | New Zealand",
-                "match": "Nelson Suburbs v Ferrymead Bays",
-                "publisher-channel": "MA | New Zealand | Men's National League 2026 - Regional Phase (Channel)",
-                "global-stage": "Southern League",
-                "season": "New Zealand Men's National League 2026",
-                "association": "New Zealand",
-                "stage": "Regional Phase - Southern League",
-                "country": "New Zealand",
-                "city": "Nelson",
-                "stadium": "Saxton Field",
-                "fifa-plus": "Mens (FIFA Plus)",
-                "team:nelson-suburbs-fc": "Nelson Suburbs",
-                "team:ferrymead-bays-fc": "Ferrymead Bays",
-                "video-type": "Live Streams",
-                "organizer": "New Zealand",
-                "organizer-country": "New Zealand"
-            },
-            "startDate": "2026-05-23T23:50:00Z",
-            "endDate": "2026-05-24T02:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-24T00:00:00Z"
-            },
-            "isRegistrationRequired": true,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Nelson Suburbs v Ferrymead Bays"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "New Zealand Men's National League 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Southern League"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "New Zealand"
-                }
-            ]
-        },
         {
             "id": "4dd75a1f-703f-4d85-a4d6-c5f746508b94",
             "channelId": "fifa-tournaments",
