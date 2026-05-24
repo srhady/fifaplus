@@ -1,7 +1,7 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 09:30:22 PM 24-05-2026
+#last update time: 09:45:18 PM 24-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/f6/2b/48/60/f62b4860-4edd-40c8-8ef8-86393d6e442a.png" group-title="FIFA Live", Cano Sport Academy v Deportivo Unidad | Equatorial Guinea Football League 2025-26
@@ -33,3 +33,8 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_13_22_06_2b63c268-3ae8-4e27-a5c6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7f3ce10877ba33c4bbc79d488277a82e:5f816faa5e593189a2275576c3a240e0
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_13_22_13_441e6c7d-951b-429e-8737-fdb19569d616/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779635940
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/83/61/e8/3d/8361e83d-8644-4d78-8ccf-65caff7cedd2.png" group-title="FIFA Live", AS UAM v ASN Nigelec | Coupe Nationale 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9d3423a14b1e3e349238acb87031d37c:b0f3c9b87e8086730ca222d6ac562506
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_13_54_38_adac021b-04ba-4ebe-80e6-227213358e79/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Afra%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779636840
