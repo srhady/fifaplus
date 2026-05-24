@@ -3,79 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "05:15:19 AM 25-05-2026",
-        "total_live": 6,
+        "last_update_time": "05:30:21 AM 25-05-2026",
+        "total_live": 5,
         "total_upcoming": 15
     },
     "matches": [
-        {
-            "id": "35d50263-8e37-41f3-b8f7-badd0f69f448",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "35d50263-8e37-41f3-b8f7-badd0f69f448",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Deportivo Lara v Zamora FC (B) | Liga FUTVE 2 2026",
-            "category": "livestream",
-            "urlSlug": "deportivo-lara-vs-zamora-b",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/57/b2/b9/56/57b2b956-2a4f-4b00-9e73-4c3ff15091b9.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/bd/65/27/71/bd652771-8915-4ae9-b2a8-9ae930bbe08e.png",
-            "freeMode": "FREE_ADS",
-            "title": "Deportivo Lara v Zamora FC (B) | Liga FUTVE 2 2026",
-            "titleTemplateValues": {
-                "global-stage": "Round 16",
-                "season": "Liga FUTVE 2 2026",
-                "team:zamora-b": "Zamora FC (B)",
-                "stage": "Regular Season",
-                "match": "Deportivo Lara v Zamora FC (B)",
-                "association": "Venezuela",
-                "stadium": "Metropolitano Stadium",
-                "city": "Barquisimeto",
-                "publisher": "MA | Venezuela",
-                "competition": "Liga FUTVE 2",
-                "country": "Venezuela",
-                "video-type": "Live Streams",
-                "team:deportivo-lara": "Deportivo Lara",
-                "publisher-channel": "MA | Venezuela | Liga FUTVE 2 2026 (Channel)",
-                "organizer": "Venezuela",
-                "organizer-country": "Venezuela"
-            },
-            "startDate": "2026-05-24T20:50:00Z",
-            "endDate": "2026-05-24T23:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-24T21:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Deportivo Lara v Zamora FC (B)"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Liga FUTVE 2 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 16"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Venezuela"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_21_14_28_24_e928a95f-386c-45d9-b546-1645fa651f3d/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779655740",
-                "decryption_keys": [
-                    "6879a02ff10d379b974adc414cf96eb3:d8c4dd23f49ff9057ff018d371688014"
-                ]
-            }
-        },
         {
             "id": "eb4f794d-7865-4155-8a7a-fc618b44d901",
             "channelId": "fifa-tournaments",
@@ -145,74 +77,6 @@
             }
         },
         {
-            "id": "c784fddd-47d8-4d9d-886f-3ff166c68614",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "c784fddd-47d8-4d9d-886f-3ff166c68614",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Paradise FC v Brittons Hill FC | BFA Premier League 2026",
-            "category": "livestream",
-            "urlSlug": "paradise-fc-vs-brittons-hill-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/f9/fc/5b/ae/f9fc5bae-7cbc-4802-a3c3-a6a0be479692.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/ef/98/82/b1/ef9882b1-3509-4c83-b264-0034d89c5cb2.png",
-            "freeMode": "FREE_ADS",
-            "title": "Paradise FC v Brittons Hill FC | BFA Premier League 2026",
-            "titleTemplateValues": {
-                "publisher-channel": "MA | Barbados | BFA Premier League 2026 (Channel)",
-                "country": "Barbados",
-                "team:brittons-hill-fc": "Brittons Hill FC",
-                "city": "Saint Michael",
-                "match": "Paradise FC v Brittons Hill FC",
-                "association": "Barbados",
-                "competition": "BFA Premier League",
-                "organizer-country": "Barbados",
-                "global-stage": "Round 16",
-                "stage": "Regular Season",
-                "organizer": "Барбадос",
-                "stadium": "BFA Technical Centre",
-                "publisher": "MA | Barbados",
-                "season": "BFA Premier League 2026",
-                "video-type": "Live Streams",
-                "team:paradise-fc": "Paradise FC"
-            },
-            "startDate": "2026-05-24T21:50:00Z",
-            "endDate": "2026-05-25T00:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-24T22:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Paradise FC v Brittons Hill FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "BFA Premier League 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 16"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Barbados"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_10_06_02_04f8f61a-43a8-4972-b9d2-b3218084a4fa/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779659340",
-                "decryption_keys": [
-                    "8e8fbdcb232635278756cb86e1ac9c90:a48984c81a1f2ad20504145355ca0174"
-                ]
-            }
-        },
-        {
             "id": "36cdd073-fc41-42f3-94da-765b30718fe7",
             "channelId": "fifa-tournaments",
             "catalogRedirectId": "36cdd073-fc41-42f3-94da-765b30718fe7",
@@ -277,6 +141,74 @@
                 "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_12_59_20_d981024d-cdbc-4758-8f54-12c389a678cf/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779659880",
                 "decryption_keys": [
                     "d677577e91dc349baf7245a184b5d930:34141d734ad6b0748742818f0a237869"
+                ]
+            }
+        },
+        {
+            "id": "c784fddd-47d8-4d9d-886f-3ff166c68614",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "c784fddd-47d8-4d9d-886f-3ff166c68614",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Paradise FC v Brittons Hill FC | BFA Premier League 2026",
+            "category": "livestream",
+            "urlSlug": "paradise-fc-vs-brittons-hill-fc",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/f9/fc/5b/ae/f9fc5bae-7cbc-4802-a3c3-a6a0be479692.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/ef/98/82/b1/ef9882b1-3509-4c83-b264-0034d89c5cb2.png",
+            "freeMode": "FREE_ADS",
+            "title": "Paradise FC v Brittons Hill FC | BFA Premier League 2026",
+            "titleTemplateValues": {
+                "match": "Paradise FC v Brittons Hill FC",
+                "publisher-channel": "MA | Barbados | BFA Premier League 2026 (Channel)",
+                "stadium": "BFA Technical Centre",
+                "global-stage": "Round 16",
+                "team:paradise-fc": "Paradise FC",
+                "association": "Barbados",
+                "publisher": "MA | Barbados",
+                "team:brittons-hill-fc": "Brittons Hill FC",
+                "stage": "Regular Season",
+                "city": "Saint Michael",
+                "competition": "BFA Premier League",
+                "country": "Barbados",
+                "season": "BFA Premier League 2026",
+                "video-type": "Live Streams",
+                "organizer": "Barbados",
+                "organizer-country": "Barbados"
+            },
+            "startDate": "2026-05-24T22:20:00Z",
+            "endDate": "2026-05-25T00:50:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-24T22:30:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "started",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Paradise FC v Brittons Hill FC"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "BFA Premier League 2026"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 16"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Barbados"
+                }
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_10_06_02_04f8f61a-43a8-4972-b9d2-b3218084a4fa/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779659340",
+                "decryption_keys": [
+                    "8e8fbdcb232635278756cb86e1ac9c90:a48984c81a1f2ad20504145355ca0174"
                 ]
             }
         },
@@ -417,68 +349,6 @@
             }
         },
         {
-            "id": "3c17d40b-0e81-46c5-8f52-6b0cef1a5893",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "3c17d40b-0e81-46c5-8f52-6b0cef1a5893",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Kickstart Rush v Weymouth Wales | BFA Premier League 2026",
-            "category": "livestream",
-            "urlSlug": "kickstart-rush-vs-weymouth-wales",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/f9/fc/5b/ae/f9fc5bae-7cbc-4802-a3c3-a6a0be479692.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/40/4f/f0/87/404ff087-7730-422b-9b80-77db01f2644f.png",
-            "freeMode": "FREE_ADS",
-            "title": "Kickstart Rush v Weymouth Wales | BFA Premier League 2026",
-            "titleTemplateValues": {
-                "publisher-channel": "MA | Barbados | BFA Premier League 2026 (Channel)",
-                "team:kickstart-rush": "Kickstart Rush",
-                "country": "Barbados",
-                "city": "Saint Michael",
-                "match": "Kickstart Rush v Weymouth Wales",
-                "association": "Barbados",
-                "competition": "BFA Premier League",
-                "organizer-country": "Barbados",
-                "global-stage": "Round 16",
-                "stage": "Regular Season",
-                "organizer": "Барбадос",
-                "stadium": "BFA Technical Centre",
-                "publisher": "MA | Barbados",
-                "season": "BFA Premier League 2026",
-                "team:weymouth-wales": "Weymouth Wales",
-                "video-type": "Live Streams"
-            },
-            "startDate": "2026-05-24T23:50:00Z",
-            "endDate": "2026-05-25T02:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-25T00:45:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "upcoming",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Kickstart Rush v Weymouth Wales"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "BFA Premier League 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 16"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Barbados"
-                }
-            ]
-        },
-        {
             "id": "2427b880-027f-4325-81ef-a536c8762977",
             "channelId": "fifa-tournaments",
             "catalogRedirectId": "2427b880-027f-4325-81ef-a536c8762977",
@@ -537,6 +407,68 @@
                     "kind": "caption",
                     "p": 1,
                     "value": "Aruba"
+                }
+            ]
+        },
+        {
+            "id": "3c17d40b-0e81-46c5-8f52-6b0cef1a5893",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "3c17d40b-0e81-46c5-8f52-6b0cef1a5893",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Kickstart Rush v Weymouth Wales | BFA Premier League 2026",
+            "category": "livestream",
+            "urlSlug": "kickstart-rush-vs-weymouth-wales",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/f9/fc/5b/ae/f9fc5bae-7cbc-4802-a3c3-a6a0be479692.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/40/4f/f0/87/404ff087-7730-422b-9b80-77db01f2644f.png",
+            "freeMode": "FREE_ADS",
+            "title": "Kickstart Rush v Weymouth Wales | BFA Premier League 2026",
+            "titleTemplateValues": {
+                "publisher-channel": "MA | Barbados | BFA Premier League 2026 (Channel)",
+                "stadium": "BFA Technical Centre",
+                "global-stage": "Round 16",
+                "association": "Barbados",
+                "team:weymouth-wales": "Weymouth Wales",
+                "team:kickstart-rush": "Kickstart Rush",
+                "publisher": "MA | Barbados",
+                "stage": "Regular Season",
+                "city": "Saint Michael",
+                "competition": "BFA Premier League",
+                "country": "Barbados",
+                "season": "BFA Premier League 2026",
+                "match": "Kickstart Rush v Weymouth Wales",
+                "video-type": "Live Streams",
+                "organizer": "Barbados",
+                "organizer-country": "Barbados"
+            },
+            "startDate": "2026-05-25T00:35:00Z",
+            "endDate": "2026-05-25T03:15:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-25T00:45:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Kickstart Rush v Weymouth Wales"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "BFA Premier League 2026"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 16"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Barbados"
                 }
             ]
         },
