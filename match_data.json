@@ -3,9 +3,9 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "10:45:18 AM 25-05-2026",
+        "last_update_time": "11:00:27 AM 25-05-2026",
         "total_live": 0,
-        "total_upcoming": 13
+        "total_upcoming": 14
     },
     "matches": [
         {
@@ -750,6 +750,68 @@
                     "kind": "caption",
                     "p": 1,
                     "value": "Sierra Leone"
+                }
+            ]
+        },
+        {
+            "id": "67f9d8cc-ed5d-4a94-8d72-cf879a82cb6a",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "67f9d8cc-ed5d-4a94-8d72-cf879a82cb6a",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "FC Diarra v ASKO | Ligue 1 Pro Orange 2025/26",
+            "category": "livestream",
+            "urlSlug": "fc-diarra-vs-asko",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/ac/59/f0/5a/ac59f05a-c2ad-43a2-9106-de83c6792b2a.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/21/b0/93/37/21b09337-311c-4b15-a229-68065481cc72.png",
+            "freeMode": "FREE_ADS",
+            "title": "FC Diarra v ASKO | Ligue 1 Pro Orange 2025/26",
+            "titleTemplateValues": {
+                "competition": "Ligue 1 Pro Orange",
+                "team:asko": "ASKO",
+                "city": "Bamako",
+                "association": "Mali",
+                "team:fc-diarra": "FC Diarra",
+                "publisher": "MA | Mali",
+                "country": "Mali",
+                "global-stage": "Round 22",
+                "season": "Ligue 1 Pro Orange 2025/26",
+                "match": "FC Diarra v ASKO",
+                "publisher-channel": "MA | Mali | Ligue 1 Pro Orange 2025/26",
+                "stage": "Regular Season",
+                "fifa-plus": "Mens (FIFA Plus)",
+                "stadium": "Mamadou Konate Stadium",
+                "organizer": "Mali",
+                "organizer-country": "Mali"
+            },
+            "startDate": "2026-05-25T16:20:00Z",
+            "endDate": "2026-05-25T19:00:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-25T16:30:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "FC Diarra v ASKO"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Ligue 1 Pro Orange 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 22"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Mali"
                 }
             ]
         },
