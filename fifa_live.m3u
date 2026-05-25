@@ -1,18 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 06:45:18 AM 25-05-2026
+#last update time: 07:00:22 AM 25-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/ef/98/82/b1/ef9882b1-3509-4c83-b264-0034d89c5cb2.png" group-title="FIFA Live", Paradise FC v Brittons Hill FC | BFA Premier League 2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8e8fbdcb232635278756cb86e1ac9c90:a48984c81a1f2ad20504145355ca0174
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_10_06_02_04f8f61a-43a8-4972-b9d2-b3218084a4fa/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779659340
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/5e/78/4d/59/5e784d59-cf33-42c2-964d-771f3ce8736b.png" group-title="FIFA Live", Pointe Michel FC v Mahaut Soca Strikers FC | DFA Premier League 2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7ce90304157e38afb292cd8739dfaf94:9dd2e3d77dd705a991a75a6a12dae01d
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_13_07_41_1a9c6df6-ad9e-4579-806e-66612fe7edfe/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779661140
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/0c/76/5e/91/0c765e91-a086-4735-bc92-fedd53bc4d0f.png" group-title="FIFA Live", Robinhood v Broki | Suriname Major League 2025/26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
