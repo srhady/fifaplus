@@ -3,79 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "08:45:19 AM 25-05-2026",
-        "total_live": 1,
+        "last_update_time": "09:00:24 AM 25-05-2026",
+        "total_live": 0,
         "total_upcoming": 13
     },
     "matches": [
-        {
-            "id": "3c17d40b-0e81-46c5-8f52-6b0cef1a5893",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "3c17d40b-0e81-46c5-8f52-6b0cef1a5893",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Kickstart Rush v Weymouth Wales | BFA Premier League 2026",
-            "category": "livestream",
-            "urlSlug": "kickstart-rush-vs-weymouth-wales",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/f9/fc/5b/ae/f9fc5bae-7cbc-4802-a3c3-a6a0be479692.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/40/4f/f0/87/404ff087-7730-422b-9b80-77db01f2644f.png",
-            "freeMode": "FREE_ADS",
-            "title": "Kickstart Rush v Weymouth Wales | BFA Premier League 2026",
-            "titleTemplateValues": {
-                "publisher-channel": "MA | Barbados | BFA Premier League 2026 (Channel)",
-                "stadium": "BFA Technical Centre",
-                "global-stage": "Round 16",
-                "association": "Barbados",
-                "team:weymouth-wales": "Weymouth Wales",
-                "team:kickstart-rush": "Kickstart Rush",
-                "publisher": "MA | Barbados",
-                "stage": "Regular Season",
-                "city": "Saint Michael",
-                "competition": "BFA Premier League",
-                "country": "Barbados",
-                "season": "BFA Premier League 2026",
-                "match": "Kickstart Rush v Weymouth Wales",
-                "video-type": "Live Streams",
-                "organizer": "Barbados",
-                "organizer-country": "Barbados"
-            },
-            "startDate": "2026-05-25T00:33:00Z",
-            "endDate": "2026-05-25T03:15:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-25T00:45:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Kickstart Rush v Weymouth Wales"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "BFA Premier League 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 16"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Barbados"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_09_57_44_264d365e-6cb4-48af-bcf8-368144678275/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779669120",
-                "decryption_keys": [
-                    "ba4fedfb9ae138ca9498f8132132c365:f52c7cbf23a2c6bd3e1ed6b6be23fbba"
-                ]
-            }
-        },
         {
             "id": "2b77a60b-7501-4f49-8d84-e1a2ec2c2736",
             "channelId": "fifa-tournaments",
