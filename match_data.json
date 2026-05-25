@@ -3,79 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "09:00:25 PM 25-05-2026",
-        "total_live": 2,
+        "last_update_time": "09:15:18 PM 25-05-2026",
+        "total_live": 1,
         "total_upcoming": 10
     },
     "matches": [
-        {
-            "id": "2b77a60b-7501-4f49-8d84-e1a2ec2c2736",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "2b77a60b-7501-4f49-8d84-e1a2ec2c2736",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Gunners FC v Stand United | Championship League 2025/26",
-            "category": "livestream",
-            "urlSlug": "gunners-fc-vs-stand-united-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/8d/e8/1e/5f/8de81e5f-21a5-43e5-8765-727619824312.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/40/23/aa/03/4023aa03-8f36-4fb2-adee-a4ac5e107a80.png",
-            "freeMode": "FREE_ADS",
-            "title": "Gunners FC v Stand United | Championship League 2025/26",
-            "titleTemplateValues": {
-                "team:stand-united-fc": "Stand United",
-                "association": "Tanzania",
-                "country": "Tanzania",
-                "city": "Morogoro",
-                "competition": "Tanzania Championship League",
-                "team:gunners-fc": "Gunners FC",
-                "publisher": "MA | Tanzania",
-                "publisher-channel": "MA | Tanzania | NBC Championship League 2025/26",
-                "stadium": "Jamhuri Stadium",
-                "stage": "Regular Season",
-                "season": "Championship League 2025/26",
-                "global-stage": "Round 26",
-                "match": "Gunners FC v Stand United",
-                "video-type": "Live Streams",
-                "organizer": "Tanzania",
-                "organizer-country": "Tanzania"
-            },
-            "startDate": "2026-05-25T12:50:00Z",
-            "endDate": "2026-05-25T15:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-25T13:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Gunners FC v Stand United"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Championship League 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Tanzania"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_09_31_24_8026c024-ef40-410f-bb2a-7464958c1733/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aswa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779713340",
-                "decryption_keys": [
-                    "9b3332b90d03302fb094ff0806db0c3d:ce22e5dc2e8a9961294022f159f9518b"
-                ]
-            }
-        },
         {
             "id": "3bcf01e3-71c9-4ded-8c90-01c74b9d266e",
             "channelId": "fifa-tournaments",
