@@ -3,9 +3,9 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "05:30:20 PM 25-05-2026",
+        "last_update_time": "05:45:19 PM 25-05-2026",
         "total_live": 0,
-        "total_upcoming": 15
+        "total_upcoming": 13
     },
     "matches": [
         {
@@ -425,130 +425,6 @@
                     "kind": "title",
                     "p": 0,
                     "value": "Gambian Dutch Lions v Hawks"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Gambia GFF League 25/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "The Gambia"
-                }
-            ]
-        },
-        {
-            "id": "83486912-a705-48db-bbfe-c5beaaf16214",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "83486912-a705-48db-bbfe-c5beaaf16214",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Hart FC v TMT FA | Gambia GFF League 25/26",
-            "category": "livestream",
-            "urlSlug": "hart-fc-vs-tmt-fa",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/64/be/27/b9/64be27b9-9540-4e4f-8075-8bda82775782.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/75/39/80/6e/7539806e-5a99-482b-8ed2-9bdade4623ff.png",
-            "freeMode": "FREE_ADS",
-            "title": "Hart FC v TMT FA | Gambia GFF League 25/26",
-            "titleTemplateValues": {
-                "stadium": "Soma Mini Stadium",
-                "country": "The Gambia",
-                "team:hart-fc": "Hart FC",
-                "publisher": "MA | Gambia",
-                "stage": "Regular Season",
-                "competition": "Gambia GFF League",
-                "association": "The Gambia",
-                "publisher-channel": "MA | Gambia | GFF League 2025/2026 (Channel)",
-                "season": "Gambia GFF League 25/26",
-                "global-stage": "Round 26",
-                "city": "Soma",
-                "match": "Hart FC v TMT FA",
-                "team:tmt-fa": "TMT FA",
-                "video-type": "Live Streams",
-                "organizer": "The Gambia",
-                "organizer-country": "The Gambia"
-            },
-            "startDate": "2026-05-25T16:20:00Z",
-            "endDate": "2026-05-25T19:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-25T16:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "upcoming",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Hart FC v TMT FA"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Gambia GFF League 25/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "The Gambia"
-                }
-            ]
-        },
-        {
-            "id": "346d8a5a-bf49-4d80-a511-565cca952f77",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "346d8a5a-bf49-4d80-a511-565cca952f77",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Samger FC v Steve Biko | Gambia GFF League 25/26",
-            "category": "livestream",
-            "urlSlug": "samger-fc-vs-steve-biko-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/64/be/27/b9/64be27b9-9540-4e4f-8075-8bda82775782.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/80/c3/00/ba/80c300ba-0668-4024-b6d1-65c41327a7fa.png",
-            "freeMode": "FREE_ADS",
-            "title": "Samger FC v Steve Biko | Gambia GFF League 25/26",
-            "titleTemplateValues": {
-                "stadium": "Ousman Saho Football Field (LOSFF)",
-                "country": "The Gambia",
-                "team:samger-fc": "Samger FC",
-                "publisher": "MA | Gambia",
-                "stage": "Regular Season",
-                "competition": "Gambia GFF League",
-                "association": "The Gambia",
-                "city": "Old Yundum",
-                "match": "Samger FC v Steve Biko",
-                "team:steve-biko-fc": "Steve Biko",
-                "publisher-channel": "MA | Gambia | GFF League 2025/2026 (Channel)",
-                "season": "Gambia GFF League 25/26",
-                "global-stage": "Round 26",
-                "video-type": "Live Streams",
-                "organizer": "The Gambia",
-                "organizer-country": "The Gambia"
-            },
-            "startDate": "2026-05-25T16:20:00Z",
-            "endDate": "2026-05-25T19:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-25T16:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "upcoming",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Samger FC v Steve Biko"
                 },
                 {
                     "kind": "subtitle",
