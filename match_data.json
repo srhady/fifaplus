@@ -3,9 +3,9 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "02:45:17 PM 25-05-2026",
+        "last_update_time": "03:00:27 PM 25-05-2026",
         "total_live": 0,
-        "total_upcoming": 14
+        "total_upcoming": 15
     },
     "matches": [
         {
@@ -754,6 +754,69 @@
             ]
         },
         {
+            "id": "5a63be49-4218-49ad-9dc4-bda23f2925c7",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "5a63be49-4218-49ad-9dc4-bda23f2925c7",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "AS Bakaridjan v Djoliba AC | Ligue 1 Pro Orange 2025/26",
+            "category": "livestream",
+            "urlSlug": "as-bakaridjan-vs-djoliba-ac",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/ac/59/f0/5a/ac59f05a-c2ad-43a2-9106-de83c6792b2a.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/57/6a/47/d4/576a47d4-04fe-4a15-b861-964c45d64b20.png",
+            "freeMode": "FREE_ADS",
+            "title": "AS Bakaridjan v Djoliba AC | Ligue 1 Pro Orange 2025/26",
+            "titleTemplateValues": {
+                "competition": "Ligue 1 Pro Orange",
+                "city": "Bamako",
+                "association": "Mali",
+                "team:as-bakaridjan": "AS Bakaridjan",
+                "publisher": "MA | Mali",
+                "country": "Mali",
+                "global-stage": "Round 22",
+                "season": "Ligue 1 Pro Orange 2025/26",
+                "publisher-channel": "MA | Mali | Ligue 1 Pro Orange 2025/26",
+                "stage": "Regular Season",
+                "stadium": "Stade Ouezzin Coulibaly",
+                "match": "AS Bakaridjan v Djoliba AC",
+                "fifa-plus": "Mens (FIFA Plus)",
+                "team:djoliba-ac": "Djoliba AC",
+                "video-type": "Live Streams",
+                "organizer": "Mali",
+                "organizer-country": "Mali"
+            },
+            "startDate": "2026-05-25T16:20:00Z",
+            "endDate": "2026-05-25T19:00:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-25T16:30:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "AS Bakaridjan v Djoliba AC"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Ligue 1 Pro Orange 2025/26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 22"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Mali"
+                }
+            ]
+        },
+        {
             "id": "67f9d8cc-ed5d-4a94-8d72-cf879a82cb6a",
             "channelId": "fifa-tournaments",
             "catalogRedirectId": "67f9d8cc-ed5d-4a94-8d72-cf879a82cb6a",
@@ -780,6 +843,7 @@
                 "stage": "Regular Season",
                 "fifa-plus": "Mens (FIFA Plus)",
                 "stadium": "Salif Keita Stadium of Kati",
+                "video-type": "Live Streams",
                 "organizer": "Mali",
                 "organizer-country": "Mali"
             },
