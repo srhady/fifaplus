@@ -3,79 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "08:15:22 AM 25-05-2026",
-        "total_live": 2,
+        "last_update_time": "08:30:19 AM 25-05-2026",
+        "total_live": 1,
         "total_upcoming": 13
     },
     "matches": [
-        {
-            "id": "2427b880-027f-4325-81ef-a536c8762977",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "2427b880-027f-4325-81ef-a536c8762977",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Caiquetio v Brazil Juniors | Division Honor 2025-26",
-            "category": "livestream",
-            "urlSlug": "caiquetio-vs-brazil-juniors",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/22/1d/cb/0b/221dcb0b-c792-4d48-903e-b725b280c421.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/81/8a/24/32/818a2432-20b2-4692-b27e-efc3fbeca9f8.png",
-            "freeMode": "FREE_ADS",
-            "title": "Caiquetio v Brazil Juniors | Division Honor 2025-26",
-            "titleTemplateValues": {
-                "country": "Aruba",
-                "association": "Aruba",
-                "team:caiquetio": "Caiquetio",
-                "season": "Division Honor 2025-26",
-                "publisher": "MA | Aruba",
-                "competition": "Division Honor",
-                "match": "Caiquetio v Brazil Juniors",
-                "stage": "Division Honor Liga-Plata Pool B Round 2",
-                "stadium": "Sports Complex Guillermo Prospero Trinidad",
-                "publisher-channel": "MA | Aruba | Division Honor 2025-2026",
-                "team:brazil-juniors": "Brazil Juniors",
-                "global-stage": "Division Honor Plata",
-                "city": "Dakota",
-                "video-type": "Live Streams",
-                "organizer": "Aruba",
-                "organizer-country": "Aruba"
-            },
-            "startDate": "2026-05-24T23:50:00Z",
-            "endDate": "2026-05-25T02:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-25T00:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Caiquetio v Brazil Juniors"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Division Honor 2025-26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Division Honor Plata"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Aruba"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_12_59_25_0d7aa3bc-0a9a-45d2-bc3a-9c282f01c24f/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779666540",
-                "decryption_keys": [
-                    "6e3c0e32bf723fcf9a88ee2b2882ec7b:c2634eac2c90889083fd40cc7c4f7631"
-                ]
-            }
-        },
         {
             "id": "3c17d40b-0e81-46c5-8f52-6b0cef1a5893",
             "channelId": "fifa-tournaments",
