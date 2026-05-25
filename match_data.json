@@ -3,79 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "10:45:17 PM 25-05-2026",
-        "total_live": 11,
+        "last_update_time": "11:00:26 PM 25-05-2026",
+        "total_live": 10,
         "total_upcoming": 0
     },
     "matches": [
-        {
-            "id": "3bcf01e3-71c9-4ded-8c90-01c74b9d266e",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "3bcf01e3-71c9-4ded-8c90-01c74b9d266e",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Malisheva v Mitrovica | Siguria Superliga e Femrave 2026",
-            "category": "livestream",
-            "urlSlug": "kff-malisheva-vs-mitrovica",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/f9/9f/e4/16/f99fe416-c506-4889-98a0-7682087e5bce.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/aa/cc/c6/da/aaccc6da-5c60-4d5f-b664-c76d465a158f.png",
-            "freeMode": "FREE_ADS",
-            "title": "Malisheva v Mitrovica | Siguria Superliga e Femrave 2026",
-            "titleTemplateValues": {
-                "match": "Malisheva v Mitrovica",
-                "competition": "Superliga e Femrave",
-                "city": "Mitrovica",
-                "stage": "Regular Season",
-                "global-stage": "Round 10",
-                "association": "Kosovo",
-                "publisher": "MA | Kosovo",
-                "stadium": "Stadiumi Riza Lushta",
-                "team:mitrovica": "Mitrovica",
-                "publisher-channel": "MA | Kosovo | Siguria Superliga e Femrave 2026",
-                "season": "Siguria Superliga e Femrave 2026",
-                "country": "Kosovo",
-                "video-type": "Live Streams",
-                "team:kff-malisheva": "Malisheva",
-                "organizer": "Kosovo",
-                "organizer-country": "Kosovo"
-            },
-            "startDate": "2026-05-25T13:50:00Z",
-            "endDate": "2026-05-25T17:40:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-25T14:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Malisheva v Mitrovica"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Siguria Superliga e Femrave 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 10"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Kosovo"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_16_29_29_6b49a060-7765-4f8b-9fd9-50be7433bde3/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Asqi%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779716940",
-                "decryption_keys": [
-                    "69a552142b0539cb87d51cb5498d39b1:7189ce77fde0321a01bd0874b316d4ed"
-                ]
-            }
-        },
         {
             "id": "2373e13f-af64-4e23-8094-ef4ad26f9007",
             "channelId": "fifa-tournaments",
