@@ -1,23 +1,13 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 12:30:20 AM 26-05-2026
+#last update time: 12:45:16 AM 26-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/d9/a2/31/bb/d9a231bb-b706-49f3-9a20-1776affc2bc1.png" group-title="FIFA Live", AS Real v Derby Academie | Ligue 1 Pro Orange 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e3c573041698352c97883550d0b28240:b16656fe6b3933c93459259e5eaa3c03
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_21_07_58_10_4cb8718c-7e20-43bb-9f19-3fa85dd0cd24/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Abam%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779719940
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/d7/08/08/16/d7080816-1d0f-4ecf-8e45-6945d8a6a885.png" group-title="FIFA Live", BST Galaxy v Real de Banjul | Gambia GFF League 25/26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9c89adc748c838f882dc362c325517cc:eb18dff1616782371e5b43cf36a472b3
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_13_38_38_39032d01-d394-41cc-9324-6f3ea3da3ee0/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779725940
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/5e/47/a5/0c/5e47a50c-4184-43d2-a386-7505e1448125.png" group-title="FIFA Live", Team Rhino v Falcons | Gambia GFF League 25/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b649ff7be71e366f81fbfac5107074f4:076f8adc9f333e852414b57167fb0958
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_13_38_35_2f0d3a9c-b9cc-4a4e-a2c3-d43c70672f9b/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779725940
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/95/26/7c/91/95267c91-31f2-4ffe-86ce-952458959269.png" group-title="FIFA Live", FC Kallon v Wilberforce Strikers FC | Leone Rock Premier League 2025-26
 #KODIPROP:inputstream.adaptive.license_type=clearkey

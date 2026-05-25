@@ -3,80 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "12:30:20 AM 26-05-2026",
-        "total_live": 11,
+        "last_update_time": "12:45:16 AM 26-05-2026",
+        "total_live": 9,
         "total_upcoming": 5
     },
     "matches": [
-        {
-            "id": "5f2a9ae5-6998-41bb-9ead-d38ebb76b3d5",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "5f2a9ae5-6998-41bb-9ead-d38ebb76b3d5",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "AS Real v Derby Academie | Ligue 1 Pro Orange 2025/26",
-            "category": "livestream",
-            "urlSlug": "as-real-vs-derby-academie",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/34/83/cd/27/3483cd27-4676-4115-a7fe-d9172b8a2900.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/d9/a2/31/bb/d9a231bb-b706-49f3-9a20-1776affc2bc1.png",
-            "freeMode": "FREE_ADS",
-            "title": "AS Real v Derby Academie | Ligue 1 Pro Orange 2025/26",
-            "titleTemplateValues": {
-                "competition": "Ligue 1 Pro Orange",
-                "city": "Bamako",
-                "association": "Mali",
-                "team:as-real": "AS Real",
-                "team:derby-academie": "Derby Academie",
-                "publisher": "MA | Mali",
-                "country": "Mali",
-                "global-stage": "Round 22",
-                "season": "Ligue 1 Pro Orange 2025/26",
-                "publisher-channel": "MA | Mali | Ligue 1 Pro Orange 2025/26",
-                "stage": "Regular Season",
-                "stadium": "Stade Ouezzin Coulibaly",
-                "fifa-plus": "Mens (FIFA Plus)",
-                "match": "AS Real v Derby Academie",
-                "video-type": "Live Streams",
-                "organizer": "Mali",
-                "organizer-country": "Mali"
-            },
-            "startDate": "2026-05-25T14:40:00Z",
-            "endDate": "2026-05-25T21:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-25T18:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "AS Real v Derby Academie"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Ligue 1 Pro Orange 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 22"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Mali"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_21_07_58_10_4cb8718c-7e20-43bb-9f19-3fa85dd0cd24/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Abam%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779719940",
-                "decryption_keys": [
-                    "e3c573041698352c97883550d0b28240:b16656fe6b3933c93459259e5eaa3c03"
-                ]
-            }
-        },
         {
             "id": "0fa80eee-c371-4d6f-9b4e-74eff500e487",
             "channelId": "fifa-tournaments",
@@ -142,74 +73,6 @@
                 "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_13_38_38_39032d01-d394-41cc-9324-6f3ea3da3ee0/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779725940",
                 "decryption_keys": [
                     "9c89adc748c838f882dc362c325517cc:eb18dff1616782371e5b43cf36a472b3"
-                ]
-            }
-        },
-        {
-            "id": "ad9978ab-f67e-4093-8f13-16d9a75237de",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "ad9978ab-f67e-4093-8f13-16d9a75237de",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Team Rhino v Falcons | Gambia GFF League 25/26",
-            "category": "livestream",
-            "urlSlug": "team-rhino-fc-vs-falcons-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/64/be/27/b9/64be27b9-9540-4e4f-8075-8bda82775782.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/5e/47/a5/0c/5e47a50c-4184-43d2-a386-7505e1448125.png",
-            "freeMode": "FREE_ADS",
-            "title": "Team Rhino v Falcons | Gambia GFF League 25/26",
-            "titleTemplateValues": {
-                "country": "The Gambia",
-                "match": "Team Rhino v Falcons",
-                "publisher": "MA | Gambia",
-                "stage": "Regular Season",
-                "team:team-rhino-fc": "Team Rhino",
-                "competition": "Gambia GFF League",
-                "association": "The Gambia",
-                "publisher-channel": "MA | Gambia | GFF League 2025/2026 (Channel)",
-                "team:falcons-fc": "Falcons",
-                "stadium": "Serrekunda East Mini Stadium (SK East)",
-                "season": "Gambia GFF League 25/26",
-                "city": "Serrekunda",
-                "global-stage": "Round 26",
-                "video-type": "Live Streams",
-                "organizer": "The Gambia",
-                "organizer-country": "The Gambia"
-            },
-            "startDate": "2026-05-25T16:20:00Z",
-            "endDate": "2026-05-25T19:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-25T16:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Team Rhino v Falcons"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Gambia GFF League 25/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "The Gambia"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_13_38_35_2f0d3a9c-b9cc-4a4e-a2c3-d43c70672f9b/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779725940",
-                "decryption_keys": [
-                    "b649ff7be71e366f81fbfac5107074f4:076f8adc9f333e852414b57167fb0958"
                 ]
             }
         },
@@ -722,7 +585,7 @@
                 "organizer": "Mali",
                 "organizer-country": "Mali"
             },
-            "startDate": "2026-05-25T18:30:00Z",
+            "startDate": "2026-05-25T18:28:00Z",
             "endDate": "2026-05-25T21:00:00Z",
             "ctxMetadata": {
                 "kickOffTime": "2026-05-25T18:30:00Z"
