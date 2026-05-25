@@ -3,8 +3,8 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "06:00:25 AM 25-05-2026",
-        "total_live": 6,
+        "last_update_time": "06:15:17 AM 25-05-2026",
+        "total_live": 5,
         "total_upcoming": 14
     },
     "matches": [
@@ -73,74 +73,6 @@
                 "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_10_28_49_efffb2ee-7085-4371-8927-94ac012efaa0/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779659340",
                 "decryption_keys": [
                     "34cb873b63e833a5a2be7e9af85e5c7d:d10370b0df3dc6a480c97c7801f1bcf8"
-                ]
-            }
-        },
-        {
-            "id": "36cdd073-fc41-42f3-94da-765b30718fe7",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "36cdd073-fc41-42f3-94da-765b30718fe7",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Estrella v River Plate Aruba | Division Honor 2025-26",
-            "category": "livestream",
-            "urlSlug": "estrella-vs-riverplate-aruba",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/22/1d/cb/0b/221dcb0b-c792-4d48-903e-b725b280c421.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/7b/d4/dc/09/7bd4dc09-f7bd-45b6-ba5a-71877983e5ce.png",
-            "freeMode": "FREE_ADS",
-            "title": "Estrella v River Plate Aruba | Division Honor 2025-26",
-            "titleTemplateValues": {
-                "country": "Aruba",
-                "association": "Aruba",
-                "season": "Division Honor 2025-26",
-                "publisher": "MA | Aruba",
-                "competition": "Division Honor",
-                "team:estrella": "Estrella",
-                "stage": "Division Honor Liga-Plata Pool B Round 2",
-                "stadium": "Sports Complex Guillermo Prospero Trinidad",
-                "publisher-channel": "MA | Aruba | Division Honor 2025-2026",
-                "match": "Estrella v River Plate Aruba",
-                "global-stage": "Division Honor Plata",
-                "team:riverplate-aruba": "River Plate Aruba",
-                "city": "Dakota",
-                "video-type": "Live Streams",
-                "organizer": "Aruba",
-                "organizer-country": "Aruba"
-            },
-            "startDate": "2026-05-24T21:59:00Z",
-            "endDate": "2026-05-25T00:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-24T22:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Estrella v River Plate Aruba"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Division Honor 2025-26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Division Honor Plata"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Aruba"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_12_59_20_d981024d-cdbc-4758-8f54-12c389a678cf/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779659880",
-                "decryption_keys": [
-                    "d677577e91dc349baf7245a184b5d930:34141d734ad6b0748742818f0a237869"
                 ]
             }
         },
