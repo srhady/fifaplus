@@ -1,7 +1,7 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 06:30:20 AM 25-05-2026
+#last update time: 06:45:18 AM 25-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/ef/98/82/b1/ef9882b1-3509-4c83-b264-0034d89c5cb2.png" group-title="FIFA Live", Paradise FC v Brittons Hill FC | BFA Premier League 2026
@@ -23,3 +23,8 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_22_12_54_39_f68d0d8a-daf6-4784-ada1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6e3c0e32bf723fcf9a88ee2b2882ec7b:c2634eac2c90889083fd40cc7c4f7631
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_12_59_25_0d7aa3bc-0a9a-45d2-bc3a-9c282f01c24f/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779666540
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/40/4f/f0/87/404ff087-7730-422b-9b80-77db01f2644f.png" group-title="FIFA Live", Kickstart Rush v Weymouth Wales | BFA Premier League 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ba4fedfb9ae138ca9498f8132132c365:f52c7cbf23a2c6bd3e1ed6b6be23fbba
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_09_57_44_264d365e-6cb4-48af-bcf8-368144678275/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779669120

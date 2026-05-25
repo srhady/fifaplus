@@ -3,9 +3,9 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "06:30:20 AM 25-05-2026",
-        "total_live": 4,
-        "total_upcoming": 14
+        "last_update_time": "06:45:18 AM 25-05-2026",
+        "total_live": 5,
+        "total_upcoming": 13
     },
     "matches": [
         {
@@ -27,6 +27,7 @@
                 "global-stage": "Round 16",
                 "team:paradise-fc": "Paradise FC",
                 "association": "Barbados",
+                "video-type": "Full Match Replays",
                 "publisher": "MA | Barbados",
                 "team:brittons-hill-fc": "Brittons Hill FC",
                 "stage": "Regular Season",
@@ -34,7 +35,6 @@
                 "competition": "BFA Premier League",
                 "country": "Barbados",
                 "season": "BFA Premier League 2026",
-                "video-type": "Live Streams",
                 "organizer": "Barbados",
                 "organizer-country": "Barbados"
             },
@@ -310,7 +310,7 @@
                 "organizer": "Barbados",
                 "organizer-country": "Barbados"
             },
-            "startDate": "2026-05-25T00:35:00Z",
+            "startDate": "2026-05-25T00:33:00Z",
             "endDate": "2026-05-25T03:15:00Z",
             "ctxMetadata": {
                 "kickOffTime": "2026-05-25T00:45:00Z"
@@ -318,7 +318,7 @@
             "isRegistrationRequired": false,
             "shownPrices": null,
             "shownPrice": null,
-            "status": "upcoming",
+            "status": "started",
             "template": [
                 {
                     "kind": "title",
@@ -340,7 +340,13 @@
                     "p": 1,
                     "value": "Barbados"
                 }
-            ]
+            ],
+            "stream_data": {
+                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_09_57_44_264d365e-6cb4-48af-bcf8-368144678275/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779669120",
+                "decryption_keys": [
+                    "ba4fedfb9ae138ca9498f8132132c365:f52c7cbf23a2c6bd3e1ed6b6be23fbba"
+                ]
+            }
         },
         {
             "id": "2b77a60b-7501-4f49-8d84-e1a2ec2c2736",
