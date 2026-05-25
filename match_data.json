@@ -3,9 +3,9 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "05:45:19 PM 25-05-2026",
+        "last_update_time": "06:00:30 PM 25-05-2026",
         "total_live": 0,
-        "total_upcoming": 13
+        "total_upcoming": 12
     },
     "matches": [
         {
@@ -363,68 +363,6 @@
                     "kind": "title",
                     "p": 0,
                     "value": "BST Galaxy v Real de Banjul"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Gambia GFF League 25/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "The Gambia"
-                }
-            ]
-        },
-        {
-            "id": "7fabde1f-c294-47ca-9954-7ce37a9bda69",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "7fabde1f-c294-47ca-9954-7ce37a9bda69",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Gambian Dutch Lions v Hawks | Gambia GFF League 25/26",
-            "category": "livestream",
-            "urlSlug": "gambian-dutch-lions-vs-hawks-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/64/be/27/b9/64be27b9-9540-4e4f-8075-8bda82775782.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/53/39/90/fe/533990fe-36ba-4138-90f6-972b838c3643.png",
-            "freeMode": "FREE_ADS",
-            "title": "Gambian Dutch Lions v Hawks | Gambia GFF League 25/26",
-            "titleTemplateValues": {
-                "country": "The Gambia",
-                "stadium": "Dimphy’s Memorial Football Complex",
-                "team:hawks-fc": "Hawks",
-                "publisher": "MA | Gambia",
-                "stage": "Regular Season",
-                "competition": "Gambia GFF League",
-                "association": "The Gambia",
-                "publisher-channel": "MA | Gambia | GFF League 2025/2026 (Channel)",
-                "season": "Gambia GFF League 25/26",
-                "city": "Faraba",
-                "team:gambian-dutch-lions": "Gambian Dutch Lions",
-                "global-stage": "Round 26",
-                "match": "Gambian Dutch Lions v Hawks",
-                "video-type": "Live Streams",
-                "organizer": "The Gambia",
-                "organizer-country": "The Gambia"
-            },
-            "startDate": "2026-05-25T16:20:00Z",
-            "endDate": "2026-05-25T19:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-25T16:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "upcoming",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Gambian Dutch Lions v Hawks"
                 },
                 {
                     "kind": "subtitle",
