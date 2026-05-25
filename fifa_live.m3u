@@ -1,13 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 06:15:17 AM 25-05-2026
+#last update time: 06:30:20 AM 25-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/50/2f/1e/6c/502f1e6c-5893-4d6b-af22-48279ef29af9.png" group-title="FIFA Live", Lymers FC v West End Predators  | Anguilla Senior Men's League 2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=34cb873b63e833a5a2be7e9af85e5c7d:d10370b0df3dc6a480c97c7801f1bcf8
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_10_28_49_efffb2ee-7085-4371-8927-94ac012efaa0/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779659340
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/ef/98/82/b1/ef9882b1-3509-4c83-b264-0034d89c5cb2.png" group-title="FIFA Live", Paradise FC v Brittons Hill FC | BFA Premier League 2026
 #KODIPROP:inputstream.adaptive.license_type=clearkey
