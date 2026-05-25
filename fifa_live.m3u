@@ -1,10 +1,15 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 07:45:17 PM 25-05-2026
+#last update time: 08:00:25 PM 25-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/40/23/aa/03/4023aa03-8f36-4fb2-adee-a4ac5e107a80.png" group-title="FIFA Live", Gunners FC v Stand United | Championship League 2025/26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9b3332b90d03302fb094ff0806db0c3d:ce22e5dc2e8a9961294022f159f9518b
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_09_31_24_8026c024-ef40-410f-bb2a-7464958c1733/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aswa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779713340
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/aa/cc/c6/da/aaccc6da-5c60-4d5f-b664-c76d465a158f.png" group-title="FIFA Live", Malisheva v Mitrovica | Siguria Superliga e Femrave 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69a552142b0539cb87d51cb5498d39b1:7189ce77fde0321a01bd0874b316d4ed
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_16_29_29_6b49a060-7765-4f8b-9fd9-50be7433bde3/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Asqi%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779716940
