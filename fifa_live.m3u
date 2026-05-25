@@ -1,13 +1,13 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 11:45:19 PM 25-05-2026
+#last update time: 12:00:27 AM 26-05-2026
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/18/a7/c4/dc/18a7c4dc-c83a-489f-8434-9b7d35664307.png" group-title="FIFA Live", AC Barracuda v Unisport FC | D1 Lonato 2025/26
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/d9/a2/31/bb/d9a231bb-b706-49f3-9a20-1776affc2bc1.png" group-title="FIFA Live", AS Real v Derby Academie | Ligue 1 Pro Orange 2025/26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b39c92790cc93ef19700823b93171f7f:f69f9f3120a4ae1d4f54b0ca5e1b5b6d
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_19_13_22_00_5650b362-e90f-4c75-aabc-7e470ab5bda7/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779722340
+#KODIPROP:inputstream.adaptive.license_key=e3c573041698352c97883550d0b28240:b16656fe6b3933c93459259e5eaa3c03
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_21_07_58_10_4cb8718c-7e20-43bb-9f19-3fa85dd0cd24/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Abam%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779719940
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/d7/08/08/16/d7080816-1d0f-4ecf-8e45-6945d8a6a885.png" group-title="FIFA Live", BST Galaxy v Real de Banjul | Gambia GFF League 25/26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
