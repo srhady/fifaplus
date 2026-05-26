@@ -3,9 +3,9 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "11:45:17 PM 26-05-2026",
+        "last_update_time": "12:00:26 AM 27-05-2026",
         "total_live": 1,
-        "total_upcoming": 0
+        "total_upcoming": 6
     },
     "matches": [
         {
@@ -75,6 +75,378 @@
                     "2e20c052bc363755b323136ffd34b5bb:e8faeee7cf52a2d540929dde4c31d293"
                 ]
             }
+        },
+        {
+            "id": "627a899b-d74b-46cb-bb03-f6b9ab886322",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "627a899b-d74b-46cb-bb03-f6b9ab886322",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Attackers FC v Eagle Claw FC | Anguilla Senior Men's League 2026",
+            "category": "livestream",
+            "urlSlug": "attackers-fc-vs-eagle-claw-fc",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/dd/e9/e6/85/dde9e685-9b37-4e43-be25-92b494a4eba8.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/9f/d2/07/6c/9fd2076c-02e2-4aa9-b5a4-d2125efcb4e8.png",
+            "freeMode": "FREE_ADS",
+            "title": "Attackers FC v Eagle Claw FC | Anguilla Senior Men's League 2026",
+            "titleTemplateValues": {
+                "stage": "Regular Season",
+                "association": "Anguilla",
+                "global-stage": "Round 13",
+                "team:attackers-fc": "Attackers FC",
+                "competition": "Senior Men's League",
+                "stadium": "Raymond E. Guishard Stadium",
+                "publisher-channel": "MA | Anguilla | Senior Men's League 2026 (Channel)",
+                "season": "Anguilla Senior Men's League 2026",
+                "match": "Attackers FC v Eagle Claw FC",
+                "team:eagle-claw-fc": "Eagle Claw FC",
+                "country": "Anguilla",
+                "city": "The Valley",
+                "publisher": "MA | Anguilla",
+                "video-type": "Live Streams",
+                "organizer": "Anguilla",
+                "organizer-country": "Anguilla"
+            },
+            "startDate": "2026-05-26T21:50:00Z",
+            "endDate": "2026-05-27T00:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-26T22:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Attackers FC v Eagle Claw FC"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Anguilla Senior Men's League 2026"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 13"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Anguilla"
+                }
+            ]
+        },
+        {
+            "id": "243d568a-31c6-4ed2-ac0e-924a129e153f",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "243d568a-31c6-4ed2-ac0e-924a129e153f",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "UWI Blackbirds v St.Andrew Lions FC | BFA Premier League 2026",
+            "category": "livestream",
+            "urlSlug": "uwi-blackbirds-vs-st-andrew-lions-fc",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/f9/fc/5b/ae/f9fc5bae-7cbc-4802-a3c3-a6a0be479692.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/6a/08/4e/f2/6a084ef2-bc7b-4065-ab84-ac620635316c.png",
+            "freeMode": "FREE_ADS",
+            "title": "UWI Blackbirds v St.Andrew Lions FC | BFA Premier League 2026",
+            "titleTemplateValues": {
+                "publisher-channel": "MA | Barbados | BFA Premier League 2026 (Channel)",
+                "stadium": "BFA Technical Centre",
+                "association": "Barbados",
+                "team:st-andrew-lions-fc": "St.Andrew Lions FC",
+                "publisher": "MA | Barbados",
+                "global-stage": "Round 18",
+                "stage": "Regular Season",
+                "match": "UWI Blackbirds v St.Andrew Lions FC",
+                "city": "Saint Michael",
+                "competition": "BFA Premier League",
+                "country": "Barbados",
+                "season": "BFA Premier League 2026",
+                "team:uwi-blackbirds": "UWI Blackbirds",
+                "video-type": "Live Streams",
+                "organizer": "Barbados",
+                "organizer-country": "Barbados"
+            },
+            "startDate": "2026-05-26T22:50:00Z",
+            "endDate": "2026-05-27T01:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-26T23:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "UWI Blackbirds v St.Andrew Lions FC"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "BFA Premier League 2026"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 18"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Barbados"
+                }
+            ]
+        },
+        {
+            "id": "098a599f-813b-4628-810e-6b49f0ee324b",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "098a599f-813b-4628-810e-6b49f0ee324b",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Mighty Avengers v Middleham United FC | DFA Premier League 2026",
+            "category": "livestream",
+            "urlSlug": "mighty-avengers-vs-middleham-united-fc",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/cd/54/de/4a/cd54de4a-9ed2-47df-822e-cc0094b8e336.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/40/ed/12/72/40ed1272-1b4c-4479-8058-33a46ab16cba.png",
+            "freeMode": "FREE_ADS",
+            "title": "Mighty Avengers v Middleham United FC | DFA Premier League 2026",
+            "titleTemplateValues": {
+                "global-stage": "Round 5",
+                "match": "Mighty Avengers v Middleham United FC",
+                "season": "DFA Premier League 2026",
+                "country": "Dominica",
+                "competition": "DFA Premier League",
+                "stadium": "DFA Technical Centre",
+                "stage": "Regular Season",
+                "team:mighty-avengers": "Mighty Avengers",
+                "publisher": "MA | Dominica",
+                "city": "Roseau ",
+                "publisher-channel": "MA | Dominica | DFA Premier League 2026",
+                "team:middleham-united-fc": "Middleham United FC",
+                "association": "Dominica",
+                "video-type": "Live Streams",
+                "organizer": "Dominica",
+                "organizer-country": "Dominica"
+            },
+            "startDate": "2026-05-26T22:50:00Z",
+            "endDate": "2026-05-27T01:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-26T23:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Mighty Avengers v Middleham United FC"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "DFA Premier League 2026"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 5"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Dominica"
+                }
+            ]
+        },
+        {
+            "id": "1019860e-9bb4-48ff-ac19-74cc02602899",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "1019860e-9bb4-48ff-ac19-74cc02602899",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Uprising FC v East Enders FC | Anguilla Senior Men's League 2026",
+            "category": "livestream",
+            "urlSlug": "uprising-fc-vs-east-enders-fc",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/dd/e9/e6/85/dde9e685-9b37-4e43-be25-92b494a4eba8.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/59/4a/9a/27/594a9a27-3856-46fd-a745-0c6fa3dcd601.png",
+            "freeMode": "FREE_ADS",
+            "title": "Uprising FC v East Enders FC | Anguilla Senior Men's League 2026",
+            "titleTemplateValues": {
+                "stage": "Regular Season",
+                "association": "Anguilla",
+                "team:east-enders-fc": "East Enders FC",
+                "team:uprising-fc": "Uprising FC",
+                "global-stage": "Round 13",
+                "competition": "Senior Men's League",
+                "stadium": "Raymond E. Guishard Stadium",
+                "publisher-channel": "MA | Anguilla | Senior Men's League 2026 (Channel)",
+                "season": "Anguilla Senior Men's League 2026",
+                "country": "Anguilla",
+                "city": "The Valley",
+                "publisher": "MA | Anguilla",
+                "video-type": "Live Streams",
+                "match": "Uprising FC v East Enders FC",
+                "organizer": "Anguilla",
+                "organizer-country": "Anguilla"
+            },
+            "startDate": "2026-05-26T23:50:00Z",
+            "endDate": "2026-05-27T02:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-27T00:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Uprising FC v East Enders FC"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Anguilla Senior Men's League 2026"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 13"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Anguilla"
+                }
+            ]
+        },
+        {
+            "id": "917a6e71-909f-48f0-9679-64bd311e0053",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "917a6e71-909f-48f0-9679-64bd311e0053",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Unistars v Jong Aruba | Division Honor 2025-26",
+            "category": "livestream",
+            "urlSlug": "unistars-vs-jong-aruba",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/22/1d/cb/0b/221dcb0b-c792-4d48-903e-b725b280c421.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/db/c7/91/23/dbc79123-68a2-40ab-ad81-ae7f1bad1ce7.png",
+            "freeMode": "FREE_ADS",
+            "title": "Unistars v Jong Aruba | Division Honor 2025-26",
+            "titleTemplateValues": {
+                "country": "Aruba",
+                "association": "Aruba",
+                "team:unistars": "Unistars",
+                "match": "Unistars v Jong Aruba",
+                "season": "Division Honor 2025-26",
+                "publisher": "MA | Aruba",
+                "competition": "Division Honor",
+                "stage": "Division Honor Liga-Plata Pool B Round 2",
+                "stadium": "Sports Complex Guillermo Prospero Trinidad",
+                "publisher-channel": "MA | Aruba | Division Honor 2025-2026",
+                "global-stage": "Division Honor Plata",
+                "team:jong-aruba": "Jong Aruba",
+                "city": "Dakota",
+                "video-type": "Live Streams",
+                "organizer": "Aruba",
+                "organizer-country": "Aruba"
+            },
+            "startDate": "2026-05-27T00:20:00Z",
+            "endDate": "2026-05-27T03:00:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-27T00:30:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Unistars v Jong Aruba"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "Division Honor 2025-26"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Division Honor Plata"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Aruba"
+                }
+            ]
+        },
+        {
+            "id": "a3a22f0d-d3dd-44b8-a7a4-b5cb043ae5da",
+            "channelId": "fifa-tournaments",
+            "catalogRedirectId": "a3a22f0d-d3dd-44b8-a7a4-b5cb043ae5da",
+            "catalogRedirectType": "EVENT",
+            "standardTitle": "Wotton FC v Bagatelle FC | BFA Premier League 2026",
+            "category": "livestream",
+            "urlSlug": "wotton-fc-vs-bagatelle-fc",
+            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/f9/fc/5b/ae/f9fc5bae-7cbc-4802-a3c3-a6a0be479692.png",
+            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/62/2d/48/89/622d4889-80b4-4284-aeda-de7b4eb0e0e5.png",
+            "freeMode": "FREE_ADS",
+            "title": "Wotton FC v Bagatelle FC | BFA Premier League 2026",
+            "titleTemplateValues": {
+                "publisher-channel": "MA | Barbados | BFA Premier League 2026 (Channel)",
+                "stadium": "BFA Technical Centre",
+                "association": "Barbados",
+                "match": "Wotton FC v Bagatelle FC",
+                "publisher": "MA | Barbados",
+                "team:wotton-fc": "Wotton FC",
+                "global-stage": "Round 18",
+                "stage": "Regular Season",
+                "team:bagatelle-fc": "Bagatelle FC",
+                "city": "Saint Michael",
+                "competition": "BFA Premier League",
+                "country": "Barbados",
+                "season": "BFA Premier League 2026",
+                "video-type": "Live Streams",
+                "organizer": "Barbados",
+                "organizer-country": "Barbados"
+            },
+            "startDate": "2026-05-27T00:50:00Z",
+            "endDate": "2026-05-27T03:30:00Z",
+            "ctxMetadata": {
+                "kickOffTime": "2026-05-27T01:00:00Z"
+            },
+            "isRegistrationRequired": false,
+            "shownPrices": null,
+            "shownPrice": null,
+            "status": "upcoming",
+            "template": [
+                {
+                    "kind": "title",
+                    "p": 0,
+                    "value": "Wotton FC v Bagatelle FC"
+                },
+                {
+                    "kind": "subtitle",
+                    "p": 0,
+                    "value": "BFA Premier League 2026"
+                },
+                {
+                    "kind": "caption",
+                    "p": 0,
+                    "value": "Round 18"
+                },
+                {
+                    "kind": "caption",
+                    "p": 1,
+                    "value": "Barbados"
+                }
+            ]
         }
     ]
 }
