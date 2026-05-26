@@ -3,80 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "09:15:22 PM 26-05-2026",
-        "total_live": 1,
+        "last_update_time": "09:30:25 PM 26-05-2026",
+        "total_live": 0,
         "total_upcoming": 1
     },
     "matches": [
-        {
-            "id": "aaba478e-11c7-4e14-b24f-9053f4912b18",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "aaba478e-11c7-4e14-b24f-9053f4912b18",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Sumgait FC v Liman UFC | Azerbaijan Women's League 2025/26",
-            "category": "livestream",
-            "urlSlug": "sumgait-fc-vs-liman-ufc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/63/e4/3a/81/63e43a81-0179-4338-8ef9-a1a12bb023f6.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/18/26/23/75/18262375-1703-4b27-9138-b48a7497282f.png",
-            "freeMode": "FREE_ADS",
-            "title": "Sumgait FC v Liman UFC | Azerbaijan Women's League 2025/26",
-            "titleTemplateValues": {
-                "publisher-channel": "MA | Azerbaijan | Azerbaijan Women's League 2025/26 (Channel)",
-                "country": "Azerbaijan",
-                "city": "Sumgayit",
-                "match": "Sumgait FC v Liman UFC",
-                "association": "Azerbaijan",
-                "competition": "Azerbaijan Women's League",
-                "organizer-country": "Azerbaijan",
-                "global-stage": "Round 22",
-                "stage": "Regular Season",
-                "team:liman-ufc": "Liman UFC",
-                "organizer": "Azerbaijan",
-                "team:sumgait-fc": "Sumgait FC",
-                "stadium": "SOCAR Polymer Arena",
-                "fifa-plus": "Womens (FIFA Plus)",
-                "season": "Azerbaijan Women's League 2025/26",
-                "publisher": "MA | Azerbaijan",
-                "video-type": "Live Streams"
-            },
-            "startDate": "2026-05-26T12:50:00Z",
-            "endDate": "2026-05-26T15:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-26T13:10:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Sumgait FC v Liman UFC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Azerbaijan Women's League 2025/26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 22"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Azerbaijan"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_25_10_12_19_7a0402c7-707b-4d10-b7e7-80bb90d37fda/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779799740",
-                "decryption_keys": [
-                    "d720b256b9a931f8b9ecb10d25836012:48a6a6054db6aad0191cd032a8cb4aea"
-                ]
-            }
-        },
         {
             "id": "fab1be6e-7d6a-4345-a120-512806d989bb",
             "channelId": "fifa-tournaments",
