@@ -1,10 +1,5 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 08:30:23 AM 26-05-2026
+#last update time: 08:45:17 AM 26-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/25/9f/c0/e4/259fc0e4-de20-4fd2-89b3-0b08b44bc97c.png" group-title="FIFA Live", Estudiantes v Real Koyari | Division Honor 2025-26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae9dedafab4b38d2a662e9ce2835dcd4:0533cce66257457d384521629878c1cc
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_12_59_29_99a0b9ea-8c79-44b2-b7d8-18de8cf7fbcc/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779754740

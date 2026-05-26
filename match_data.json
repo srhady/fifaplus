@@ -3,79 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "08:30:23 AM 26-05-2026",
-        "total_live": 1,
+        "last_update_time": "08:45:17 AM 26-05-2026",
+        "total_live": 0,
         "total_upcoming": 2
     },
     "matches": [
-        {
-            "id": "c13caba3-88c7-41d9-8232-fac031d15523",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "c13caba3-88c7-41d9-8232-fac031d15523",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Estudiantes v Real Koyari | Division Honor 2025-26",
-            "category": "livestream",
-            "urlSlug": "estudiantes-aruba-vs-real-koyari",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/22/1d/cb/0b/221dcb0b-c792-4d48-903e-b725b280c421.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/25/9f/c0/e4/259fc0e4-de20-4fd2-89b3-0b08b44bc97c.png",
-            "freeMode": "FREE_ADS",
-            "title": "Estudiantes v Real Koyari | Division Honor 2025-26",
-            "titleTemplateValues": {
-                "stage": "Division Honor Liga-Plata Pool A Round 2",
-                "team:real-koyari": "Real Koyari",
-                "country": "Aruba",
-                "association": "Aruba",
-                "team:estudiantes-aruba": "Estudiantes",
-                "season": "Division Honor 2025-26",
-                "publisher": "MA | Aruba",
-                "competition": "Division Honor",
-                "match": "Estudiantes v Real Koyari",
-                "stadium": "Sports Complex Guillermo Prospero Trinidad",
-                "publisher-channel": "MA | Aruba | Division Honor 2025-2026",
-                "global-stage": "Division Honor Plata",
-                "city": "Dakota",
-                "video-type": "Live Streams",
-                "organizer": "Aruba",
-                "organizer-country": "Aruba"
-            },
-            "startDate": "2026-05-26T00:20:00Z",
-            "endDate": "2026-05-26T03:00:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-26T00:30:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Estudiantes v Real Koyari"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Division Honor 2025-26"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Division Honor Plata"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Aruba"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_12_59_29_99a0b9ea-8c79-44b2-b7d8-18de8cf7fbcc/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779754740",
-                "decryption_keys": [
-                    "ae9dedafab4b38d2a662e9ce2835dcd4:0533cce66257457d384521629878c1cc"
-                ]
-            }
-        },
         {
             "id": "aaba478e-11c7-4e14-b24f-9053f4912b18",
             "channelId": "fifa-tournaments",
