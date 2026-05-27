@@ -1,7 +1,7 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 06:00:24 AM 27-05-2026
+#last update time: 06:15:17 AM 27-05-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/9f/d2/07/6c/9fd2076c-02e2-4aa9-b5a4-d2125efcb4e8.png" group-title="FIFA Live", Attackers FC v Eagle Claw FC | Anguilla Senior Men's League 2026
@@ -18,3 +18,8 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_10_07_30_13ad50e8-149b-408b-8cca
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2e76530233033499986e9d8ce057bd4d:4cdca8d5ac457f1c88524b17dd6342b3
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_13_07_36_b68101cf-49af-496c-9d9d-6f76b7643bf1/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779835740
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/59/4a/9a/27/594a9a27-3856-46fd-a745-0c6fa3dcd601.png" group-title="FIFA Live", Uprising FC v East Enders FC | Anguilla Senior Men's League 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=74a209f0ebfa36199168e6925101151b:1ae5f0565680cbc16f6a46781cd05672
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_10_28_56_28e78074-c3e5-483e-b26c-8f5ea643236d/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779840240
