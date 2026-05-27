@@ -3,79 +3,11 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "08:15:18 AM 27-05-2026",
-        "total_live": 3,
+        "last_update_time": "08:30:20 AM 27-05-2026",
+        "total_live": 2,
         "total_upcoming": 0
     },
     "matches": [
-        {
-            "id": "1019860e-9bb4-48ff-ac19-74cc02602899",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "1019860e-9bb4-48ff-ac19-74cc02602899",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Uprising FC v East Enders FC | Anguilla Senior Men's League 2026",
-            "category": "livestream",
-            "urlSlug": "uprising-fc-vs-east-enders-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/dd/e9/e6/85/dde9e685-9b37-4e43-be25-92b494a4eba8.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/59/4a/9a/27/594a9a27-3856-46fd-a745-0c6fa3dcd601.png",
-            "freeMode": "FREE_ADS",
-            "title": "Uprising FC v East Enders FC | Anguilla Senior Men's League 2026",
-            "titleTemplateValues": {
-                "stage": "Regular Season",
-                "association": "Anguilla",
-                "team:east-enders-fc": "East Enders FC",
-                "team:uprising-fc": "Uprising FC",
-                "global-stage": "Round 13",
-                "competition": "Senior Men's League",
-                "stadium": "Raymond E. Guishard Stadium",
-                "publisher-channel": "MA | Anguilla | Senior Men's League 2026 (Channel)",
-                "season": "Anguilla Senior Men's League 2026",
-                "country": "Anguilla",
-                "city": "The Valley",
-                "publisher": "MA | Anguilla",
-                "video-type": "Live Streams",
-                "match": "Uprising FC v East Enders FC",
-                "organizer": "Anguilla",
-                "organizer-country": "Anguilla"
-            },
-            "startDate": "2026-05-27T00:05:00Z",
-            "endDate": "2026-05-27T02:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-27T00:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Uprising FC v East Enders FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "Anguilla Senior Men's League 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 13"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Anguilla"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_20_10_28_56_28e78074-c3e5-483e-b26c-8f5ea643236d/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779840240",
-                "decryption_keys": [
-                    "74a209f0ebfa36199168e6925101151b:1ae5f0565680cbc16f6a46781cd05672"
-                ]
-            }
-        },
         {
             "id": "917a6e71-909f-48f0-9679-64bd311e0053",
             "channelId": "fifa-tournaments",
