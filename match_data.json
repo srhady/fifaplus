@@ -3,78 +3,13 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "09:15:18 AM 27-05-2026",
-        "total_live": 1,
+        "last_update_time": "01:30:23 PM 27-05-2026",
+        "total_live": 0,
         "total_upcoming": 0
     },
     "matches": [
         {
-            "id": "a3a22f0d-d3dd-44b8-a7a4-b5cb043ae5da",
-            "channelId": "fifa-tournaments",
-            "catalogRedirectId": "a3a22f0d-d3dd-44b8-a7a4-b5cb043ae5da",
-            "catalogRedirectType": "EVENT",
-            "standardTitle": "Wotton FC v Bagatelle FC | BFA Premier League 2026",
-            "category": "livestream",
-            "urlSlug": "wotton-fc-vs-bagatelle-fc",
-            "backdropUri": "https://cdn.plus.fifa.com/images/public/cms/f9/fc/5b/ae/f9fc5bae-7cbc-4802-a3c3-a6a0be479692.png",
-            "wideCoverUrl": "https://cdn.plus.fifa.com/images/public/cms/62/2d/48/89/622d4889-80b4-4284-aeda-de7b4eb0e0e5.png",
-            "freeMode": "FREE_ADS",
-            "title": "Wotton FC v Bagatelle FC | BFA Premier League 2026",
-            "titleTemplateValues": {
-                "publisher-channel": "MA | Barbados | BFA Premier League 2026 (Channel)",
-                "stadium": "BFA Technical Centre",
-                "association": "Barbados",
-                "match": "Wotton FC v Bagatelle FC",
-                "publisher": "MA | Barbados",
-                "team:wotton-fc": "Wotton FC",
-                "global-stage": "Round 18",
-                "stage": "Regular Season",
-                "team:bagatelle-fc": "Bagatelle FC",
-                "city": "Saint Michael",
-                "competition": "BFA Premier League",
-                "country": "Barbados",
-                "season": "BFA Premier League 2026",
-                "video-type": "Live Streams",
-                "organizer": "Barbados",
-                "organizer-country": "Barbados"
-            },
-            "startDate": "2026-05-27T00:50:00Z",
-            "endDate": "2026-05-27T03:30:00Z",
-            "ctxMetadata": {
-                "kickOffTime": "2026-05-27T01:00:00Z"
-            },
-            "isRegistrationRequired": false,
-            "shownPrices": null,
-            "shownPrice": null,
-            "status": "started",
-            "template": [
-                {
-                    "kind": "title",
-                    "p": 0,
-                    "value": "Wotton FC v Bagatelle FC"
-                },
-                {
-                    "kind": "subtitle",
-                    "p": 0,
-                    "value": "BFA Premier League 2026"
-                },
-                {
-                    "kind": "caption",
-                    "p": 0,
-                    "value": "Round 18"
-                },
-                {
-                    "kind": "caption",
-                    "p": 1,
-                    "value": "Barbados"
-                }
-            ],
-            "stream_data": {
-                "mpd_link": "https://d7pd9oqdl4d44.cloudfront.net/2026_05_25_12_23_18_8c57ac9d-19f3-46e1-9760-84b66d28aa27/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779842940",
-                "decryption_keys": [
-                    "dfc3d04347163265a6916000158424ad:fde2c7c99686168a3acf21b4eded1db8"
-                ]
-            }
+            "status": "No matches available for now"
         }
     ]
 }
