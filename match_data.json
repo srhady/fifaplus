@@ -3,7 +3,7 @@
         "name": "Fifa Plus Live Events",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "05:45:16 AM 27-05-2026",
+        "last_update_time": "06:00:24 AM 27-05-2026",
         "total_live": 3,
         "total_upcoming": 3
     },
@@ -242,7 +242,7 @@
                 "organizer": "Anguilla",
                 "organizer-country": "Anguilla"
             },
-            "startDate": "2026-05-26T23:50:00Z",
+            "startDate": "2026-05-27T00:05:00Z",
             "endDate": "2026-05-27T02:30:00Z",
             "ctxMetadata": {
                 "kickOffTime": "2026-05-27T00:00:00Z"
