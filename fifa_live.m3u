@@ -1,13 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 08:45:19 AM 27-05-2026
+#last update time: 09:00:27 AM 27-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/db/c7/91/23/dbc79123-68a2-40ab-ad81-ae7f1bad1ce7.png" group-title="FIFA Live", Unistars v Jong Aruba | Division Honor 2025-26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1b3f9267dff132e4aebb2956c4177421:9de06b93a89b7546e25da5c6469e184c
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_25_07_54_38_45cc56af-efc1-4eff-aec4-33bbeb5c9b50/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779841140
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/62/2d/48/89/622d4889-80b4-4284-aeda-de7b4eb0e0e5.png" group-title="FIFA Live", Wotton FC v Bagatelle FC | BFA Premier League 2026
 #KODIPROP:inputstream.adaptive.license_type=clearkey
